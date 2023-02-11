@@ -1,11 +1,18 @@
 2023-02-11 23:01 Update
 
-### 1.Install apk（安装观看软件）
+### 自带直播源的apk（装了就能看，有大佬维护直播源）
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★
+* [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"}
+* [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"}
+
+### 没有直播源的apk（自定义电视频道）
+
+#### 1.Install apk（安装观看软件）
+
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
 
 
-### 2.Find IPTV Source（找到直播源）
+#### 2.Find IPTV Source（找到直播源）
 
 `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt` 月光寶盒PRO直播源<br/>
 `https://tvsee.github.io/diyp/tv.txt`<br/>
@@ -28,7 +35,7 @@
 `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
 `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
 
-### 3.Input EPG（导入节目信息）
+#### 3.Input EPG（导入节目信息）
 `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
 
 <hr />
