@@ -1,5 +1,5 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: iptvindex<br/>com
-description: Find more iptv!
+title: IPTVindex<br/>com
+description: 发现更多直播源！<br/>Find more iptv!
