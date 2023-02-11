@@ -1,8 +1,10 @@
      2023-02-11 20:38 更新 | ctrl+F 快速寻找
 
-[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
+****①install apk
+****②find iptv source
+****③put source into apk and enjoy
 
-* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★ - 需与直播源共同食用<br/>
+* [DIYP影音各种版本](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★ - 需与直播源共同食用<br/>
 ①稳定直播源↓↓↓<br/>
 `https://tvsee.github.io/diyp/tv.txt`<br/>
 `https://iptv-org.github.io/iptv/index.nsfw.m3u`<br/>
