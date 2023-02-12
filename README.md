@@ -1,2 +1,2 @@
-# iptv
-watch iptv over the world
+# IPTVindex.com
+Enjoy IPTV!
