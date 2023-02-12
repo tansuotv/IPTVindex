@@ -1,4 +1,4 @@
-2023-02-11 23:01 Update
+2023-02-11 23:01 Update <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><p><span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span> </span></p>
 
 ### 自带直播源的apk（装了就能看，有大佬维护直播源）
 
@@ -37,8 +37,3 @@
 
 #### 3.Input EPG（导入节目信息）
 `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
-
-<hr />
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p align="left"><span id="busuanzi_container_site_pv">IPTVindex.com Views:<span id="busuanzi_value_site_pv"></span> </span></p>
