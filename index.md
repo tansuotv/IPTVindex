@@ -20,7 +20,7 @@
 | [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"} | [云海电视](http://www.yunhitv.com/){:target="_blank"} | [秒看电视](http://miaokantv.cn/){:target="_blank"} |
 | :---: | :---: | :---: |
 | [**小马直播**](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} | [**蚂蚁直播**](https://tansuo.lanzoub.com/iRg6I0ky227g){:target="_blank"} | [**电视家**](https://teyonds.lanzouw.com/i4rjP0lo6o9a){:target="_blank"} |
-| [**野火直播**](https://teyonds.lanzouw.com/idcmK0d2njyh){:target="_blank"} | [**91看电视**](https://teyonds.lanzouw.com/iLE0J0lgpsab){:target="_blank"} | [**超级iTV**](https://teyonds.lanzouw.com/imt0N09b6akh{:target="_blank"} |
+| [**野火直播**](https://teyonds.lanzouw.com/idcmK0d2njyh){:target="_blank"} | [**91看电视**](https://teyonds.lanzouw.com/iLE0J0lgpsab){:target="_blank"} | [**超级iTV**](https://teyonds.lanzouw.com/imt0N09b6akh){:target="_blank"} |
 
 ### 没有直播源apk（自己找源，自定义电视频道列表）  
 > #### 1.Install apk（安装观看软件）  
