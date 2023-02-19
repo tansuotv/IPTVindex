@@ -2,20 +2,20 @@
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-# 看电视直播
+## 看电视直播>>>>>>>>>>>>>>>>>
 
-## 自带直播源的apk（装了就能看，有大佬维护直播源）
+### 自带直播源的apk（装了就能看，有大佬维护直播源）
 
 * [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"}
 * [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"}
 
-## 没有直播源的apk（自定义电视频道）
+### 没有直播源的apk（自定义电视频道）
 
-### 1.Install apk（安装观看软件）
+#### 1.Install apk（安装观看软件）
 
 * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
 
-### 2.Find IPTV Source（找到直播源）
+#### 2.Find IPTV Source（找到直播源）
 
 `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt` 月光寶盒PRO直播源<br/>
 `https://tvsee.github.io/diyp/tv.txt`<br/>
@@ -38,18 +38,22 @@
 `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
 `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
 
-### 3.Input EPG（导入节目表信息）
+#### 3.Input EPG（导入节目表信息）
 `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
+
+[2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-# 看影视点播
+## 看影视点播>>>>>>>>>>>>>>>>>
 
-## 视频：安卓手机/电视/盒子
+### 视频：安卓手机/电视/盒子
 
-* [<font color=red>探索TV安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
+* <font color=red>大佬应用集合★★★</font>
 
-* [太阳网盘★★★](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
+* [<font color=red>IPTVindex</font>安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
+
+* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
 
 * [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"}
 
@@ -59,28 +63,32 @@
 
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
 
-* [<font color=red>阿虚同学的储物间★★★</font>](https://axutongxue.com/){:target="_blank"}
+* [<font color=red>阿虚同学的储物间</font>](https://axutongxue.com/){:target="_blank"}
 
-* 支持阿里云盘的TV播放器：[<font color=red>阿里云盘TV★★★</font>](https://aliyunpantv.gitlab.io/){:target="_blank"} [<font color=red>小白云盘TV★★★</font>](https://crazynoby.github.io/){:target="_blank"}
+* <font color=red>稳定的阿里云盘★★★</font>
+
+* 支持阿里云盘的TV播放器：[<font color=red>阿里云盘TV</font>](https://aliyunpantv.gitlab.io/){:target="_blank"} [<font color=red>小白云盘TV★★★</font>](https://crazynoby.github.io/){:target="_blank"}
 
 * 阿里云盘影视资源站：[<font color=red>阿里云盘资源1</font>](https://pan666.cn/){:target="_blank"} [<font color=red>阿里云盘资源2</font>](https://t.me/zaihuayun){:target="_blank"} [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
+
+* <font color=red>神奇的TVBox★★★</font>
 
 * [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
 
 * [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
+我常用的接口————————<br/>
 [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}<br/>
-[云星接口★★★](https://www.moil.cc/10.html){:target="_blank"}<br/>
+[云星接口](https://www.moil.cc/10.html){:target="_blank"}<br/>
 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`<br/>
 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`<br/>
 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`<br/>
 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`<br/>
 [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
-我常用的接口————————<br/>
-`http://52bsj.vip:98/wuai` 吾爱接口<br/>
-`http://52bsj.vip:98/18dxwoai` 吾爱接口18版<br/>
-`https://hutool.ml/tang` 唐三接口<br/>
-`https://神器每日推送.tk/pz.json` 神器接口<br/>
-`http://饭太硬.ga/x/o.json` 饭太硬接口<br/>
+吾爱接口`http://52bsj.vip:98/wuai`<br/>
+吾爱接口18版`http://52bsj.vip:98/18dxwoai`<br/>
+唐三接口`https://hutool.ml/tang`<br/>
+神器接口`https://神器每日推送.tk/pz.json`<br/>
+饭太硬接口`http://饭太硬.ga/x/o.json`<br/>
 其他更多接口————————<br/>
 `https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`<br/>
 `https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`<br/>
@@ -114,8 +122,8 @@
 `https://leezn.github.io/TVBox/py.json`<br/>
 `https://leezn.github.io/TVBox/js.json`<br/>
 
-* <font color=red>影视采集</font>
-[红牛资源1080p★★★](https://hongniuziyuan.com){:target="_blank"}<br/>
+* <font color=red>影视采集★★★</font>
+[红牛资源1080p](https://hongniuziyuan.com){:target="_blank"}<br/>
 [无尽资源](https://www.wujinzy.com){:target="_blank"}
 
 * 剧荒？不可能！<br/>
@@ -144,35 +152,6 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 直播：安卓手机/电视/盒子
-
-* [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
-
-* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★ - 需与直播源共同食用<br/>
-①稳定直播源↓↓↓<br/>
-`https://tvsee.github.io/diyp/tv.txt`<br/>
-`https://iptv-org.github.io/iptv/index.nsfw.m3u`<br/>
-`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
-`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
-月光寶盒PRO直播源 `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`<br/>
-[<font color=red>直播源汇总</font>](https://zb.v1.mk/){:target="_blank"}★★★<br/>
-②EPG节目信息接口↓↓↓<br/>
-`http://epg.51zmt.top:8000/api/diyp/` [EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
-③[全球IPTV直播源↓↓↓](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表<br/>
-`https://iptv-org.github.io/iptv/index.m3u`<br/>
-`https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)<br/>
-`https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)<br/>
-`https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)<br/>
-`https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)<br/>
-`https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)<br/>
-`https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)<br/>
-`https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)<br/>
-`https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)<br/>
-`https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)<br/>
-`https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)<br/>
-`https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
-`https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
-
 * [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播
 
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源使用
@@ -183,9 +162,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
 
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 音乐
+## 音乐>>>>>>>>>>>>>>>>>
 
 * **Spotify全家桶**★★<br/>
 [<font color=red>如何在 PC/Mac 上破解 Spotify Premium [2023 年最佳方法]</font>](https://www.tunefab.com/zh-CN/spotify/spotify-cracked-pc.html){:target="_blank"}<br/>
@@ -203,7 +181,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 游戏
+## 游戏>>>>>>>>>>>>>>>>>
 
 * [<font color=red>小霸王</font>](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线
 
@@ -211,11 +189,11 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [红警在线](https://cncnet.org/red-alert){:target="_blank"}
 
-## 梯子
+## 梯子>>>>>>>>>>>>>>>>>
 
 * [GreatWall](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码: `f22q`
 
-## 阅读及其他
+## 阅读及其他>>>>>>>>>>>>>>>>>
 
 * [开源阅读APK★★](https://github.com/gedoor/legado/releases){:target="_blank"} - [精品书源★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站★](https://github.com/XIU2/Yuedu){:target="_blank"}
 
@@ -233,7 +211,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 视频：PC电脑
+## 视频：PC电脑>>>>>>>>>>>>>>>>>
 
 > #### 在线即点即看
 
@@ -337,7 +315,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 壁纸
+## 壁纸>>>>>>>>>>>>>>>>>
 
 * [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
 
@@ -351,7 +329,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [全面屏手机壁纸](https://m.bcoderss.com/){:target="_blank"} - 手机壁纸站
 
-## 软件应用：PC电脑
+## 软件应用：PC电脑>>>>>>>>>>>>>>>>>
 
 > #### 精品软件网站
 
@@ -463,7 +441,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## DDDD各种接口/节目源
+## DDDD各种接口/节目源>>>>>>>>>>>>>>>>>
 
 > #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
 
