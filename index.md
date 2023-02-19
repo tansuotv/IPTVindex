@@ -13,8 +13,7 @@
 
 ## **电视直播**
 
-### 自带直播源apk
-| 安装了就能看 | 有大佬维护直播源 |
+### 自带直播源apk（装了就能看，有大佬维护直播源）
 | --- | --- |
 | [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"} | [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} |
 | [云海电视](http://www.yunhitv.com/){:target="_blank"} | [秒看电视](http://miaokantv.cn/){:target="_blank"} |
