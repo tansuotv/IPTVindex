@@ -2,50 +2,43 @@
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 看电视直播>>>>>>>>>>>>>>>>>
+## **看电视直播**
 
-### 自带直播源的apk（装了就能看，有大佬维护直播源）
+> ### 自带直播源的apk（装了就能看，有大佬维护直播源）
+> * [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"}
+> * [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"}
 
-* [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"}
-* [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"}
+> ### 没有直播源的apk（自定义电视频道）
+> #### 1.Install apk（安装观看软件）
+> * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
+> #### 2.Find IPTV Source（找到直播源）
+> `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt` 月光寶盒PRO直播源  
+> `https://tvsee.github.io/diyp/tv.txt`  
+> `https://iptv-org.github.io/iptv/index.nsfw.m3u`  
+> `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`  
+> `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`  
+> [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表  
+> `https://iptv-org.github.io/iptv/index.m3u`  
+> `https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)<br/>
+> `https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)<br/>
+> `https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)<br/>
+> `https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)<br/>
+> `https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)<br/>
+> `https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)<br/>
+> `https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)<br/>
+> `https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)<br/>
+> `https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)<br/>
+> `https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)<br/>
+> `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
+> `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
+> #### 3.Input EPG（导入节目表信息）
+> `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
 
-### 没有直播源的apk（自定义电视频道）
-
-#### 1.Install apk（安装观看软件）
-
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
-
-#### 2.Find IPTV Source（找到直播源）
-
-`https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt` 月光寶盒PRO直播源<br/>
-`https://tvsee.github.io/diyp/tv.txt`<br/>
-`https://iptv-org.github.io/iptv/index.nsfw.m3u`<br/>
-`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
-`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
-
-[全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表<br/>
-`https://iptv-org.github.io/iptv/index.m3u`<br/>
-`https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)<br/>
-`https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)<br/>
-`https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)<br/>
-`https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)<br/>
-`https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)<br/>
-`https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)<br/>
-`https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)<br/>
-`https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)<br/>
-`https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)<br/>
-`https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)<br/>
-`https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
-`https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
-
-#### 3.Input EPG（导入节目表信息）
-`http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
-
-[2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
+> [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 看影视点播>>>>>>>>>>>>>>>>>
+## **看影视点播**
 
 ### 视频：安卓手机/电视/盒子
 
