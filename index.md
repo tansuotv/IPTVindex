@@ -6,7 +6,7 @@
 
 ## **影视点播 即点即看**
 
-| [泥视频](https://www.nivod.tv){:target="_blank"}<div style="width:33%"> | [茶杯狐](https://www.cupfox.app){:target="_blank"}<div style="width:33%"> | [BL解析](https://svip.bljiex.cc){:target="_blank"}<div style="width:34%"> |
+| [泥视频](https://www.nivod.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [BL解析](https://svip.bljiex.cc){:target="_blank"} |
 | :---: | :----: | :---: |
 | [影视工场](https://www.ysgc.fun){:target="_blank"} | [吼吼](https://hoho.tv){:target="_blank"} | [DramasQ](https://dramasq.biz){:target="_blank"} |
 | [剧迷](https://gimytv.com){:target="_blank"} | [独播库](https://www.duboku.tv){:target="_blank"} | [NO视频](https://www.novipnoad.com){:target="_blank"} |
@@ -17,7 +17,7 @@
 
 ### 自带直播源apk（装了就能看，有大佬维护直播源）
 
-| [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"}<div style="width:33%"> | [云海电视](http://www.yunhitv.com/){:target="_blank"}<div style="width:33%"> | [秒看电视](http://miaokantv.cn/){:target="_blank"}<div style="width:34%"> |
+| [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"} | [云海电视](http://www.yunhitv.com/){:target="_blank"} | [秒看电视](http://miaokantv.cn/){:target="_blank"} |
 | :---: | :---: | :---: |
 | [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} |  |  |
 
