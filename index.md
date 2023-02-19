@@ -1,7 +1,6 @@
     2023-02-19 16:16 更新 | ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
----
 
 ## **影视点播 即点即看**
 
@@ -14,13 +13,13 @@
 
 ## **电视直播**
 
-### 自带直播源的apk（装了就能看，有大佬维护直播源）
-> [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"}
-> [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"}  
-> [云海电视](http://www.yunhitv.com/){:target="_blank"}
-> [秒看电视](http://miaokantv.cn/){:target="_blank"}
+### 自带直播源apk
+| 安装了就能看 | 有大佬维护直播源 |
+| --- | --- |
+| [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"} | [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} |
+| [云海电视](http://www.yunhitv.com/){:target="_blank"} | [秒看电视](http://miaokantv.cn/){:target="_blank"} |
 
-### 没有直播源的apk（自定义电视频道）
+### 没有直播源apk（自定义电视频道）
 > #### 1.Install apk（安装观看软件）
 > [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
 
@@ -53,7 +52,9 @@
 > 解压密码`tansuo.tv`
 
 ***
+
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
+
 ***
 
 ## **影视点播**
@@ -151,7 +152,9 @@
 > [LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html){:target="_blank"}<br/>
 
 ***
+
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
+
 ***
 
 > [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播
@@ -160,9 +163,9 @@
 
 > [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
-> [影视工场TV](https://down.ysgc.xyz/?ysgc){:target="_blank"}★★
+> [影视工场TV](https://down.ysgc.xyz/){:target="_blank"}
 
-> [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
+> [泥视频（安卓）](https://www.nivod.tv/download/apk/download.html){:target="_blank"} [泥视频（TV）](https://www.nivod.tv/download/TV/download.html){:target="_blank"}
 
 
 ## **音乐**
