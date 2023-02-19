@@ -8,7 +8,7 @@
 
 | [泥视频](https://www.nivod.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [BL解析](https://svip.bljiex.cc){:target="_blank"} |
 | :---: | :----: | :---: |
-| [**影视工场**](https://www.ysgc.fun){:target="_blank"} | [**吼吼**](https://hoho.tv){:target="_blank"} | [**DramasQ**](https://dramasq.biz){:target="_blank"} |
+| [**影视工场**](https://www.ysgc.fun){:target="_blank"} | [**吼吼**](https://hoho.tv){:target="_blank"} | [**8K影视**](http://www.8kvod.com/){:target="_blank"} |
 | [**剧迷**](https://gimytv.com){:target="_blank"} | [**独播库**](https://www.duboku.tv){:target="_blank"} | [**NO视频**](https://www.novipnoad.com){:target="_blank"} |
 | [**555电影**](https://www.555dy.com){:target="_blank"} | [**天天影院**](https://www.ttkb.cc){:target="_blank"} | [**天空影视**](https://www.tkznp.com){:target="_blank"} |
 | [**大师兄影视**](https://dsxys.top){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**喵喵电影网**](https://www.2345ka.com/){:target="_blank"} |
@@ -188,6 +188,8 @@
 > [影视工场TV](https://down.ysgc.xyz/){:target="_blank"}  
 
 > [泥视频（安卓）](https://www.nivod.tv/download/apk/download.html){:target="_blank"} [泥视频（TV）](https://www.nivod.tv/download/TV/download.html){:target="_blank"}  
+
+> [8K影视](https://wwm.lanzouj.com/iKIHw04ainja){:target="_blank"}  
 
 
 ## **音乐**
