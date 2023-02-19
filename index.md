@@ -5,19 +5,12 @@
 
 ## **影视点播 即点即看**
 
-| [<font color=red>泥巴影院</font>](https://www.nbyy.tv){:target="_blank"} | [<font color=red>茶杯狐</font>](https://www.cupfox.app){:target="_blank"} | [<font color=red>BL解析</font>](https://vip.bljiex.cc){:target="_blank"} |
+| [<font color=red>泥视频</font>](https://www.nivod.tv){:target="_blank"} | [<font color=red>茶杯狐</font>](https://www.cupfox.app){:target="_blank"} | [<font color=red>BL解析</font>](https://svip.bljiex.cc){:target="_blank"} |
 | --- | ---- | --- |
-| [影视工场](https://www.3434.tv){:target="_blank"} | [HOHO TV](https://hoho.tv){:target="_blank"} | [剧Q](https://dramasq.biz){:target="_blank"} |
-| [剧迷影音](https://gimytv.com){:target="_blank"} | [在线之家](www.zxzjtv.com){:target="_blank"} | [独播库](https://www.duboku.tv){:target="_blank"} |
-| [NO视频](https://www.novipnoad.com){:target="_blank"} | [555电影](https://www.5ying.fun){:target="_blank"} | [谍影网](https://tvdie.cc){:target="_blank"} |
-| [37OU电影](https://www.37ou.com){:target="_blank"} | [片吧影院](https://www.pianba.tv){:target="_blank"} | [嗯哩嗯哩](https://enlienli.com){:target="_blank"} |
-| [思乐影视](https://www.4ltv.com){:target="_blank"} | [天天影院](https://www.ttkb.cc){:target="_blank"} | [天空影视](https://www.tkys.tv){:target="_blank"} |
-| [大师兄影视](https://tv.ci){:target="_blank"} | [爱西西](https://aixixi.vip){:target="_blank"} | [剧嗨影院](https://www.juhi.cc){:target="_blank"} |
-| [思奇影视](https://www.siqitv.vip){:target="_blank"} | [凌云影视](https://www.lingyun.tv){:target="_blank"} | [欧乐影院](https://www.olevod.com){:target="_blank"} |
-| [555电影](https://www.o8tv.com){:target="_blank"} | [低端影视](https://ddys.tv){:target="_blank"} | [韩迷TV](https://www.hmtv.me){:target="_blank"} |
-| [MK影视](https://www.mkvdo.com){:target="_blank"} | [爱美剧网](https://www.mjw2020.com){:target="_blank"} | [鸭奈飞电影](https://yanetflix.com){:target="_blank"} |
-| [奈菲影视](https://www.nfmovies.com){:target="_blank"} | [真不卡影院](https://www.zhenbuka.fun){:target="_blank"} | [美剧热](https://meijure.com){:target="_blank"} |
-| [酷绘视频](https://www.kuhuiv.com){:target="_blank"} | - | - |
+| [影视工场](https://www.ysgc.fun){:target="_blank"} | [吼吼](https://hoho.tv){:target="_blank"} | [DramasQ](https://dramasq.biz){:target="_blank"} |
+| [剧迷](https://gimytv.com){:target="_blank"} |  | [独播库](https://www.duboku.tv){:target="_blank"} | [NO视频](https://www.novipnoad.com){:target="_blank"} |
+| [555电影](https://www.5ying.fun){:target="_blank"} | [天天影院](https://www.ttkb.cc){:target="_blank"} | [天空影视](https://www.tkznp.com){:target="_blank"} |
+| [大师兄影视](https://dsxys.top){:target="_blank"} | [555电影](https://www.o8tv.com){:target="_blank"} | [低端影视](https://ddys.tv){:target="_blank"} |
 
 ## **电视直播**
 
