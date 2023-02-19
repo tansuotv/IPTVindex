@@ -24,8 +24,9 @@
 
 ### 没有直播源apk（自己找源，自定义电视频道列表）  
 > #### 1.Install apk（安装观看软件）  
-> [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表  
+> [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} 根据自己的需求定制电视台列表  
 > [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} 配合全球IPTV播放源使用  
+> [TiviMate 汉化解锁付费版](http://az.87g.com/ar.tvplayer.tv.apk){:target="_blank"}  
   
 > #### 2.Find IPTV Source（寻找直播源）
 >   
