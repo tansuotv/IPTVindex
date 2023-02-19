@@ -91,7 +91,9 @@
 > <font color=red>神奇的TVBox★★★</font>
 > [TVBOX Github站](https://github.com/liu673cn/box){:target="_blank"}  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
->   
+> 内置接口的TVBox应用————————  
+> [小苹果影视盒子](https://liucn.lanzouf.com/i361g0il0bta){:target="_blank"}  
+> [蚂蚁影视4.0.4-2魔改版 如意TV EasyBox1.0.3(TVBox手机版)](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 > 我常用的接口————————  
 > [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
 > [云星接口](https://www.moil.cc/10.html){:target="_blank"}  
@@ -100,6 +102,9 @@
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
 > [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}  
+> 多仓接口`https://raw.liucn.cc/box/dm.txt`  
+> 开源自用接口1`https://raw.liucn.cc/box/m.json`  
+> 开源自用接口2`https://agit.ai/liucn/box/raw/branch/main/m.json`  
 > 吾爱接口`http://52bsj.vip:98/wuai`  
 > 吾爱接口18版`http://52bsj.vip:98/18dxwoai`  
 > 唐三接口`https://hutool.ml/tang`  
@@ -487,4 +492,4 @@
 ***
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p><font size=6><span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span> </span></font></p>
+<p><font size=2><span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span> </span></font></p>
