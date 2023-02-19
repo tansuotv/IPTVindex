@@ -5,9 +5,36 @@
 ***
 
 ## **影视点播 即点即看**
+<table>
+	<tr>
+		<td> [泥视频](https://www.nivod.tv){:target="_blank"} </td>
+		<td> [茶杯狐](https://www.cupfox.app){:target="_blank"} </td>
+        <td> [BL解析](https://svip.bljiex.cc){:target="_blank"} </td>
+ 	</tr>
+ 	<tr>
+ 		<td> [影视工场](https://www.ysgc.fun){:target="_blank"} </td>
+ 		<td> [吼吼](https://hoho.tv){:target="_blank"} </td>
+        <td> [DramasQ](https://dramasq.biz){:target="_blank"} </td>
+ 	</tr>
+    <tr>
+ 		<td> [剧迷](https://gimytv.com){:target="_blank"} </td>
+ 		<td> [独播库](https://www.duboku.tv){:target="_blank"} </td>
+        <td> [NO视频](https://www.novipnoad.com){:target="_blank"} </td>
+ 	</tr>
+    <tr>
+ 		<td> [555电影](https://www.555dy.com){:target="_blank"} </td>
+ 		<td> [天天影院](https://www.ttkb.cc){:target="_blank"} </td>
+        <td> [天空影视](https://www.tkznp.com){:target="_blank"} </td>
+ 	</tr>
+    <tr>
+ 		<td> [大师兄影视](https://dsxys.top){:target="_blank"} </td>
+ 		<td> [低端影视](https://ddys.tv){:target="_blank"} </td>
+        <td> 虚位以待 </td>
+ 	</tr>
+ </table>
 
 | [泥视频](https://www.nivod.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [BL解析](https://svip.bljiex.cc){:target="_blank"} |
-| --- | ---- | --- |
+| :---: | :----: | :---: |
 | [影视工场](https://www.ysgc.fun){:target="_blank"} | [吼吼](https://hoho.tv){:target="_blank"} | [DramasQ](https://dramasq.biz){:target="_blank"} |
 | [剧迷](https://gimytv.com){:target="_blank"} | [独播库](https://www.duboku.tv){:target="_blank"} | [NO视频](https://www.novipnoad.com){:target="_blank"} |
 | [555电影](https://www.555dy.com){:target="_blank"} | [天天影院](https://www.ttkb.cc){:target="_blank"} | [天空影视](https://www.tkznp.com){:target="_blank"} |
@@ -18,7 +45,7 @@
 ### 自带直播源apk（装了就能看，有大佬维护直播源）
 
 | [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"} | [云海电视](http://www.yunhitv.com/){:target="_blank"} | [秒看电视](http://miaokantv.cn/){:target="_blank"} |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} |  |  |
 
 ### 没有直播源apk（自己找源，自定义电视频道列表）  
