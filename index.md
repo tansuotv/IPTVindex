@@ -2,9 +2,11 @@
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
+***
+
 ## **影视点播 即点即看**
 
-| [<font color=red>泥视频</font>](https://www.nivod.tv){:target="_blank"} | [<font color=red>茶杯狐</font>](https://www.cupfox.app){:target="_blank"} | [<font color=red>BL解析</font>](https://svip.bljiex.cc){:target="_blank"} |
+| [泥视频](https://www.nivod.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [BL解析](https://svip.bljiex.cc){:target="_blank"} |
 | --- | ---- | --- |
 | [影视工场](https://www.ysgc.fun){:target="_blank"} | [吼吼](https://hoho.tv){:target="_blank"} | [DramasQ](https://dramasq.biz){:target="_blank"} |
 | [剧迷](https://gimytv.com){:target="_blank"} | [独播库](https://www.duboku.tv){:target="_blank"} | [NO视频](https://www.novipnoad.com){:target="_blank"} |
@@ -19,37 +21,46 @@
 | --- | --- | --- |
 | [小马直播](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} |  |  |
 
-### 没有直播源apk（自定义电视频道）
+### 没有直播源apk（自己找源，自定义电视频道列表）
 > #### 1.Install apk（安装观看软件）
 > [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
 
-> #### 2.Find IPTV Source（找到直播源）
-> 月光寶盒PRO直播源`https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`    
-> `https://tvsee.github.io/diyp/tv.txt`  
-> `https://iptv-org.github.io/iptv/index.nsfw.m3u`  
-> `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`  
+> #### 2.Find IPTV Source（寻找直播源）
+> 
+> 搜索特定台直播源地址
+> [电视直播源搜索引擎}(https://www.foodieguide.com/iptvsearch/){:target="_blank"}
+> [Yam Code](https://www.yamcode.com/trending){:target="_blank"}
+> [Streamtest](https://streamtest.in/logs){:target="_blank"}
+> [iptv-org](https://iptv-org.github.io/){:target="_blank"}
+> [biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv){:target="_blank"}
+> [最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90){:target="_blank"}
+> 
+> 偷懒的方法：找大佬的直播源接口
+> `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`（月光寶盒PRO直播源）
+> `https://tvsee.github.io/diyp/tv.txt`
+> `https://iptv-org.github.io/iptv/index.nsfw.m3u`
+> `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`
 > `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`
 > 
-> [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表  
-> `https://iptv-org.github.io/iptv/index.m3u`  
-> `https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)<br/>
-> `https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)<br/>
-> `https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)<br/>
-> `https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)<br/>
-> `https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)<br/>
-> `https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)<br/>
-> `https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)<br/>
-> `https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)<br/>
-> `https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)<br/>
-> `https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)<br/>
-> `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
-> `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
+> [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
+> `https://iptv-org.github.io/iptv/index.m3u`
+> `https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)
+> `https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)
+> `https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)
+> `https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)
+> `https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)
+> `https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)
+> `https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)
+> `https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)
+> `https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)
+> `https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)
+> `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)
+> `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)
 
 > #### 3.Input EPG（导入节目表信息）
 > `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
 
-> #### [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"}
-> 解压密码`tansuo.tv`
+### [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`
 
 ***
 
@@ -62,94 +73,96 @@
 ### 视频：安卓手机/电视/盒子
 
 > <font color=red>大佬应用集合★★★</font>
-> [<font color=red>IPTVindex</font>安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
+> [IPTVindex安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
 > [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
 > [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"}
 > [盒子地窖](http://www.wmsio.cn){:target="_blank"}
 > [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
 > [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
-> [<font color=red>阿虚同学的储物间</font>](https://axutongxue.com/){:target="_blank"}
+> [阿虚同学的储物间](https://axutongxue.com/){:target="_blank"}
 
 > <font color=red>稳定的阿里云盘★★★</font>
-> 支持阿里云盘的TV播放器：[<font color=red>阿里云盘TV</font>](https://aliyunpantv.gitlab.io/){:target="_blank"} [<font color=red>小白云盘TV★★★</font>](https://crazynoby.github.io/){:target="_blank"}
-> 阿里云盘影视资源站：[<font color=red>阿里云盘资源1</font>](https://pan666.cn/){:target="_blank"} [<font color=red>阿里云盘资源2</font>](https://t.me/zaihuayun){:target="_blank"} [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
+> 支持阿里云盘的TV播放器：[阿里云盘TV](https://aliyunpantv.gitlab.io/){:target="_blank"} [小白云盘TV](https://crazynoby.github.io/){:target="_blank"}
+> 阿里云盘影视资源站：[阿里云盘资源1](https://pan666.cn/){:target="_blank"} [阿里云盘资源2](https://t.me/zaihuayun){:target="_blank"} [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
 
 > <font color=red>神奇的TVBox★★★</font>
-> [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
-> [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
-> 我常用的接口————————<br/>
-> [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}<br/>
-> [云星接口](https://www.moil.cc/10.html){:target="_blank"}<br/>
-> 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`<br/>
-> 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`<br/>
-> 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`<br/>
-> 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`<br/>
-> [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
-> 吾爱接口`http://52bsj.vip:98/wuai`<br/>
-> 吾爱接口18版`http://52bsj.vip:98/18dxwoai`<br/>
-> 唐三接口`https://hutool.ml/tang`<br/>
-> 神器接口`https://神器每日推送.tk/pz.json`<br/>
-> 饭太硬接口`http://饭太硬.ga/x/o.json`<br/>
-> 其他更多接口————————<br/>
-> `https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`<br/>
-> `https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`<br/>
-> `http://byyds.top/w.txt`<br/>
-> `https://dxawi.github.io/0/0.json`<br/>
-> `https://download.kstore.space/download/2863/01.txt`<br/>
-> `https://liu673cn.github.io/box/m.json`<br/>
-> `https://raw.liucn.cc/box/m.json`<br/>
-> `https://raw.liucn.cc/box/xiaopingguo.json`<br/>
-> `http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`<br/>
-> `https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`<br/>
-> `https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt`<br/>
-> `https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
-> `https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`<br/>
-> `http://js.134584.xyz/json/pp87.json`<br/>
-> `https://pastebin.com/raw/gtbKvnE1`<br/>
-> `https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt`<br/>
-> `https://raw.iqiq.io/liu673cn/box/main/m.json`<br/>
-> `https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json`<br/>
-> `https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json`<br/>
-> `https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json`<br/>
-> `https://wds.ecsxs.com/223843.txt`<br/>
-> `https://pastebin.com/raw/gtbKvnE1`<br/>
-> `https://pastebin.com/raw/sbPpDm9G`<br/>
-> `https://agit.ai/hu/hcr/raw/branch/master/MMM.txt`<br/>
-> `https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
-> `https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json`<br/>
-> `https://dxawi.github.io/0/0.json`<br/>
-> `https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json`<br/>
-> `https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json`<br/>
-> `https://leezn.github.io/TVBox/py.json`<br/>
-> `https://leezn.github.io/TVBox/js.json`<br/>
+> [TVBOX Github站](https://github.com/liu673cn/box){:target="_blank"}
+> [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}
+> 
+> 我常用的接口————————
+> [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}
+> [云星接口](https://www.moil.cc/10.html){:target="_blank"}
+> 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`
+> 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`
+> 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`
+> 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`
+> [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}
+> 吾爱接口`http://52bsj.vip:98/wuai`
+> 吾爱接口18版`http://52bsj.vip:98/18dxwoai`
+> 唐三接口`https://hutool.ml/tang`
+> 神器接口`https://神器每日推送.tk/pz.json`
+> 饭太硬接口`http://饭太硬.ga/x/o.json`
+> 
+> 其他更多接口————————
+> `https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`
+> `https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`
+> `http://byyds.top/w.txt`
+> `https://dxawi.github.io/0/0.json`
+> `https://download.kstore.space/download/2863/01.txt`
+> `https://liu673cn.github.io/box/m.json`
+> `https://raw.liucn.cc/box/m.json`
+> `https://raw.liucn.cc/box/xiaopingguo.json`
+> `http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`
+> `https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`
+> `https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt`
+> `https://freed.yuanhsing.cf/TVBox/meowcf.json`
+> `https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`
+> `http://js.134584.xyz/json/pp87.json`
+> `https://pastebin.com/raw/gtbKvnE1`
+> `https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt`
+> `https://raw.iqiq.io/liu673cn/box/main/m.json`
+> `https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json`
+> `https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json`
+> `https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json`
+> `https://wds.ecsxs.com/223843.txt`
+> `https://pastebin.com/raw/gtbKvnE1`
+> `https://pastebin.com/raw/sbPpDm9G`
+> `https://agit.ai/hu/hcr/raw/branch/master/MMM.txt`
+> `https://freed.yuanhsing.cf/TVBox/meowcf.json`
+> `https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json`
+> `https://dxawi.github.io/0/0.json`
+> `https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json`
+> `https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json`
+> `https://leezn.github.io/TVBox/py.json`
+> `https://leezn.github.io/TVBox/js.json`
 
 > <font color=red>影视采集★★★</font>
-> [红牛资源1080p](https://hongniuziyuan.com){:target="_blank"}<br/>
+> [红牛资源1080p](https://hongniuziyuan.com){:target="_blank"}
 > [无尽资源](https://www.wujinzy.com){:target="_blank"}
 
-> 剧荒？不可能！<br/>
-> [①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签★★★<br/>
-> [②猫眼专业版](https://piaofang.maoyan.com/dashboard){:target="_blank"} 实时数据：电影票房+网播热度+电视收视<br/>
-> [③Trakt](https://trakt.tv){:target="_blank"} 追踪、整理、发现<br/>
-> [④TMDB](https://www.themoviedb.org){:target="_blank"}<br/>
-> [⑤IMDB](https://www.imdb.com){:target="_blank"}<br/>
+> <font color=red>剧荒？不可能！★★★</font>
+> [①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签
+> [②猫眼专业版](https://piaofang.maoyan.com/dashboard){:target="_blank"} 实时数据：电影票房+网播热度+电视收视
+> [③Trakt](https://trakt.tv){:target="_blank"} 追踪、整理、发现
+> [④TMDB](https://www.themoviedb.org){:target="_blank"}
+> [⑤IMDB](https://www.imdb.com){:target="_blank"}
 > [⑥Bangumi 番组计划](https://bangumi.tv/){:target="_blank"} 动漫、书籍、音乐、游戏、三次元
 
 > <font color=red>YouTube★★★</font>
-> **①YouTube Vanced**<font color=red>已停止更新</font><br/>
-> [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
-> [下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q`<br/>
-> 安装方法<br/>
-> 先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced<br/>
-> 详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}<br/>
-> **②NewPipe**<br/>
-> [官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}<br/>
-> YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充<br/>
-> **③Pute Tuber**<br/>
-> [官网](https://www.puretuber.com/){:target="_blank"}<br/>
-> **④重置版**<br/>
-> [APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced){:target="_blank"}<br/>
-> [LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html){:target="_blank"}<br/>
+> **①YouTube Vanced已停止更新**
+> [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}
+> [下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q`
+> 安装方法
+> 先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced
+> 详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}
+> **②NewPipe**
+> [官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}
+> YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
+> **③Pute Tuber**
+> [官网](https://www.puretuber.com/){:target="_blank"}
+> **④重置版**
+> [APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced){:target="_blank"}
+> [LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html){:target="_blank"}
 
 ***
 
@@ -157,7 +170,7 @@
 
 ***
 
-> [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播
+> [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播
 
 > [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源使用
 
@@ -170,7 +183,7 @@
 
 ## **音乐**
 
-> **Spotify全家桶**★★<br/>
+> **Spotify全家桶**★★
 > [<font color=red>如何在 PC/Mac 上破解 Spotify Premium [2023 年最佳方法]</font>](https://www.tunefab.com/zh-CN/spotify/spotify-cracked-pc.html){:target="_blank"}<br/>
 > [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}<br/>
 > [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
