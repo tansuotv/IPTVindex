@@ -1,4 +1,4 @@
-    2023-02-19 17:19 更新 | ctrl+F 搜索
+    2023-02-19 18:34 更新 | ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -28,7 +28,7 @@
 > #### 2.Find IPTV Source（寻找直播源）
 >   
 > 勤劳的小蜜蜂：搜索特定台直播源地址  
-> [电视直播源搜索引擎}(https://www.foodieguide.com/iptvsearch/){:target="_blank"}  
+> [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/){:target="_blank"}  
 > [Yam Code](https://www.yamcode.com/trending){:target="_blank"}  
 > [Streamtest](https://streamtest.in/logs){:target="_blank"}  
 > [iptv-org](https://iptv-org.github.io/){:target="_blank"}  
@@ -82,8 +82,9 @@
 > [阿虚同学的储物间](https://axutongxue.com/){:target="_blank"}  
 
 > <font color=red>稳定的阿里云盘★★★</font>
-> 支持阿里云盘的TV播放器：[阿里云盘TV](https://aliyunpantv.gitlab.io/){:target="_blank"} [小白云盘TV](https://crazynoby.github.io/){:target="_blank"}  
-> 阿里云盘影视资源站
+> 支持阿里云盘的TV播放器  
+> [当贝播放器](https://www.dangbei.com/player/){:target="_blank"} [阿里云盘TV](https://aliyunpantv.gitlab.io/){:target="_blank"} [小白云盘TV](https://crazynoby.github.io/){:target="_blank"}  
+> 阿里云盘影视资源站  
 > [阿里云盘资源1](https://pan666.cn/){:target="_blank"} [阿里云盘资源2](https://t.me/zaihuayun){:target="_blank"}  
 > [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}  
 
@@ -185,27 +186,29 @@
 
 ## **音乐**
 
-> **Spotify全家桶**★★
-> [<font color=red>如何在 PC/Mac 上破解 Spotify Premium [2023 年最佳方法]</font>](https://www.tunefab.com/zh-CN/spotify/spotify-cracked-pc.html){:target="_blank"}<br/>
-> [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}<br/>
-> [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
+> <font color=red>Spotify全家桶★★★</font>  
+> [<font color=red>如何在 PC/Mac 上破解 Spotify Premium [2023 年最佳方法]</font>](https://www.tunefab.com/zh-CN/spotify/spotify-cracked-pc.html){:target="_blank"}  
+> [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}  
+> [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`  
 > [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
 
-> [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器
+> [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} 好用的安卓本地音乐播放器
 
-> [歌词适配](https://gcsp.lanzoux.com/b0e895h2b?w1=){:target="_blank"} - 你要的音乐这里都有★★★
+> [歌词适配](https://gcsp.lanzoux.com/b0e895h2b?w1=){:target="_blank"} 你要的音乐这里都有
 
-> [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}
+> [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}
 
-> <font color=red>卡音</font> - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
+> 卡音 [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
+
 ***
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 ***
+
 ## **游戏**
 
-> [<font color=red>小霸王</font>](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线
+> [小霸王](https://www.yikm.net/){:target="_blank"} 红白机 FC在线游戏 街机游戏 街机在线
 
-> [扫雷游戏在线玩](https://www.saolei123.com/){:target="_blank"} - 还有五子棋、黑白棋、塔防、数独、找色差、2048、迷宫
+> [扫雷游戏在线玩](https://www.saolei123.com/){:target="_blank"} 还有五子棋、黑白棋、塔防、数独、找色差、2048、迷宫
 
 > [红警在线](https://cncnet.org/red-alert){:target="_blank"}
 
@@ -215,7 +218,10 @@
 
 ## **阅读及其他**
 
-> [开源阅读APK★★](https://github.com/gedoor/legado/releases){:target="_blank"} - [精品书源★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站★](https://github.com/XIU2/Yuedu){:target="_blank"}
+> <font color=red>开源阅读APK★★★</font>  
+> [官网](https://github.com/gedoor/legado/releases){:target="_blank"}  
+> [精品书源](https://yuedu.xiu2.xyz/){:target="_blank"}扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入  
+> [GitHub站](https://github.com/XIU2/Yuedu){:target="_blank"}
 
 > <font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
 
@@ -225,25 +231,22 @@
 
 > [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-> [<font color=red>李跳跳 派大星 2.01最新版官方下载</font>](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告<br/>长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
+> [<font color=red>李跳跳 派大星 2.01最新版官方下载</font>](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告  
+> 长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
 
-> [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
+> [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} 根据机型选择不同安装和配置文件
+
 ***
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 ***
+
 ## **视频：PC电脑**
-
-> #### 在线即点即看
-
-
 
 > #### 影视搜索推荐
 
-* [电影淘淘](https://www.dianyingtaotao.com){:target="_blank"} - 专业电影搜索引擎
+* [电影淘淘](https://www.dianyingtaotao.com){:target="_blank"} 专业电影搜索引擎
 
-* [影猫推荐](https://www.mvcat.com){:target="_blank"} - 电影分类推荐
-
-* [<font color=red>VIP视频在线解析★★超级好用</font>](https://svip.bljiex.cc/){:target="_blank"}
+* [影猫推荐](https://www.mvcat.com){:target="_blank"} 电影分类推荐
 
 > #### 影视网盘下载
 
@@ -255,89 +258,91 @@
 
 > #### 视听应用精选
 
-* [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器★★
+* [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器
 
-* [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
+* [恒星播放器](https://www.stellarplayer.com){:target="_blank"} 视觉享受 随心而动
 
-* PotPlayer视频播放器[官网](https://potplayer.daum.net/){:target="_blank"} - [另一个网址](https://potplayer.tv/?lang=zh_CN){:target="_blank"}★
+* PotPlayer视频播放器[官网](https://potplayer.daum.net/){:target="_blank"} [另一个网址](https://potplayer.tv/?lang=zh_CN){:target="_blank"}★
 
-* [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} - 高颜值第三方网易云
+* [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} 高颜值第三方网易云
 
-* [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
+* [Listen1](https://github.com/listen1){:target="_blank"} 搜歌，听歌，就用 Listen1
 
-* [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
+* [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} 付费无损音乐下载神器
 
+***
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
+***
 
-## 壁纸>>>>>>>>>>>>>>>>>
+## **壁纸**
 
-* [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
+* [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} 高清壁纸
 
-* [WallHere壁纸库](https://wallhere.com/){:target="_blank"} - 世界著名的壁纸网站
+* [WallHere壁纸库](https://wallhere.com/){:target="_blank"} 世界著名的壁纸网站
 
-* [资源帝电脑壁纸](http://bizhi.ziyuandi.cn/){:target="_blank"} - 4K壁纸每日更新
+* [资源帝电脑壁纸](http://bizhi.ziyuandi.cn/){:target="_blank"} 4K壁纸每日更新
 
-* [彼岸桌面](http://www.netbian.com/){:target="_blank"} - 高清壁纸下载，还有手机壁纸哦
+* [彼岸桌面](http://www.netbian.com/){:target="_blank"} 高清壁纸下载，还有手机壁纸哦
 
-* [4K电脑壁纸](https://4k.wpcoder.cn/){:target="_blank"} - 高清4K电脑壁纸
+* [4K电脑壁纸](https://4k.wpcoder.cn/){:target="_blank"} 高清4K电脑壁纸
 
-* [全面屏手机壁纸](https://m.bcoderss.com/){:target="_blank"} - 手机壁纸站
+* [全面屏手机壁纸](https://m.bcoderss.com/){:target="_blank"} 手机壁纸站
 
-## 软件应用：PC电脑>>>>>>>>>>>>>>>>>
+## **软件应用：PC电脑**
 
 > #### 精品软件网站
 
-* [异次元软件世界](https://www.iplaysoft.com){:target="_blank"} - 软件改变世界
+* [异次元软件世界](https://www.iplaysoft.com){:target="_blank"} 软件改变世界
 
-* [果核剥壳](https://www.ghxi.com){:target="_blank"} - 还原软件的本质
+* [果核剥壳](https://www.ghxi.com){:target="_blank"} 还原软件的本质
 
-* [423Down](https://www.423down.com){:target="_blank"} - 良心软件下载
+* [423Down](https://www.423down.com){:target="_blank"} 良心软件下载
 
-* [GitHub](https://github.com){:target="_blank"} - 全球软件开发者基地（免费提供本站服务器）
+* [GitHub](https://github.com){:target="_blank"} 全球软件开发者基地（免费提供本站服务器）
 
-* [无忧启动论坛](http://bbs.wuyou.net/forum.php){:target="_blank"} - 各种精品软件汇聚
+* [无忧启动论坛](http://bbs.wuyou.net/forum.php){:target="_blank"} 各种精品软件汇聚
 
-* [烈火新站 app热](https://apphot.cc){:target="_blank"} - 点亮未来 见证精彩
+* [烈火新站 app热](https://apphot.cc){:target="_blank"} 点亮未来 见证精彩
 
-* [<font color=red>CloudBox</font>](https://note.youdao.com/ynoteshare/index.html?id=d86269fb8e2c30850a2f993ddcc1c1c5){:target="_blank"} - 超牛聚合工具箱，仅10M不到，内置近两百款实用工具★★
+* [<font color=red>CloudBox</font>](https://note.youdao.com/ynoteshare/index.html?id=d86269fb8e2c30850a2f993ddcc1c1c5){:target="_blank"} 超牛聚合工具箱，仅10M不到，内置近两百款实用工具
 
 > #### 下载Windows系统
 
-* [itellyou新版](https://next.itellyou.cn){:target="_blank"} - WINDOWS11系统原版
+* [itellyou新版](https://next.itellyou.cn){:target="_blank"} WINDOWS11系统原版
 
-* [itellyou旧版](https://msdn.itellyou.cn){:target="_blank"} - WINDOWS系统原版
+* [itellyou旧版](https://msdn.itellyou.cn){:target="_blank"} WINDOWS系统原版
 
-* [不忘初心](https://www.pc521.net){:target="_blank"} - 纯净美化精简版WINDOWS
+* [不忘初心](https://www.pc521.net){:target="_blank"} 纯净美化精简版WINDOWS
 
-* [微PE工具箱](https://www.wepe.com.cn){:target="_blank"} - WinPE装机维护工具
+* [微PE工具箱](https://www.wepe.com.cn){:target="_blank"} WinPE装机维护工具
 
-* [CMDPE](https://www.cmdpe.com){:target="_blank"} - 可以上网远程下载的PE系统
+* [CMDPE](https://www.cmdpe.com){:target="_blank"} 可以上网远程下载的PE系统
 
 > #### 激活Windows系统
 
-* HEU KMS Activator(WIN+Office激活) - [果核剥壳](https://www.ghxi.com/heukmsactivator.html){:target="_blank"}，[GitHub zbezj大神](https://github.com/zbezj/HEU_KMS_Activator){:target="_blank"}
+* HEU KMS Activator(WIN+Office激活) [果核剥壳](https://www.ghxi.com/heukmsactivator.html){:target="_blank"}，[GitHub zbezj大神](https://github.com/zbezj/HEU_KMS_Activator){:target="_blank"}
 
 > #### WPS和Office
 
-* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX){:target="_blank"} - 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
+* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX){:target="_blank"} 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
 
-* [WPS2019政府版绿色最终完美版](https://caiyun.139.com/m/i?105CpORyTsGMH){:target="_blank"}提取码`17Lp` - 无启动界面网络功能，office备用，轻量办公使用，仅96M
+* [WPS2019政府版绿色最终完美版](https://caiyun.139.com/m/i?105CpORyTsGMH){:target="_blank"}提取码`17Lp` 无启动界面网络功能，office备用，轻量办公使用，仅96M
 
-* [Office Tool Plus](https://otp.landian.vip/zh-cn){:target="_blank"} - 轻松部署Office
+* [Office Tool Plus](https://otp.landian.vip/zh-cn){:target="_blank"} 轻松部署Office
 
-* [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html){:target="_blank"} - 快速安装Office
+* [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html){:target="_blank"} 快速安装Office
 
-* [Office 2016精简版](https://www.ghxi.com/office4n1.html){:target="_blank"} - 推荐安装版，仅234M
+* [Office 2016精简版](https://www.ghxi.com/office4n1.html){:target="_blank"} 推荐安装版，仅234M
 
 > #### 效率工具应用
 
-* [<font color=red>antdownload度盘下载神器</font>](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} - 全网最强，无需登陆，不怕封号，秒杀脚本直链★★
+* [<font color=red>antdownload度盘下载神器</font>](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} 全网最强，无需登陆，不怕封号，秒杀脚本直链
 
-* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集
+* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} 快速启动文件搜索合集
 
-* [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具★
+* [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} Windows效率工具
 
-* [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者★
+* [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} 快速搜索王者
 
 * [StartAllBack Win11开始菜单增强工具破解版](https://www.ghxi.com/startallback.html){:target="_blank"}
 
@@ -345,17 +350,17 @@
 
 * [IDM下载神器破解版](https://www.423down.com/575.html){:target="_blank"}
 
-* [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} - 点对点文件共享神器
+* [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} 点对点文件共享神器
 
-* [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} - 打开浏览器即可传输文件
+* [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} 打开浏览器即可传输文件
 
-* [Mac字体应用](https://www.mactype.net){:target="_blank"} - 将Mac苹果清晰漂亮的字体用在Win系统电脑
+* [Mac字体应用](https://www.mactype.net){:target="_blank"} 将Mac苹果清晰漂亮的字体用在Win系统电脑
 
 > #### 必装应用软件
 
 * [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html){:target="_blank"}
 
-* [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp){:target="_blank"} - Mac用户必备
+* [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp){:target="_blank"} Mac用户必备
 
 * [IObit Driver Booster Pro(驱动管理)便携破解版](https://www.ghxi.com/iobitdriverbooster.html){:target="_blank"}
 
@@ -363,9 +368,9 @@
 
 * [IObit Advanced SystemCare(系统优化)便携破解版](https://www.ghxi.com/advancedsystemcareultimate.html){:target="_blank"}
 
-* [WinRAR压缩软件破解版](https://www.ghxi.com/pcwinrar.html){:target="_blank"} - 老牌压缩软件
+* [WinRAR压缩软件破解版](https://www.ghxi.com/pcwinrar.html){:target="_blank"} 老牌压缩软件
 
-* [7-Zip](https://sparanoid.com/lab/7z){:target="_blank"} - 极高压缩比的开源压缩软件
+* [7-Zip](https://sparanoid.com/lab/7z){:target="_blank"} 极高压缩比的开源压缩软件
 
 * [FastStone Image Viewer图片查看工具便携版](https://www.ghxi.com/faststoneiw.html){:target="_blank"}
 
@@ -375,7 +380,7 @@
 
 * [PDF-XChange Editor Plus便携版](https://www.ghxi.com/pdfxchangeeditorplus.html){:target="_blank"}
 
-* [Adobe Photoshop CS5绿色精简版](https://www.ghxi.com/pscs5green.html){:target="_blank"} - 仅41M
+* [Adobe Photoshop CS5绿色精简版](https://www.ghxi.com/pscs5green.html){:target="_blank"} 仅41M
 
 * [Adobe Photoshop 2022 绿色版](https://www.ghxi.com/ps2022green.html){:target="_blank"}
 
@@ -395,118 +400,79 @@
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## DDDD各种接口/节目源>>>>>>>>>>>>>>>>>
+## **DDDD各种接口/节目源**
 
-> #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
+> #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）  
+> 一程大佬  
+> `https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json`  
+> `https://shuyuan.miaogongzi.net/shuyuan/1635780366.json`  
+> 
+> 关耳大佬  
+> `http://yck.mumuceo.com/d/CXwCA`
 
-1.一程大佬
+> #### 开源阅读书源（书源导入位置在APP我的—书源管理—右上角网络导入。提醒！选择1-2位大佬的追更就行，没必要全部导入）  
+> namofree大佬（通用，精简，比较适合大多数人）  
+> `https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json`  
+> `https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json`  
+> 增加了金庸书库，可以看看金庸老爷子各个版本的小说全集（需要在发现页进入，已关闭搜索，以免影响其他书籍换源速度）；  
+> 重新收录超星图书、九九藏书、稻草人出版书源；  
+> 起点排行榜、纵横排行榜、追书排行榜仅适用于找书，阅读时建议换源；  
+> 本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；  
+> 每次导入之前建议把之前的Namo分组删除全新导入！  
+> 
+> 一程大佬（通用，精简，比较适合大多数人）  
+> `https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json`  
+> `https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json`  
+> 
+> 破冰大佬（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）  
+> `https://pobing.lanzoui.com/b0cxk0w8b` 密码：`59bV`  
+> 
+> haxc大佬漫画  
+> `https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json`  
+> 
+> 糖果超甜大佬女频  
+> `https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json`  
+> 
+> 关耳大佬女频  
+> `https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json`  
+> 
+> 渡边美波大佬  
+> `https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json`  
+> 
+> 其他  
+> XIU2精品`https://yuedu.xiu2.xyz/shuyuan`  
+> XIU2精品（备）`https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan`  
+> 全网榜单数据`https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json`  
+> 一介书生（集合150分类准确）  
+> `https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json`  
+> 狼火霸世（酷安大佬439源）  
+> `https://gedoor.github.io/MyBookshelf/bookSource.json`  
+> 狼火霸世（酷安大佬1537源）  
+> `https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt`  
+> 狼火霸世（酷安大佬717源）  
+> `https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json`  
+> 南笙星辰（精简177源）  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksoure`  
+> 南笙星辰（维护177源）  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksource9`  
+> 关耳大佬（酷安大佬听歌源）  
+> `https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json`  
+> 山高水长(微信圈子整理废卢书源)  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksource_fl`  
+> 渡边美波（精选优质28源合集）  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksource_jx`  
+> 狼火霸世（精选优质合集 2.0 3.0都可以用）  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs`  
+> 破冰6(有声书源22合集)  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksources_ts`  
+> 南笙星辰（更新177源）  
+> `https://gitee.com/ch4nge/readbook/raw/master/booksource_177`  
+> 不是玄奇（搜索引擎书源）  
+> `https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json`
 
-`https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json`
-`https://shuyuan.miaogongzi.net/shuyuan/1635780366.json`
-
-2.关耳大佬
-
-`http://yck.mumuceo.com/d/CXwCA`
-
-> #### 开源阅读书源（书源导入位置在APP我的—书源管理—右上角网络导入。提醒！选择1-2位大佬的追更就行，没必要全部导入）
-
-1.namofree大佬（通用，精简，比较适合大多数人）
-
-`https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json`
-`https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json`
-
-增加了金庸书库，可以看看金庸老爷子各个版本的小说全集（需要在发现页进入，已关闭搜索，以免影响其他书籍换源速度）；
-重新收录超星图书、九九藏书、稻草人出版书源；
-起点排行榜、纵横排行榜、追书排行榜仅适用于找书，阅读时建议换源；
-本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；
-每次导入之前建议把之前的Namo分组删除全新导入！
-
-2.一程大佬（通用，精简，比较适合大多数人）
-
-`https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json`
-`https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json`
-
-3.破冰大佬（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）
-
-`https://pobing.lanzoui.com/b0cxk0w8b`   密码：`59bV`
-
-4.haxc大佬漫画
-
-`https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json`
-
-5.糖果超甜大佬女频
-
-`https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json`
-
-6.关耳大佬女频
-
-`https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json`
-
-7.渡边美波大佬
-
-`https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json`
-
-8.其他
-
-XIU2精品`https://yuedu.xiu2.xyz/shuyuan`
-
-XIU2精品（备）`https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan`
-
-全网榜单数据`https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json`
-
-一介书生（集合150分类准确）
-
-`https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json`
-
-狼火霸世（酷安大佬439源）
-
-`https://gedoor.github.io/MyBookshelf/bookSource.json`
-
-狼火霸世（酷安大佬1537源）
-
-`https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt`
-
-狼火霸世（酷安大佬717源）
-
-`https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json`
-
-南笙星辰（精简177源）
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksoure`
-
-南笙星辰（维护177源）
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksource9`
-
-关耳大佬（酷安大佬听歌源）
-
-`https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json`
-
-山高水长(微信圈子整理废卢书源)
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksource_fl`
-
-渡边美波（精选优质28源合集）
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksource_jx`
-
-狼火霸世（精选优质合集 2.0 3.0都可以用）
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs`
-
-破冰6(有声书源22合集)
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksources_ts`
-
-南笙星辰（更新177源）
-
-`https://gitee.com/ch4nge/readbook/raw/master/booksource_177`
-
-不是玄奇（搜索引擎书源）
-
-`https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json`
-
+***
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
+***
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p><span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span> </span></p>
