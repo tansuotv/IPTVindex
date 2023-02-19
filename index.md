@@ -1,7 +1,18 @@
     2023-02-19 14:20 更新 | ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-***
+
+## **影视点播 即点即看**
+|[<font color=red>泥巴影院</font>](https://www.nbyy.tv){:target="_blank"}|[<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"}|[<font color=red>影视工场TV</font>](https://www.3434.tv){:target="_blank"}|[欧乐影院](https://www.olevod.com){:target="_blank"}|
+|[HOHO TV](https://hoho.tv){:target="_blank"}|[剧Q](https://dramasq.biz){:target="_blank"}|[剧迷影音](https://gimytv.com){:target="_blank"}|[在线之家](www.zxzjtv.com){:target="_blank"}|
+|[独播库](https://www.duboku.tv){:target="_blank"}|[NO视频](https://www.novipnoad.com){:target="_blank"}|[555电影](https://www.5ying.fun){:target="_blank"}|[谍影网](https://tvdie.cc){:target="_blank"}|
+|[37OU电影](https://www.37ou.com){:target="_blank"}|[片吧影院](https://www.pianba.tv){:target="_blank"}|[嗯哩嗯哩](https://enlienli.com){:target="_blank"}|[思乐影视](https://www.4ltv.com){:target="_blank"}|
+|[天天影院](https://www.ttkb.cc){:target="_blank"}|[天空影视](https://www.tkys.tv){:target="_blank"}|[大师兄影视](https://tv.ci){:target="_blank"}|[爱西西](https://aixixi.vip){:target="_blank"}|
+|[剧嗨影院](https://www.juhi.cc){:target="_blank"}|[思奇影视](https://www.siqitv.vip){:target="_blank"}|[凌云影视](https://www.lingyun.tv){:target="_blank"}|[<font color=red>BL解析</font>](https://vip.bljiex.cc){:target="_blank"}|
+|[555电影](https://www.o8tv.com){:target="_blank"}|[低端影视](https://ddys.tv){:target="_blank"}|[韩迷TV](https://www.hmtv.me){:target="_blank"}|[MK影视](https://www.mkvdo.com){:target="_blank"}|
+|[爱美剧网](https://www.mjw2020.com){:target="_blank"}|[鸭奈飞电影](https://yanetflix.com){:target="_blank"}|[奈菲影视](https://www.nfmovies.com){:target="_blank"}|[真不卡影院](https://www.zhenbuka.fun){:target="_blank"}|
+|[美剧热](https://meijure.com){:target="_blank"}|[酷绘视频](https://www.kuhuiv.com){:target="_blank"}|||
+
 ## **电视直播**
 
 ### 自带直播源的apk（装了就能看，有大佬维护直播源）
@@ -12,7 +23,7 @@
 
 ### 没有直播源的apk（自定义电视频道）
 > #### 1.Install apk（安装观看软件）
-> * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
+> [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}根据自己的需求定制电视台列表★★★
 
 > #### 2.Find IPTV Source（找到直播源）
 > 月光寶盒PRO直播源`https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`    
@@ -41,9 +52,11 @@
 
 > #### [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"}
 > 解压密码`tansuo.tv`
+
 ***
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 ***
+
 ## **影视点播**
 
 ### 视频：安卓手机/电视/盒子
@@ -137,9 +150,11 @@
 > **④重置版**<br/>
 > [APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced){:target="_blank"}<br/>
 > [LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html){:target="_blank"}<br/>
+
 ***
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 ***
+
 > [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播
 
 > [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源使用
@@ -203,73 +218,7 @@
 
 > #### 在线即点即看
 
-* [<font color=red>泥巴影院（梯子）</font>](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
 
-* [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} - 努力让找电影变得简单★
-
-* [<font color=red>影视工场TV</font>](https://www.3434.tv){:target="_blank"} - 在线观看电影电视节目★
-
-* [欧乐影院（梯子）](https://www.olevod.com){:target="_blank"}
-
-* [HOHO TV（梯子）](https://hoho.tv){:target="_blank"} - 海外华人在线影视平台
-
-* [剧Q（梯子）](https://dramasq.biz){:target="_blank"}
-
-* [剧迷影音（梯子）](https://gimytv.com){:target="_blank"}
-
-* [在线之家（梯子）](www.zxzjtv.com){:target="_blank"}
-
-* [独播库（梯子）](https://www.duboku.tv){:target="_blank"}
-
-* [NO视频（梯子）](https://www.novipnoad.com){:target="_blank"} - 不负追剧好时光
-
-* [555电影（梯子）](https://www.5ying.fun){:target="_blank"}
-
-* [谍影网（梯子）](https://tvdie.cc){:target="_blank"}
-
-* [37OU电影（梯子）](https://www.37ou.com){:target="_blank"}
-
-* [片吧影院](https://www.pianba.tv){:target="_blank"}
-
-* [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容
-
-* [思乐影视](https://www.4ltv.com){:target="_blank"} - 观影追剧
-
-* [天天影院](https://www.ttkb.cc){:target="_blank"}
-
-* [天空影视](https://www.tkys.tv){:target="_blank"} - 免费4K观影站
-
-* [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
-
-* [爱西西](https://aixixi.vip){:target="_blank"} - 免费超清影视站
-
-* [剧嗨影院](https://www.juhi.cc){:target="_blank"} - 北美免费高清视频在线观看
-
-* [思奇影视](https://www.siqitv.vip){:target="_blank"} - 免费影视站
-
-* [凌云影视](https://www.lingyun.tv){:target="_blank"} - 全网最近好看的影视聚合下载
-
-* [BL解析](https://vip.bljiex.cc){:target="_blank"} - VIP视频在线解析
-
-* [555电影](https://www.o8tv.com){:target="_blank"} - 免费VIP资源在线看
-
-* [低端影视](https://ddys.tv){:target="_blank"} - 超清在线视频站
-
-* [韩迷TV](https://www.hmtv.me){:target="_blank"} - 最新韩国电视剧综艺电影在线看
-
-* [MK影视](https://www.mkvdo.com){:target="_blank"} - 欧美日韩剧免费在线观看
-
-* [爱美剧网](https://www.mjw2020.com){:target="_blank"} - 高清美剧在线观看
-
-* [鸭奈飞电影](https://yanetflix.com){:target="_blank"} - 为国内用户提供免费奈飞影视
-
-* [奈菲影视](https://www.nfmovies.com){:target="_blank"} - 永久免费的福利超清影视站
-
-* [真不卡影院](https://www.zhenbuka.fun){:target="_blank"} - 真正不卡的超清电影网站
-
-* [美剧热](https://meijure.com){:target="_blank"} - 天堂独家4K高清蓝光美剧
-
-* [酷绘视频](https://www.kuhuiv.com){:target="_blank"} - 轻松随心看
 
 > #### 影视搜索推荐
 
