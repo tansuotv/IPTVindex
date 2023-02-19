@@ -5,7 +5,7 @@
 
 ## **影视点播 即点即看**
 
-| [<font color=red>泥巴影院</font>](https://www.nbyy.tv){:target="_blank"} | [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} | [<font color=red>影视工场TV</font>](https://www.3434.tv){:target="_blank"} | [<font color=red>BL解析</font>](https://vip.bljiex.cc){:target="_blank"} |
+| [<font color=red>泥巴影院</font>](https://www.nbyy.tv){:target="_blank"} | [<font color=red>茶杯狐</font>](https://www.cupfox.app){:target="_blank"} | [<font color=red>影视工场</font>](https://www.3434.tv){:target="_blank"} | [<font color=red>BL解析</font>](https://vip.bljiex.cc){:target="_blank"} |
 | --- | ---- | --- | ---- |
 | [HOHO TV](https://hoho.tv){:target="_blank"} | [剧Q](https://dramasq.biz){:target="_blank"} | [剧迷影音](https://gimytv.com){:target="_blank"} | [在线之家](www.zxzjtv.com){:target="_blank"} |
 | [独播库](https://www.duboku.tv){:target="_blank"} | [NO视频](https://www.novipnoad.com){:target="_blank"} | [555电影](https://www.5ying.fun){:target="_blank"} | [谍影网](https://tvdie.cc){:target="_blank"} |
