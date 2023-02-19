@@ -8,8 +8,8 @@
 | --- | ---- | --- |
 | [影视工场](https://www.ysgc.fun){:target="_blank"} | [吼吼](https://hoho.tv){:target="_blank"} | [DramasQ](https://dramasq.biz){:target="_blank"} |
 | [剧迷](https://gimytv.com){:target="_blank"} | [独播库](https://www.duboku.tv){:target="_blank"} | [NO视频](https://www.novipnoad.com){:target="_blank"} |
-| [555电影](https://www.5ying.fun){:target="_blank"} | [天天影院](https://www.ttkb.cc){:target="_blank"} | [天空影视](https://www.tkznp.com){:target="_blank"} |
-| [大师兄影视](https://dsxys.top){:target="_blank"} | [555电影](https://www.o8tv.com){:target="_blank"} | [低端影视](https://ddys.tv){:target="_blank"} |
+| [555电影](https://www.555dy.com){:target="_blank"} | [天天影院](https://www.ttkb.cc){:target="_blank"} | [天空影视](https://www.tkznp.com){:target="_blank"} |
+| [大师兄影视](https://dsxys.top){:target="_blank"} | [低端影视](https://ddys.tv){:target="_blank"} |  |
 
 ## **电视直播**
 
