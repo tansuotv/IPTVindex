@@ -1,4 +1,4 @@
-<font size=2>2023-02-19 23:39更新 ctrl+F搜索 [管理](https://github.com/tansuotv/IPTVindex){:target="_blank"} </font>
+<font size=2>2023-02-19 23:39更新 Ctrl+F搜索 [管理](https://github.com/tansuotv/IPTVindex){:target="_blank"} </font>
 
 ***
 
