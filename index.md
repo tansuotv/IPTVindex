@@ -213,18 +213,20 @@
 
 ## **阅读及其他**
 
-> <font color=red>开源阅读APK★★★</font>  
+> 开源阅读APK
 > [官网](https://github.com/gedoor/legado/releases){:target="_blank"}  
 > [精品书源](https://yuedu.xiu2.xyz/){:target="_blank"}扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入  
 > [GitHub站](https://github.com/XIU2/Yuedu){:target="_blank"}
 
-> <font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
+> Z-Library电子书搜索下载
+> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
 
-> [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
+> [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
 
 > [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-> [<font color=red>李跳跳 派大星 2.01最新版官方下载</font>](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告  
+> [李跳跳 派大星 2.01最新版官方下载](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} 密码`1233`
+> 自动跳过启动页广告  
 > 长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
 
 > [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} 根据机型选择不同安装和配置文件
@@ -295,7 +297,7 @@
 
 * [烈火新站 app热](https://apphot.cc){:target="_blank"} 点亮未来 见证精彩
 
-* [<font color=red>CloudBox</font>](https://note.youdao.com/ynoteshare/index.html?id=d86269fb8e2c30850a2f993ddcc1c1c5){:target="_blank"} 超牛聚合工具箱，仅10M不到，内置近两百款实用工具
+* [CloudBox](https://note.youdao.com/ynoteshare/index.html?id=d86269fb8e2c30850a2f993ddcc1c1c5){:target="_blank"} 超牛聚合工具箱，仅10M不到，内置近两百款实用工具
 
 > #### 下载Windows系统
 
@@ -327,7 +329,7 @@
 
 > #### 效率工具应用
 
-* [<font color=red>antdownload度盘下载神器</font>](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} 全网最强，无需登陆，不怕封号，秒杀脚本直链
+* [antdownload度盘下载神器](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} 全网最强，无需登陆，不怕封号，秒杀脚本直链
 
 * [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} 快速启动文件搜索合集
 
@@ -398,6 +400,8 @@
 > 
 > 关耳大佬  
 > `http://yck.mumuceo.com/d/CXwCA`
+
+
 
 > #### 开源阅读书源（书源导入位置在APP我的—书源管理—右上角网络导入。提醒！选择1-2位大佬的追更就行，没必要全部导入）  
 > namofree大佬（通用，精简，比较适合大多数人）  
