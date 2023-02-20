@@ -1,4 +1,6 @@
-    2023-02-19 23:39 更新 | ctrl+F 搜索
+<font size=2>2023-02-19 23:39 更新 | ctrl+F 搜索 | [管理](https://github.com/tansuotv/IPTVindex){:target="_blank"}</font>
+
+***
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -12,6 +14,7 @@
 | [**剧迷**](https://gimytv.com){:target="_blank"} | [**独播库**](https://www.duboku.tv){:target="_blank"} | [**NO视频**](https://www.novipnoad.com){:target="_blank"} |
 | [**555电影**](https://www.555dy.com){:target="_blank"} | [**天天影院**](https://www.ttkb.cc){:target="_blank"} | [**天空影视**](https://www.tkznp.com){:target="_blank"} |
 | [**大师兄影视**](https://dsxys.top){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**喵喵电影网**](https://www.2345ka.com/){:target="_blank"} |
+| [**极客影院**](https://www.jiketv.com/){:target="_blank"} | [**Nike影视**](https://www.ajeee.com/){:target="_blank"} | [**快追番**](http://www.kuaizhuifan.xyz/){:target="_blank"} |
 
 ## **电视直播**
 
@@ -64,12 +67,6 @@
 > `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}  
 
 ### [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`
-
-***
-
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-
-***
 
 ## **影视点播**
 
@@ -175,12 +172,6 @@
 > [APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced){:target="_blank"}  
 > [LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html){:target="_blank"}  
 
-***
-
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-
-***
-
 > [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播  
 
 > [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}  
@@ -191,6 +182,7 @@
 
 > [8K影视](https://wwm.lanzouj.com/iKIHw04ainja){:target="_blank"}  
 
+> [极客影院](https://www.jiketv.com/index.php/label/down.html){:target="_blank"}  
 
 ## **音乐**
 
@@ -208,12 +200,6 @@
 
 > 卡音 [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
-***
-
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-
-***
-
 ## **游戏**
 
 > [小霸王](https://www.yikm.net/){:target="_blank"} 红白机 FC在线游戏 街机游戏 街机在线
@@ -226,6 +212,8 @@
 
 > [GreatWall](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码: `f22q`
 
+> [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
+
 ## **阅读及其他**
 
 > <font color=red>开源阅读APK★★★</font>  
@@ -236,8 +224,6 @@
 > <font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
 
 > [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
-
-> [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
 
 > [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
@@ -281,12 +267,6 @@
 * [Listen1](https://github.com/listen1){:target="_blank"} 搜歌，听歌，就用 Listen1
 
 * [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} 付费无损音乐下载神器
-
-***
-
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-
-***
 
 ## **壁纸**
 
@@ -411,12 +391,6 @@
 * [钉钉官方版](https://www.dingtalk.com){:target="_blank"}
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
-
-***
-
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-
-***
 
 ## **DDDD各种接口/节目源**
 
