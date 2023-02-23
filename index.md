@@ -1,4 +1,4 @@
-    2023-02-20 19:59 更新 | Ctrl+F 搜索
+    2023-02-23 14:33 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -40,6 +40,7 @@
 > [最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90){:target="_blank"}  
 >   
 > 偷懒的方法：找大佬的直播源接口  
+> `https://iptvindex.com/tv.txt` （IPTVindex特供）
 > `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`（月光寶盒PRO直播源）  
 > `https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt`
 > `https://tvsee.github.io/diyp/tv.txt`  
