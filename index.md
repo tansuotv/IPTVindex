@@ -1,4 +1,4 @@
-    2023-02-23 14:33 更新 | Ctrl+F 搜索
+    2023-02-26 19:09 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -89,12 +89,18 @@
 > [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}  
 
 > <font color=red>神奇的TVBox★★★</font>
-> [TVBOX Github站](https://github.com/liu673cn/box){:target="_blank"}  
-> [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
+> TVBox空壳软件————————  
+> [TVBox Github站](https://github.com/liu673cn/box){:target="_blank"}  
+> 官方原版：[TVBox开源版](https://tsq.lanzouf.com/b0c4nr91c){:target="_blank"} 密码`123`  [UI美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
+> 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TVMax](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  
+> 内置版：[小苹果影视盒子](https://liucn.lanzouf.com/i361g0il0bta){:target="_blank"}  
+> 手机版：[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf){:target="_blank"}  
+> 
 > 内置接口的TVBox应用————————  
-> [小苹果影视盒子](https://liucn.lanzouf.com/i361g0il0bta){:target="_blank"}  
 > [蚂蚁影视4.0.4-2魔改版 如意TV EasyBox1.0.3(TVBox手机版)](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
-> 我常用的接口————————  
+> 
+> 不可或缺的大佬接口————————  
+> [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
 > [云星接口](https://www.moil.cc/10.html){:target="_blank"}  
 > 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`  
@@ -102,9 +108,9 @@
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
 > [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}  
-> 多仓接口`https://raw.liucn.cc/box/dm.txt`  
-> 开源自用接口1`https://raw.liucn.cc/box/m.json`  
-> 开源自用接口2`https://agit.ai/liucn/box/raw/branch/main/m.json`  
+> 多仓版接口`https://raw.liucn.cc/box/dm.txt`  
+> 官方原版开源自用接口1`https://raw.liucn.cc/box/m.json`  
+> 官方原版开源开源自用接口2`https://agit.ai/liucn/box/raw/branch/main/m.json`  
 > 吾爱接口`http://52bsj.vip:98/wuai`  
 > 吾爱接口18版`http://52bsj.vip:98/18dxwoai`  
 > 唐三接口`https://hutool.ml/tang`  
