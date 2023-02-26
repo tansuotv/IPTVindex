@@ -370,7 +370,7 @@
 
 * [IObit Advanced SystemCare(系统优化)便携破解版](https://www.ghxi.com/advancedsystemcareultimate.html){:target="_blank"}
 
-* [WinRAR压缩软件破解版](https://www.ghxi.com/pcwinrar.html){:target="_blank"} 老牌压缩软件
+* [WinRAR压缩软件破解版](https://www.ghxi.com/winrarlh.html){:target="_blank"} 老牌压缩软件
 
 * [7-Zip](https://sparanoid.com/lab/7z){:target="_blank"} 极高压缩比的开源压缩软件
 
