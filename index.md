@@ -401,7 +401,7 @@
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
 
-* <font color=red>美图秀秀</font> [安卓版](https://www.ghxi.com/meituxiuxiu.html){:target="_blank"} [PC版](http://www.ddooo.com/softdown/203035.htm){:target="_blank"}
+* <font color=red>美图秀秀</font>[安卓版](https://www.ghxi.com/meituxiuxiu.html){:target="_blank"}[PC版](http://www.ddooo.com/softdown/203035.htm){:target="_blank"}
 
 ## **DDDD各种接口/节目源**
 
