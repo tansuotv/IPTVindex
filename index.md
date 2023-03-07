@@ -1,4 +1,4 @@
-    2023-02-26 22:47 更新 | Ctrl+F 搜索
+    2023-03-07 12:34 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -399,6 +399,8 @@
 * [钉钉官方版](https://www.dingtalk.com){:target="_blank"}
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
+
+* <font color=red>美图秀秀</font> [安卓版](https://www.ghxi.com/meituxiuxiu.html){:target="_blank"} [PC版](http://www.ddooo.com/softdown/203035.htm){:target="_blank"}
 
 ## **DDDD各种接口/节目源**
 
