@@ -109,8 +109,9 @@
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
 > [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}  
 > 多仓版接口`https://raw.liucn.cc/box/dm.txt`  
-> 官方原版开源自用接口1`https://raw.liucn.cc/box/m.json`  
-> 官方原版开源开源自用接口2`https://agit.ai/liucn/box/raw/branch/main/m.json`  
+> 官方原版开源自用接口1 `https://raw.liucn.cc/box/m.json`  
+> 官方原版开源自用接口2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
+> 小苹果接口`https://raw.liucn.cc/box/xiaopingguo.json`
 > 吾爱接口`http://52bsj.vip:98/wuai`  
 > 吾爱接口18版`http://52bsj.vip:98/18dxwoai`  
 > 唐三接口`https://hutool.ml/tang`  
@@ -401,7 +402,7 @@
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
 
-* <font color=red>美图秀秀</font>[安卓版](https://www.ghxi.com/meituxiuxiu.html){:target="_blank"}[PC版](http://www.ddooo.com/softdown/203035.htm){:target="_blank"}
+* [美图秀秀安卓版](https://www.ghxi.com/meituxiuxiu.html){:target="_blank"}  [PC版](http://www.ddooo.com/softdown/203035.htm){:target="_blank"}
 
 ## **DDDD各种接口/节目源**
 
