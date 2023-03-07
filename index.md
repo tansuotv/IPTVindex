@@ -206,6 +206,12 @@
 
 > 卡音 [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
+> 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
+
+> [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} 高颜值第三方网易云
+
+> [Listen1](https://github.com/listen1){:target="_blank"} 搜歌，听歌，就用 Listen1
+
 ## **游戏**
 
 > [小霸王](https://www.yikm.net/){:target="_blank"} 红白机 FC在线游戏 街机游戏 街机在线
@@ -270,11 +276,6 @@
 
 * PotPlayer视频播放器[官网](https://potplayer.daum.net/){:target="_blank"} [另一个网址](https://potplayer.tv/?lang=zh_CN){:target="_blank"}★
 
-* [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} 高颜值第三方网易云
-
-* [Listen1](https://github.com/listen1){:target="_blank"} 搜歌，听歌，就用 Listen1
-
-* [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} 付费无损音乐下载神器
 
 ## **壁纸**
 
