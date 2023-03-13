@@ -1,4 +1,4 @@
-    2023-03-07 12:34 更新 | Ctrl+F 搜索
+    2023-03-13 15:48 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -111,7 +111,7 @@
 > 多仓版接口`https://raw.liucn.cc/box/dm.txt`  
 > 官方原版开源自用接口1 `https://raw.liucn.cc/box/m.json`  
 > 官方原版开源自用接口2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
-> 小苹果接口`https://raw.liucn.cc/box/xiaopingguo.json`
+> 小苹果接口`https://raw.liucn.cc/box/xiaopingguo.json`  
 > 吾爱接口`http://52bsj.vip:98/wuai`  
 > 吾爱接口18版`http://52bsj.vip:98/18dxwoai`  
 > 唐三接口`https://hutool.ml/tang`  
