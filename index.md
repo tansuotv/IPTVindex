@@ -12,7 +12,7 @@
 > [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需结合后面的直播源使用  
 
 > <font color=red>观看影视节目★★★</font>
-> [小苹果影视盒子](https://liucn.lanzouf.com/i361g0il0bta){:target="_blank"} 自带内容接口  
+> [小苹果影视盒子](https://tansuo.lanzoub.com/isEys0qbluxc){:target="_blank"} 自带内容接口  
 > [影视仓](https://tansuo.lanzoub.com/iGV1K0qbjj5g){:target="_blank"} 需结合后面的接口使用  
 > [蚂蚁影视（TVBox魔改版）](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"} 需结合后面的接口使用  
 > [TVBox美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999` 需结合后面的接口使用  
