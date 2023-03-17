@@ -4,6 +4,19 @@
 
 ***
 
+## **直播点播 经典必装**
+
+> <font color=red>观看电视直播★★★</font>  
+> [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看  
+> [派大星直播](https://tansuo.lanzoub.com/irvQl0qbhbvc){:target="_blank"} 需结合后面的直播源使用  
+> [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需寻找直播源  
+
+> <font color=red>观看影视节目★★★</font>
+> [小苹果影视盒子](https://liucn.lanzouf.com/i361g0il0bta){:target="_blank"} 自带内容接口  
+> [影视仓](https://tansuo.lanzoub.com/iGV1K0qbjj5g){:target="_blank"} 需结合后面的接口使用  
+> [蚂蚁影视（TVBox魔改版）](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"} 需结合后面的接口使用  
+> [TVBox美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999` 需结合后面的接口使用  
+
 ## **影视点播 即点即看**
 
 | [泥视频](https://www.nivod.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [BL解析](https://svip.bljiex.cc){:target="_blank"} |
@@ -47,6 +60,7 @@
 > `https://iptv-org.github.io/iptv/index.nsfw.m3u`  
 > `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`  
 > `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`  
+> `https://yydsys.top/duo/txt/v.txt`  
 >   
 > [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表  
 > `https://iptv-org.github.io/iptv/index.m3u`  
