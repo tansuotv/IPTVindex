@@ -1,12 +1,12 @@
-    2023-03-17 16:16 更新 | Ctrl+F 搜索
+    2023-03-18 17:25 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ***
 
-## **直播点播 经典必装**
+## **经典必装**
 
-> <font color=red>观看电视直播★★★</font>  
+> <font color=red>观看电视直播★★★</font>
 > [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看  
 > [派大星直播](https://tansuo.lanzoub.com/irvQl0qbhbvc){:target="_blank"} 需结合后面的直播源使用  
 > [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需结合后面的直播源使用  
@@ -18,6 +18,9 @@
 > [TVBox美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999` 需结合后面的接口使用  
 > [影音壳子（安卓手机版）](https://tansuo.lanzoub.com/ifxR30qbnbqd){:target="_blank"} 需结合后面的接口使用  
 > [EasyBox（安卓手机版）](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"} 需结合后面的接口使用  
+
+> <font color=red>电脑端利器★★★</font>
+> [PanDownload](https://pandownload.net/)){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 
 ## **影视点播 即点即看**
 
