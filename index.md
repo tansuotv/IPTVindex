@@ -8,7 +8,7 @@
 
 > <font color=red>观看电视直播★★★</font>
 > [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看  
-> ![image](https://iptvindex.com/img/new1.png)[派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合后面的直播源使用  
+> ![image](https://iptvindex.com/img/new.png)[派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合后面的直播源使用  
 > [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需结合后面的直播源使用  
 
 > <font color=red>观看影视节目★★★</font>
