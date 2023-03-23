@@ -12,13 +12,17 @@
 > [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需结合后面的直播源使用  
 
 > <font color=red>观看影视节目★★★</font>  
-> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} 自带内容接口  
-> ![image](https://iptvindex.com/img/new.png)[星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"} 自带内容接口  
-> [影视仓4.0.16](https://leesh.lanzoul.com/b00qd4imj){:target="_blank"} 密码`1dnu` 需结合后面的接口使用  
-> [蚂蚁影视（TVBox魔改版）](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"} 需结合后面的接口使用  
-> [TVBox takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999` 需结合后面的接口使用  
-> [影音壳子（安卓手机版）](https://tansuo.lanzoub.com/ifxR30qbnbqd){:target="_blank"} 需结合后面的接口使用  
-> [EasyBox（安卓手机版）](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"} 需结合后面的接口使用  
+> 自带接口-装了就能看  
+> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
+> ![image](https://iptvindex.com/img/new.png)[星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
+> 无接口  
+> [影视仓4.0.16](https://leesh.lanzoul.com/b00qd4imj){:target="_blank"} 密码`1dnu`  
+> [蚂蚁影视（TVBox魔改版）](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"}  
+> [TVBox takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
+> [影音壳子（安卓手机版）](https://tansuo.lanzoub.com/ifxR30qbnbqd){:target="_blank"}  
+> [EasyBox（安卓手机版）](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
+> 接口  
+> [接口集合1](https://leevi0321.gitee.io/api/){:target="_blank"}  
 
 > <font color=red>电脑端利器★★★</font>  
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
