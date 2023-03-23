@@ -1,4 +1,4 @@
-    2023-03-22 更新 | Ctrl+F 搜索
+    2023-03-23 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -25,12 +25,12 @@
 
 ## **影视点播 即点即看**
 
-| [泥视频](https://www.nivod.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [BL解析](https://svip.bljiex.cc){:target="_blank"} |
+| [厂长资源](https://www.czzy.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [可乐影视](http://klyingshi.vip){:target="_blank"} |
 | :---: | :----: | :---: |
 | [**影视工场**](https://www.ysgc.fun){:target="_blank"} | [**吼吼**](https://hoho.tv){:target="_blank"} | [**8K影视**](http://www.8kvod.com/){:target="_blank"} |
-| [**剧迷**](https://gimytv.com){:target="_blank"} | [**独播库**](https://www.duboku.tv){:target="_blank"} | [**NO视频**](https://www.novipnoad.com){:target="_blank"} |
+| [**剧迷**](https://gimytv.com){:target="_blank"} | [**南柯电影**](https://www.nkdyw.com){:target="_blank"} | [**NO视频**](https://www.novipnoad.com){:target="_blank"} |
 | [**555电影**](https://www.555dy.com){:target="_blank"} | [**天天影院**](https://www.ttkb.cc){:target="_blank"} | [**天空影视**](https://www.tkznp.com){:target="_blank"} |
-| [**大师兄影视**](https://dsxys.top){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**喵喵电影网**](https://www.2345ka.com/){:target="_blank"} |
+| [**大师兄影视**](https://dsxys.pro){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**电影盒子**](https://www.dybox1.com/){:target="_blank"} |
 | [**极客影院**](https://www.jiketv.com/){:target="_blank"} | [**Nike影视**](https://www.ajeee.com/){:target="_blank"} | [**快追番**](http://www.kuaizhuifan.xyz/){:target="_blank"} |
 
 ## **电视直播**
