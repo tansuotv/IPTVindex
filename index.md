@@ -8,15 +8,15 @@
 
 > <font color=red>观看电视直播★★★</font>  
 > [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看  
-> ![image](https://iptvindex.com/img/new.png)[派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合后面的直播源使用  
+> [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合后面的直播源使用  
 > [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需结合后面的直播源使用  
 
 > <font color=red>观看影视节目★★★</font>  
-> ![image](https://iptvindex.com/img/new.png)[小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} 自带内容接口  
-> [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"} 自带内容接口  
-> ![image](https://iptvindex.com/img/new.png)[影视仓4.0.16](https://tansuo.lanzoub.com/ipTxL0qrq5yj){:target="_blank"} 需结合后面的接口使用  
+> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} 自带内容接口  
+> ![image](https://iptvindex.com/img/new.png)[星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"} 自带内容接口  
+> [影视仓4.0.16](https://tansuo.lanzoub.com/ipTxL0qrq5yj){:target="_blank"} 需结合后面的接口使用  
 > [蚂蚁影视（TVBox魔改版）](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"} 需结合后面的接口使用  
-> ![image](https://iptvindex.com/img/new.png)[TVBox美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999` 需结合后面的接口使用  
+> (https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999` 需结合后面的接口使用  
 > [影音壳子（安卓手机版）](https://tansuo.lanzoub.com/ifxR30qbnbqd){:target="_blank"} 需结合后面的接口使用  
 > [EasyBox（安卓手机版）](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"} 需结合后面的接口使用  
 
@@ -27,11 +27,12 @@
 
 | [厂长资源](https://www.czzy.tv){:target="_blank"} | [茶杯狐](https://www.cupfox.app){:target="_blank"} | [可乐影视](http://klyingshi.vip){:target="_blank"} |
 | :---: | :----: | :---: |
-| [**影视工场**](https://www.ysgc.fun){:target="_blank"} | [**吼吼**](https://hoho.tv){:target="_blank"} | [**8K影视**](http://www.8kvod.com/){:target="_blank"} |
+| [**影视工场**](https://www.ysgc.fun){:target="_blank"} | [**吼吼**](https://hoho.tv){:target="_blank"} | [**8K影视**](http://www.8kvod.com){:target="_blank"} |
 | [**剧迷**](https://gimytv.com){:target="_blank"} | [**南柯电影**](https://www.nkdyw.com){:target="_blank"} | [**NO视频**](https://www.novipnoad.com){:target="_blank"} |
 | [**555电影**](https://www.555dy.com){:target="_blank"} | [**天天影院**](https://www.ttkb.cc){:target="_blank"} | [**天空影视**](https://www.tkznp.com){:target="_blank"} |
-| [**大师兄影视**](https://dsxys.pro){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**电影盒子**](https://www.dybox1.com/){:target="_blank"} |
-| [**极客影院**](https://www.jiketv.com/){:target="_blank"} | [**Nike影视**](https://www.ajeee.com/){:target="_blank"} | [**快追番**](http://www.kuaizhuifan.xyz/){:target="_blank"} |
+| [**大师兄影视**](https://dsxys.pro){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**电影盒子**](https://www.dybox1.com){:target="_blank"} |
+| [**极客影院**](https://www.jiketv.com){:target="_blank"} | [**Nike影视**](https://www.ajeee.com){:target="_blank"} | [**快追番**](http://www.kuaizhuifan.xyz){:target="_blank"} |
+| [**电影先生**](https://www.dyxs.vip){:target="_blank"} | [**69美剧**](https://www.69mj.com){:target="_blank"} | [**在线之家**](https://www.zxzj.site){:target="_blank"} |
 
 ## **电视直播**
 
