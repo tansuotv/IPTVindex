@@ -1,4 +1,4 @@
-    2023-03-23 更新 | Ctrl+F 搜索
+    2023-03-24 更新 | Ctrl+F 搜索
 
 [![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -6,26 +6,14 @@
 
 ## **经典必装**
 
-> <font color=red>观看电视直播★★★</font>  
-> [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看 ![image](https://iptvindex.com/img/hot1.png)  
-> [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合后面的直播源使用  
-> [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"} 需结合后面的直播源使用  
-
-> <font color=red>观看影视节目★★★</font>  
-> ■自带接口-装了就能看  
-> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
-> [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
-> ■无接口  
-> [影视仓4.0.16](https://leesh.lanzoul.com/b00qd4imj){:target="_blank"} 密码`1dnu`  
-> [蚂蚁影视（TVBox魔改版）](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"}  
-> [TVBox takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
-> [影音壳子（安卓手机版）](https://tansuo.lanzoub.com/ifxR30qbnbqd){:target="_blank"}  
-> [EasyBox（安卓手机版）](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
-> ■接口  
-> [集合1](https://leevi0321.gitee.io/api/){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
-
-> <font color=red>电脑端利器★★★</font>  
-> [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
+> [看电视：太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看 ![image](https://iptvindex.com/img/hot1.png)  
+> [看电视：派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合直播源使用  
+> 
+> [看影视：小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
+> [看影视：星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
+> [看影视：影视仓4.0.16](https://leesh.lanzoul.com/b00qd4imj){:target="_blank"} 密码`1dnu` 需结合[★接口★](https://leevi0321.gitee.io/api/){:target="_blank"}使用  
+> 
+> [破网盘：PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 
 ## **影视点播 即点即看**
 
@@ -48,9 +36,11 @@
 | [**野火直播**](https://teyonds.lanzouw.com/idcmK0d2njyh){:target="_blank"} | [**91看电视**](https://teyonds.lanzouw.com/iLE0J0lgpsab){:target="_blank"} | [**超级iTV**](https://teyonds.lanzouw.com/imt0N09b6akh){:target="_blank"} |
 
 ### 没有直播源apk（自己找源，自定义电视频道列表）  
-> #### 1.Install apk（安装观看软件）  
-> [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} 根据自己的需求定制电视台列表  
-> [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} 配合全球IPTV播放源使用  
+> #### 1.Install apk（安装观看软件,根据自己的需求定制电视台列表）  
+> 
+> [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}   
+> [TV直播（派大星直播魔改版）](https://tansuo.lanzoub.com/iTGGy0qbhc7e){:target="_blank"}  
+> [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"}  
 > [TiviMate 汉化解锁付费版](http://az.87g.com/ar.tvplayer.tv.apk){:target="_blank"}  
   
 > #### 2.Find IPTV Source（寻找直播源）
@@ -119,10 +109,11 @@
 > 官方原版：[TVBox开源版](https://tsq.lanzouf.com/b0c4nr91c){:target="_blank"} 密码`123`  [UI美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
 > 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TVMax](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  
 > 内置版：[小苹果影视盒子](https://liucn.lanzouf.com/i361g0il0bta){:target="_blank"}  
-> 手机版：[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf){:target="_blank"}  
+> 手机版：[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf){:target="_blank"} [EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 > 
-> 内置接口的TVBox应用————————  
-> [蚂蚁影视4.0.4-2魔改版 如意TV EasyBox1.0.3(TVBox手机版)](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
+> 其他魔改TVBox应用————————  
+> [蚂蚁影视](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"}  
+> [如意TV等其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 > 
 > 不可或缺的大佬接口————————  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
@@ -132,7 +123,7 @@
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
-> [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}  
+> [TVBox网络接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
 > 多仓版接口`https://raw.liucn.cc/box/dm.txt`  
 > 官方原版开源自用接口1 `https://raw.liucn.cc/box/m.json`  
 > 官方原版开源自用接口2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
