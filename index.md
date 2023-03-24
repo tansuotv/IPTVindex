@@ -6,14 +6,12 @@
 
 ## **经典必装**
 
-> [看电视：太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 自带直播源，有节目信息，可回看 ![image](https://iptvindex.com/img/hot1.png)  
-> [看电视：派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 需结合直播源使用  
-> 
-> [看影视：小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
-> [看影视：星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
-> [看影视：影视仓4.0.16](https://leesh.lanzoul.com/b00qd4imj){:target="_blank"} 密码`1dnu` 需结合[★接口★](https://leevi0321.gitee.io/api/){:target="_blank"}使用  
-> 
-> [破网盘：PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
+> [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 央视卫视回看 ![image](https://iptvindex.com/img/hot1.png)  
+> [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用  
+> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
+> [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
+> [影视仓4.0.16](https://tansuo.lanzoub.com/ipTxL0qrq5yj){:target="_blank"} 结合[★接口★](https://leevi0321.gitee.io/api/){:target="_blank"}使用  
+> [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 
 ## **影视点播 即点即看**
 
