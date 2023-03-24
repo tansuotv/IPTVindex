@@ -11,6 +11,7 @@
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
 > [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
 > [影视仓4.0.16](https://tansuo.lanzoub.com/ipTxL0qrq5yj){:target="_blank"} 结合[★接口★](https://leevi0321.gitee.io/api/){:target="_blank"}使用  
+> [蚂蚁影视魔改版4.0.16](https://tansuo.lanzoub.com/iNP0c0qz8tnc){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 
 ## **影视点播 即点即看**
@@ -110,7 +111,7 @@
 > 手机版：[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf){:target="_blank"} [EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 > 
 > 其他魔改TVBox应用————————  
-> [蚂蚁影视](https://tansuo.lanzoub.com/iOBAe0poulcd){:target="_blank"}  
+> [蚂蚁影视魔改版4.0.16](https://tansuo.lanzoub.com/iNP0c0qz8tnc){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
 > [如意TV等其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 > 
 > 不可或缺的大佬接口————————  
