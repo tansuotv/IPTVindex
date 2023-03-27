@@ -1,8 +1,4 @@
-2023-03-27 更新 | Ctrl+F 搜索 | [![image](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"}  [![image](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"}
-
-[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
-
-***
+2023-03-27更新 | Ctrl+F搜索 | [![Bili站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} | [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"}
 
 ## **经典必装**
 
@@ -26,6 +22,12 @@
 | [**大师兄影视**](https://dsxys.pro){:target="_blank"} | [**低端影视**](https://ddys.tv){:target="_blank"} | [**电影盒子**](https://www.dybox1.com){:target="_blank"} |
 | [**极客影院**](https://www.jiketv.com){:target="_blank"} | [**Nike影视**](https://www.ajeee.com){:target="_blank"} | [**快追番**](http://www.kuaizhuifan.xyz){:target="_blank"} |
 | [**电影先生**](https://www.dyxs.vip){:target="_blank"} | [**69美剧**](https://www.69mj.com){:target="_blank"} | [**在线之家**](https://www.zxzj.site){:target="_blank"} |
+
+***
+
+[![image](https://iptvindex.com/img/nf.png)](https://ihezu.run/esf7nk){:target="_blank"}
+
+***
 
 ## **电视直播**
 
