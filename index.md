@@ -13,6 +13,7 @@
 > [影视仓4.0.16](https://tansuo.lanzoub.com/ipTxL0qrq5yj){:target="_blank"} 结合[★接口★](https://leevi0321.gitee.io/api/){:target="_blank"}使用  
 > 
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
+> [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题 ![image](https://iptvindex.com/img/new1.png)  
 
 ## **影视点播 即点即看**
 
