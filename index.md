@@ -1,6 +1,6 @@
-    2023-03-27 更新 | Ctrl+F 搜索
+    2023-03-28 更新 | Ctrl+F 搜索
 
-[![Bili站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"}  [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"}
+[![Bili站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"}  -  [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"}
 
 ## **经典必装**
 
@@ -8,7 +8,7 @@
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用  
 > 
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
-> [蚂蚁影视魔改版4.0.16](https://tansuo.lanzoub.com/iNP0c0qz8tnc){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
+> [蚂蚁影视终极美化版4.0.16](https://tansuo.lanzoub.com/iJuWz0ra8oyj){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
 > [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
 > [影视仓4.0.16](https://tansuo.lanzoub.com/ipTxL0qrq5yj){:target="_blank"} 结合[★接口★](https://leevi0321.gitee.io/api/){:target="_blank"}使用  
 > 
