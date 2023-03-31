@@ -1,7 +1,6 @@
     2023-03-31 更新 | Ctrl+F 搜索
 
-[![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"}  [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"}  
-IPTV直播源+TVBox仓库+好软分享  
+[![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享①IPTV直播源 ②TVBox仓库 ③好软  
 
 ## **经典必装**
 
