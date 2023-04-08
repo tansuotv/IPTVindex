@@ -127,7 +127,7 @@
 > [蜂蜜影视](https://tansuo.lanzoub.com/iJes70rmnfpi){:target="_blank"}  
 > [蜂蜜影视手机版](https://tansuo.lanzoub.com/i7jdi0rmngdc){:target="_blank"}  
 > [更多其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
-> 
+
 > <font color=red>不可或缺的大佬接口————————</font>  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱TV本地接口集合](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
@@ -137,18 +137,39 @@
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
-> 蜂蜜影视接口`https://download.kstore.space/download/2883/1022tv.json`  
-> 官方多仓版接口`https://raw.liucn.cc/box/dm.txt`  
-> 官方原版开源自用接口1 `https://raw.liucn.cc/box/m.json`  
-> 官方原版开源自用接口2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
-> 官方小苹果接口`https://raw.liucn.cc/box/xiaopingguo.json`  
-> 吾爱接口`http://52bsj.vip:98/wuai`  
-> 吾爱接口18版`http://52bsj.vip:98/18dxwoai`  
-> 唐三接口`https://hutool.ml/tang`  
-> 神器接口`https://神器每日推送.tk/pz.json`  
-> 饭太硬接口`http://饭太硬.ga/x/o.json`  
-> `http://刚刚.live/猫`  
-> `https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json`  
+> 影视`https://download.kstore.space/download/2883/1022tv.json`  
+> liucn多仓版`https://raw.liucn.cc/box/dm.txt`  
+> liucn开源自用1 `https://raw.liucn.cc/box/m.json`  
+> liucn开源自用2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
+> liucn小苹果`https://raw.liucn.cc/box/xiaopingguo.json`  
+> liucn`https://liu673cn.github.io/box/m.json`  
+> 吾爱`http://52bsj.vip:98/wuai`  
+> 吾爱`http://52bsj.vip:98/0805`  
+> 吾爱18版`http://52bsj.vip:98/18dxwoai`  
+> 唐三`https://hutool.ml/tang`  
+> 神器`https://神器每日推送.tk/pz.json`  
+> 饭太硬`http://饭太硬.ga/x/o.json`  
+> 刚刚`http://刚刚.live/猫`  
+> Fongmi`https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json`  
+> 俊于`http://home.jundie.top:81/top98.json`  
+> 霜辉月明py`https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json`  
+> 小雅dr`http://drpy.site/js1`  
+> 菜妮丝`https://tvbox.cainisi.cf`  
+> 巧技`http://pandown.pro/tvbox/tvbox.json`  
+> 巧技`https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json`  
+> 潇洒`https://download.kstore.space/download/2863/01.txt`  
+> 佰欣园`https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`  
+> 胖虎`https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json`  
+> 云星日记`https://maoyingshi.cc/tiaoshizhushou/1.txt`  
+> Yoursmile7`https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json`  
+> BOX`http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`  
+> 哔哩学习`http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0`  
+> UndCover`https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json`  
+> 木极`https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt`  
+> Ray`https://dxawi.github.io/0/0.json`  
+> 甜蜜`https://kebedd69.github.io/TVbox-interface/py甜蜜.json`  
+> 52bsj`http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`  
+> 肥猫`http://我不是.肥猫.love:63`  
 > `http://xiaoz123.ysepan.com/`  
 > `https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json`  
 > `https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json`  
@@ -157,10 +178,6 @@
 > `http://byyds.top/w.txt`  
 > `https://dxawi.github.io/0/0.json`  
 > `https://download.kstore.space/download/2863/01.txt`  
-> `https://liu673cn.github.io/box/m.json`  
-> `https://raw.liucn.cc/box/m.json`  
-> `https://raw.liucn.cc/box/xiaopingguo.json`  
-> `http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`  
 > `https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`  
 > `https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt`  
 > `https://freed.yuanhsing.cf/TVBox/meowcf.json`  
