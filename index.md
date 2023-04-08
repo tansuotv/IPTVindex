@@ -130,25 +130,28 @@
 > 
 > <font color=red>不可或缺的大佬接口————————</font>  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
-> [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
-> [云星接口](https://www.moil.cc/10.html){:target="_blank"}  
+> [吾爱TV本地接口集合](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
+> [MeowTV接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
+> [云星接口集合](https://www.moil.cc/10.html){:target="_blank"}  
 > 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
-> [★接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
-> `https://download.kstore.space/download/2883/1022tv.json`  
-> 多仓版接口`https://raw.liucn.cc/box/dm.txt`  
+> 蜂蜜影视接口`https://download.kstore.space/download/2883/1022tv.json`  
+> 官方多仓版接口`https://raw.liucn.cc/box/dm.txt`  
 > 官方原版开源自用接口1 `https://raw.liucn.cc/box/m.json`  
 > 官方原版开源自用接口2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
-> 小苹果接口`https://raw.liucn.cc/box/xiaopingguo.json`  
+> 官方小苹果接口`https://raw.liucn.cc/box/xiaopingguo.json`  
 > 吾爱接口`http://52bsj.vip:98/wuai`  
 > 吾爱接口18版`http://52bsj.vip:98/18dxwoai`  
 > 唐三接口`https://hutool.ml/tang`  
 > 神器接口`https://神器每日推送.tk/pz.json`  
 > 饭太硬接口`http://饭太硬.ga/x/o.json`  
->   
-> 其他更多接口————————  
+> `http://刚刚.live/猫`  
+> `https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json`  
+> `http://xiaoz123.ysepan.com/`  
+> `https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json`  
+> `https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json`  
 > `https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`  
 > `https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`  
 > `http://byyds.top/w.txt`  
