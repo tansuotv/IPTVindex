@@ -6,14 +6,15 @@
 
 > [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 央视卫视回看   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
-> 推荐直播源：`https://IPTVindex.com/tv.txt`  
+> 推荐直播源：`https://iptvindex.com/tv.txt`  
 > 
 > [影视仓4.0.20](https://tansuo.lanzoub.com/isFVN0scsojc){:target="_blank"} 空壳软件，结合接口使用   
 > 推荐接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
-> [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题 ![image](https://iptvindex.com/img/new1.png)  
+> [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题  
+> [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
 
 ## **影视点播 即点即看**
 
