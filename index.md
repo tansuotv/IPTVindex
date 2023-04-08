@@ -128,7 +128,7 @@
 > [蜂蜜影视手机版](https://tansuo.lanzoub.com/i7jdi0rmngdc){:target="_blank"}  
 > [更多其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 
-> <font color=red>不可或缺的大佬接口————————</font>  
+> <font color=red>不可或缺的TVBox接口————————</font>  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱TV本地接口集合](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
 > [MeowTV接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
@@ -141,7 +141,9 @@
 > liucn多仓版`https://raw.liucn.cc/box/dm.txt`  
 > liucn开源自用1 `https://raw.liucn.cc/box/m.json`  
 > liucn开源自用2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
-> liucn小苹果`https://raw.liucn.cc/box/xiaopingguo.json`  
+> 小苹果`https://raw.liucn.cc/box/xiaopingguo.json`  
+> 小苹果`https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
+> 大聪明`https://yydsys.top/duo`  
 > liucn`https://liu673cn.github.io/box/m.json`  
 > 吾爱`http://52bsj.vip:98/wuai`  
 > 吾爱`http://52bsj.vip:98/0805`  
@@ -149,8 +151,10 @@
 > 唐三`https://hutool.ml/tang`  
 > 神器`https://神器每日推送.tk/pz.json`  
 > 饭太硬`http://饭太硬.ga/x/o.json`  
+> 饭太硬`http://饭太硬.ga/tv`  
 > 刚刚`http://刚刚.live/猫`  
 > Fongmi`https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json`  
+> Fongmi`https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json`  
 > 俊于`http://home.jundie.top:81/top98.json`  
 > 霜辉月明py`https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json`  
 > 小雅dr`http://drpy.site/js1`  
