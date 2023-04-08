@@ -4,19 +4,13 @@
 
 ## **经典必装**
 
-> [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 央视卫视回看 ![image](https://iptvindex.com/img/hot1.png)   
+> [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 央视卫视回看   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
-> 推荐直播源：`https://IPTVindex.com/qt.txt`  
+> 推荐直播源：`https://IPTVindex.com/tv.txt`  
 > 
-> [影视仓4.0.20](https://tansuo.lanzoub.com/isFVN0scsojc){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png) 结合接口使用   
-> 推荐多仓接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
-> 
-> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
-> [蚂蚁影视4.0.19多种颜色版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
-> [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
-> [如意TV6.0.0](https://tansuo.lanzoub.com/iEKBI0rmmkkh){:target="_blank"}  
-> [蜂蜜影视](https://tansuo.lanzoub.com/iJes70rmnfpi){:target="_blank"}  
-> [蜂蜜影视手机版](https://tansuo.lanzoub.com/i7jdi0rmngdc){:target="_blank"}  
+> [影视仓4.0.20](https://tansuo.lanzoub.com/isFVN0scsojc){:target="_blank"} 空壳软件，结合接口使用   
+> 推荐接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
+> [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 > [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题 ![image](https://iptvindex.com/img/new1.png)  
@@ -126,10 +120,14 @@
 > 手机版：[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf){:target="_blank"} [EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 > 
 > 其他魔改TVBox应用————————  
-> [蚂蚁影视魔改版4.0.16](https://tansuo.lanzoub.com/iNP0c0qz8tnc){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
-> [如意TV等其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
+> [蚂蚁影视4.0.19多种颜色版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
+> [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
+> [如意TV6.0.0](https://tansuo.lanzoub.com/iEKBI0rmmkkh){:target="_blank"}  
+> [蜂蜜影视](https://tansuo.lanzoub.com/iJes70rmnfpi){:target="_blank"}  
+> [蜂蜜影视手机版](https://tansuo.lanzoub.com/i7jdi0rmngdc){:target="_blank"}  
+> [更多其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 > 
-> 不可或缺的大佬接口————————  
+> <font color=red>不可或缺的大佬接口————————</font>  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
 > [云星接口](https://www.moil.cc/10.html){:target="_blank"}  
@@ -137,7 +135,8 @@
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
-> [接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
+> [★接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
+> `https://download.kstore.space/download/2883/1022tv.json`  
 > 多仓版接口`https://raw.liucn.cc/box/dm.txt`  
 > 官方原版开源自用接口1 `https://raw.liucn.cc/box/m.json`  
 > 官方原版开源自用接口2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
@@ -271,7 +270,7 @@
 
 > [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-> [李跳跳 派大星 2.01最新版官方下载](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} 密码`1233`
+> [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
 > 自动跳过启动页广告  
 > 长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
 
