@@ -137,7 +137,7 @@
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
-> bulisite`http://jiexi.bulisite.top/iptv.txt`
+> bulisite`http://jiexi.bulisite.top/iptv.txt`  
 > 影视`https://download.kstore.space/download/2883/1022tv.json`  
 > liucn多仓版`https://raw.liucn.cc/box/dm.txt`  
 > liucn开源自用1 `https://raw.liucn.cc/box/m.json`  
