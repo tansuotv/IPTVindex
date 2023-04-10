@@ -1,4 +1,4 @@
-    2023-04-09 更新 | Ctrl+F 搜索
+    2023-04-10 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -128,7 +128,7 @@
 > [蜂蜜影视手机版](https://tansuo.lanzoub.com/i7jdi0rmngdc){:target="_blank"}  
 > [更多其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 
-> <font color=red>不可或缺的TVBox接口</font>  
+> <font color=red>TVBox接口★★★</font>  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱TV本地接口集合](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
 > [MeowTV接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
