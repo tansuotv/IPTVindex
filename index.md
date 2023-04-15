@@ -1,4 +1,4 @@
-    2023-04-14 更新 | Ctrl+F 搜索
+    2023-04-15 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -9,7 +9,8 @@
 > 推荐直播源：`https://iptvindex.com/tv.txt`  
 > 
 > [影视仓4.0.21](https://tansuo.lanzoub.com/iiqdq0t0lfvc){:target="_blank"} ![image](https://iptvindex.com/img/new1.png) 空壳软件，结合接口使用   
-> 推荐接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
+> 蚂蚁多仓接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
+> 4K网盘搜索接口：`https://yydsys.top/duo/x.json`  
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
