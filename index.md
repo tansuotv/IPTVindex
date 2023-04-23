@@ -11,7 +11,7 @@
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > [影视仓4.0.22](https://tansuo.lanzoub.com/iklGv0tc448d){:target="_blank"} ![image](https://iptvindex.com/img/hot.png) 空壳软件，结合接口使用   
 > 蚂蚁多仓接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
-> **4K网盘搜索接口**：`https://yydsys.top/duo/x.json` <font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
+> **4K网盘接口**：`https://yydsys.top/duo/x.json` <font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
 > 
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
