@@ -1,4 +1,4 @@
-    2023-04-18 更新 | Ctrl+F 搜索
+    2023-04-23 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -10,11 +10,10 @@
 > 
 > [影视仓4.0.22](https://tansuo.lanzoub.com/iklGv0tc448d){:target="_blank"} ![image](https://iptvindex.com/img/new1.png) 空壳软件，结合接口使用   
 > 蚂蚁多仓接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
-> 4K网盘搜索接口：`https://yydsys.top/duo/x.json`  
+> 4K网盘搜索接口：`https://yydsys.top/duo/x.json`，设定此接口后弹出阿里云免扫码方法 ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 
 > [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
-> [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题  
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
 ## **影视点播 即点即看**
@@ -395,6 +394,8 @@
 * [Office 2016精简版](https://www.ghxi.com/office4n1.html){:target="_blank"} 推荐安装版，仅234M
 
 > #### 效率工具应用
+
+* [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题  
 
 * [antdownload度盘下载神器](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} 全网最强，无需登陆，不怕封号，秒杀脚本直链
 
