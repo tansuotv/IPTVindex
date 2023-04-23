@@ -8,12 +8,11 @@
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
 > 推荐直播源：`https://iptvindex.com/tv.txt`  
 > 
-> [影视仓4.0.22](https://tansuo.lanzoub.com/iklGv0tc448d){:target="_blank"} ![image](https://iptvindex.com/img/new1.png) 空壳软件，结合接口使用   
+> [影视仓4.0.22](https://tansuo.lanzoub.com/iklGv0tc448d){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
 > 蚂蚁多仓接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
-> 4K网盘搜索接口：`https://yydsys.top/duo/x.json`，设定此接口后弹出阿里云免扫码方法 ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
+> **4K网盘搜索接口**：`https://yydsys.top/duo/x.json` <font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
 > [小苹果影视盒子1.0.7](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 
-> [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
 ## **影视点播 即点即看**
@@ -61,8 +60,8 @@
 > [最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90){:target="_blank"}  
 >   
 > 偷懒的方法：找大佬的直播源接口  
-> `https://iptvindex.com/tv.txt`（IPTVindex特供） ![image](https://iptvindex.com/img/hot1.png)  
-> `https://yydsys.top/duo/txt/v.txt` ![image](https://iptvindex.com/img/hot1.png)  
+> `https://iptvindex.com/tv.txt`（IPTVindex特供） ![image](https://iptvindex.com/img/hot.png)  
+> `https://yydsys.top/duo/txt/v.txt` ![image](https://iptvindex.com/img/hot.png)  
 > `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`（月光寶盒PRO直播源）  
 > `https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt`
 > `https://tvsee.github.io/diyp/tv.txt`  
@@ -70,10 +69,10 @@
 > `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`  
 > `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`  
 > 
-> [肥羊影音直播源](https://youshandefeiyang.github.io/){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
+> [肥羊影音直播源](https://youshandefeiyang.github.io/){:target="_blank"} ![image](https://iptvindex.com/img/hot.png)  
 > 
 > [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表  
-> `https://iptv-org.github.io/iptv/index.m3u` ![image](https://iptvindex.com/img/hot1.png)  
+> `https://iptv-org.github.io/iptv/index.m3u`   
 > `https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)  
 > `https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)  
 > `https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)  
@@ -128,10 +127,10 @@
 > [蜂蜜影视手机版](https://tansuo.lanzoub.com/i7jdi0rmngdc){:target="_blank"}  
 > [更多其他应用](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 
-> <font color=red>TVBox接口★★★</font>  
+> <font color=red>TVBox接口★★★</font> ![image](https://iptvindex.com/img/hot.png)  
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱TV本地接口集合](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
-> [MeowTV接口集合](https://leevi0321.gitee.io/api/){:target="_blank"} ![image](https://iptvindex.com/img/hot1.png)  
+> [MeowTV接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
 > [云星接口集合](https://www.moil.cc/10.html){:target="_blank"}  
 > 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
@@ -296,7 +295,7 @@
 
 > [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-> [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"} ![image](https://iptvindex.com/img/new1.png)  
+> [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"} ![image](https://iptvindex.com/img/hot.png)  
 > 自动跳过启动页广告  
 > 长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
 
@@ -396,6 +395,8 @@
 > #### 效率工具应用
 
 * [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题  
+
+* [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 
 * [antdownload度盘下载神器](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} 全网最强，无需登陆，不怕封号，秒杀脚本直链
 
