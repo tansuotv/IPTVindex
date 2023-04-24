@@ -1,4 +1,4 @@
-    2023-04-23 更新 | Ctrl+F 搜索
+    2023-04-24 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -395,6 +395,8 @@
 > #### 效率工具应用
 
 * [驱动总裁单文件版](https://tansuo.lanzoub.com/irGgp0rbv8oh){:target="_blank"} 一招解决电脑驱动问题  
+
+* [Alist RaiDrive自动安装](https://tansuo.lanzoub.com/iX0Xp0tu1cjc){:target="_blank"} 详情浏览[吾爱破解这个帖子](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1713978){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 
 * [PanDownload](https://pandownload.net){:target="_blank"} 解决百度网盘没VIP下载慢的问题  
 
