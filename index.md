@@ -1,4 +1,4 @@
-    2023-04-24 更新 | Ctrl+F 搜索
+    2023-04-25 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -365,6 +365,8 @@
 * [CloudBox](https://note.youdao.com/ynoteshare/index.html?id=d86269fb8e2c30850a2f993ddcc1c1c5){:target="_blank"} 超牛聚合工具箱，仅10M不到，内置近两百款实用工具
 
 > #### 下载Windows系统
+
+* [果核 Windows 10 Pro 22H2(19045.2075) 优化精简版/极度精简版](https://www.123pan.com/s/HQeA-w71Sh){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 已经作为果核自己主力机使用   
 
 * [itellyou新版](https://next.itellyou.cn){:target="_blank"} WINDOWS11系统原版
 
