@@ -10,8 +10,11 @@
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 > [影视仓4.0.23](https://tansuo.lanzoub.com/iv8RM0u54v7i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
-> 蚂蚁多仓接口：`https://agit.ai/n/b/raw/branch/master/o/n.json`  
-> **4K网盘接口**：`https://yydsys.top/duo/x.json` <font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
+> 推荐1：蚂蚁多仓接口 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
+> 推荐2：应用多多多仓接口 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
+> 推荐3：欧歌多仓接口 `http://tv.nxog.top/api.php?id=1`  
+> 
+> **应用多多的4K网盘接口**：<font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
 > 
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
@@ -120,6 +123,7 @@
 > 手机版：[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf){:target="_blank"} [EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 > 
 > 其他魔改TVBox应用————————  
+> [影视仓库](http://www.wmdz.com){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 > [蚂蚁影视4.0.19多种颜色版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
 > [星辰TV2.1](https://tansuo.lanzoub.com/ioFJu0qkyzta){:target="_blank"}  
 > [如意TV6.0.0](https://tansuo.lanzoub.com/iEKBI0rmmkkh){:target="_blank"}  
@@ -131,20 +135,26 @@
 > [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}  
 > [吾爱TV本地接口集合](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}  
 > [MeowTV接口集合](https://leevi0321.gitee.io/api/){:target="_blank"}  
+> [欧歌接口集合](http://tv.nxog.top/){:target="_blank"} ![image](https://iptvindex.com/img/new.png)   
+> 
 > [云星接口集合](https://www.moil.cc/10.html){:target="_blank"}  
 > 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`  
 > 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`  
+> 
 > bulisite`http://jiexi.bulisite.top/iptv.txt`  
 > 影视`https://download.kstore.space/download/2883/1022tv.json`  
 > liucn多仓版`https://raw.liucn.cc/box/dm.txt`  
+> liucn`https://liu673cn.github.io/box/m.json`  
 > liucn开源自用1 `https://raw.liucn.cc/box/m.json`  
 > liucn开源自用2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
 > 小苹果`https://raw.liucn.cc/box/xiaopingguo.json`  
 > 小苹果`https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
 > 大聪明`https://yydsys.top/duo`  
-> liucn`https://liu673cn.github.io/box/m.json`  
+> 应用多多`https://jihulab.com/duomv/apps/-/raw/main/fast.json` ![image](https://iptvindex.com/img/hot.png)   
+> 欧哥`http://tv.nxog.top/api.php?id=1` ![image](https://iptvindex.com/img/hot.png)   
+> 
 > 吾爱`http://52bsj.vip:98/wuai`  
 > 吾爱`http://52bsj.vip:98/0805`  
 > 吾爱18版`http://52bsj.vip:98/18dxwoai`  
