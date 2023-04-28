@@ -10,9 +10,10 @@
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 > [影视仓4.0.23](https://tansuo.lanzoub.com/iv8RM0u54v7i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
-> 推荐1：蚂蚁多仓接口 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
-> 推荐2：应用多多多仓接口 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
-> 推荐3：欧歌多仓接口 `http://tv.nxog.top/api.php?id=1`  
+> 多仓接口推荐：
+> 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
+> 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
+> 3欧歌 `http://tv.nxog.top/api.php?id=1`  
 > 
 > **应用多多的4K网盘接口**：<font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
 > 
