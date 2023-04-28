@@ -14,8 +14,9 @@
 > 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
 > 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
 > 3欧歌 `http://tv.nxog.top/api.php?id=1`  
-> 
-> **应用多多的4K网盘接口**：<font color=red>设定此接口后弹出阿里云盘免扫码方法</font> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件；②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
+> <font color=red>设定应用多多的4K网盘接口后弹出阿里云盘免扫码方法</font>  
+> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件  
+> ②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
 > 
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
