@@ -10,7 +10,7 @@
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 > [影视仓4.0.23](https://tansuo.lanzoub.com/iv8RM0u54v7i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
-> 多仓接口推荐：
+> 多仓接口推荐：  
 > 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
 > 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
 > 3欧歌 `http://tv.nxog.top/api.php?id=1`  
