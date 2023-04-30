@@ -1,4 +1,4 @@
-    2023-04-28 更新 | Ctrl+F 搜索
+    2023-04-30 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -153,14 +153,15 @@
 > liucn开源自用2 `https://agit.ai/liucn/box/raw/branch/main/m.json`  
 > 小苹果`https://raw.liucn.cc/box/xiaopingguo.json`  
 > 小苹果`https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
-> 大聪明`https://yydsys.top/duo`  
-> 应用多多`https://jihulab.com/duomv/apps/-/raw/main/fast.json` ![image](https://iptvindex.com/img/hot.png)   
-> 欧哥`http://tv.nxog.top/api.php?id=1` ![image](https://iptvindex.com/img/hot.png)   
+> 应用多多家庭版`https://yydsys.top/duo`  
+> 阿里精品专线`https://yydsys.top/duo/ali`   
+> 应用多多多仓聚合`https://jihulab.com/duomv/apps/-/raw/main/fast.json` ![image](https://iptvindex.com/img/hot.png)   
+> 欧哥多仓聚合`http://tv.nxog.top/api.php?id=1`   
 > 
 > 吾爱`http://52bsj.vip:98/wuai`  
 > 吾爱`http://52bsj.vip:98/0805`  
 > 吾爱18版`http://52bsj.vip:98/18dxwoai`  
-> 唐三`https://hutool.ml/tang`  
+> 唐三`http://tvbo.run.goorm.site/tangs.json` ![image](https://iptvindex.com/img/new.png)  
 > 神器`https://神器每日推送.tk/pz.json`  
 > 饭太硬`http://饭太硬.ga/x/o.json`  
 > 饭太硬`http://饭太硬.ga/tv`  
