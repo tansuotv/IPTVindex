@@ -1,4 +1,6 @@
-    2023-04-30 更新 | Ctrl+F 搜索
+    2023-05-01 更新 | Ctrl+F 搜索
+
+![image](https://iptvindex.com/img/20230501.png)
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -7,7 +9,10 @@
 > [太阳直播](https://tansuo.lanzoub.com/iOFZa0klsv3e){:target="_blank"} 央视卫视回看   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
 > 推荐直播源：`https://iptvindex.com/tv.txt`  
-> 获取EPG电子节目单：[https://epg.112114.xyz](https://epg.112114.xyz){:target="_blank"} [备用1](https://epg.112114.eu.org){:target="_blank"} [备用2](http://diyp.112114.xyz){:target="_blank"}  
+> EPG电子节目单（各省可能不同，看哪个能用就行）  
+> `https://epg.112114.xyz`  
+> `https://epg.112114.eu.org`  
+> `http://diyp.112114.xyz`  
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 > [影视仓4.0.23](https://tansuo.lanzoub.com/iv8RM0u54v7i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
