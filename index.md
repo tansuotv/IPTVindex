@@ -1,6 +1,4 @@
-    2023-05-01 更新 | Ctrl+F 搜索
-
-![image](https://iptvindex.com/img/20230501.png)
+    2023-05-05 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -15,7 +13,8 @@
 > `http://diyp.112114.xyz`  
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
-> [影视仓4.0.23](https://tansuo.lanzoub.com/iv8RM0u54v7i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
+> [影视仓4.0.24TV版](https://tansuo.lanzoub.com/iNBgv0usap6f){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
+> [影视仓1.0.1手机版](https://tansuo.lanzoub.com/ihI3P0usapgf){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
 > 多仓接口推荐：  
 > 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
 > 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
