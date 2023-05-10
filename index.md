@@ -1,4 +1,4 @@
-    2023-05-05 更新 | Ctrl+F 搜索
+    2023-05-10 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软  
 
@@ -12,16 +12,13 @@
 > `https://epg.112114.eu.org`  
 > `http://diyp.112114.xyz`  
 > 
-> [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
-> [影视仓4.0.24TV版](https://tansuo.lanzoub.com/iNBgv0usap6f){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
-> [影视仓1.0.1手机版](https://tansuo.lanzoub.com/ihI3P0usapgf){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
+> [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}   
+> [影视仓4.0.25 TV版](https://tansuo.lanzoub.com/i85Pr0v6c03i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
+> [影视仓1.0.1 手机版](https://tansuo.lanzoub.com/ihI3P0usapgf){:target="_blank"} 空壳软件，结合接口使用   
 > 多仓接口推荐：  
 > 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
 > 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
-> 3欧歌 `http://tv.nxog.top/api.php?id=1`  
-> <font color=red>设定应用多多的4K网盘接口后弹出阿里云盘免扫码方法</font>  
-> ①获取token：手机登录阿里云盘APP，登录账号后，通过手机文件管理，找到路径：Android\data\com.alicloud.databox\files\logs\trace\网盘id(多位数字)\yunpan，其中找到刚刚的登录日期log文件，打开后查找refreshToken后面的32位数字，将其填入token.txt文件  
-> ②导入文件：将token.txt文件放入tvbox文件夹，将文件夹复制进盒子根目录即可   
+> 3欧歌 `http://tv.nxog.top/api.php?id=1`     
 > 
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
