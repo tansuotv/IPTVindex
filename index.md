@@ -292,9 +292,9 @@
 
 ## **梯子**
 
-> [GreatWall](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码: `f22q`
-
-> [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
+> [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}   
+> [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg){:target="_blank"}   
+> [Clash 汉化](https://github.com/BoyceLig/Clash_Chinese_Patch){:target="_blank"}   
 
 ## **阅读及其他**
 
