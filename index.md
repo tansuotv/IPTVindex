@@ -14,7 +14,7 @@
 > `http://epg.hklive.tv`
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}   
-> [影视仓4.0.25 TV版](https://tansuo.lanzoub.com/i85Pr0v6c03i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
+> [影视仓4.0.26 TV版](https://tansuo.lanzoub.com/ixOOU0va8hda){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
 > [影视仓1.0.1 手机版](https://tansuo.lanzoub.com/ihI3P0usapgf){:target="_blank"} 空壳软件，结合接口使用   
 > 多仓接口推荐：  
 > 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
