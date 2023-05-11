@@ -11,6 +11,7 @@
 > `https://epg.112114.xyz`  
 > `https://epg.112114.eu.org`  
 > `http://diyp.112114.xyz`  
+> `http://epg.hklive.tv`
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}   
 > [影视仓4.0.25 TV版](https://tansuo.lanzoub.com/i85Pr0v6c03i){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
