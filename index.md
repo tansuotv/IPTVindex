@@ -8,10 +8,12 @@
 > [超级iTV](https://tansuo.lanzoub.com/iOQhb0vguj4b){:target="_blank"} ![image](https://iptvindex.com/img/new.png)  
 > [DIYP影音魔改版4K](https://tansuo.lanzoub.com/iyC5f0vgunwd){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合直播源使用   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
-> 推荐直播源：`https://iptvindex.com/tv.txt` `http://hklive.tv/list.m3u` `http://hklive.tv/raw.m3u` ![image](https://iptvindex.com/img/new.png)  
+> 推荐直播源：`https://iptvindex.com/tv.txt`   
+> `http://hklive.tv/list.m3u` ![image](https://iptvindex.com/img/new.png)   
+> `http://hklive.tv/raw.m3u` ![image](https://iptvindex.com/img/new.png)  
 > EPG电子节目单（各省可能不同，看哪个能用就行）  
 > `https://epg.112114.xyz` `https://epg.112114.eu.org` `http://diyp.112114.xyz`  
-> `http://epg.hklive.tv`   
+> `http://epg.hklive.tv` ![image](https://iptvindex.com/img/new.png)    
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}   
 > [影视仓4.0.26 TV版](https://tansuo.lanzoub.com/ixOOU0va8hda){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合接口使用   
