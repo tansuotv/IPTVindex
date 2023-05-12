@@ -9,8 +9,12 @@
 > [DIYP影音魔改版4K](https://tansuo.lanzoub.com/iyC5f0vgunwd){:target="_blank"} ![image](https://iptvindex.com/img/new.png) 空壳软件，结合直播源使用   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
 > 推荐直播源：`https://iptvindex.com/tv.txt`   
-> `http://hklive.tv/list.m3u` ![image](https://iptvindex.com/img/new.png)   
-> `http://hklive.tv/raw.m3u` ![image](https://iptvindex.com/img/new.png)  
+> 江西移动：`https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E6%B1%9F%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt`   
+> 江西电信：`https://raw.githubusercontent.com/Yonsm/IPTV/master/jiangxi/telecom.m3u8`   
+> `https://live.fanmingming.com/tv/m3u/global.m3u` ![image](https://iptvindex.com/img/new.png)  
+> `https://live.fanmingming.com/tv/m3u/ipv6.m3u`   
+> `http://hklive.tv/list.m3u`   
+> `http://hklive.tv/raw.m3u`  
 > EPG电子节目单（各省可能不同，看哪个能用就行）  
 > `https://epg.112114.xyz` `https://epg.112114.eu.org` `http://diyp.112114.xyz`  
 > `http://epg.hklive.tv` ![image](https://iptvindex.com/img/new.png)    
