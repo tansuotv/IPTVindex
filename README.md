@@ -1,4 +1,4 @@
-# [IPTVindex.com](https://iptvindex.com/){:target="_blank"}
+# [IPTVindex.com](https://iptvindex.com/)
 Enjoy IPTV !  
 
 电视直播源接口：
