@@ -1,4 +1,4 @@
-    2023-05-20 更新 | Ctrl+F 搜索
+    2023-05-21 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软 [编辑](https://github.com/tansuotv/IPTVindex){:target="_blank"}  
 
@@ -8,7 +8,7 @@
 > [超级iTV](https://tansuo.lanzoub.com/iOQhb0vguj4b){:target="_blank"}  
 > [DIYP影音魔改版4K](https://tansuo.lanzoub.com/iyC5f0vgunwd){:target="_blank"} 空壳软件，结合直播源使用   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
-> 推荐直播源：`https://iptvindex.com/tv.txt`   
+> 推荐直播源：`https://iptvindex.com/tv.txt` `https://sourl.cn/y4kFym`   
 > 江西移动：`https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E6%B1%9F%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt`   
 > 江西电信：`https://raw.githubusercontent.com/Yonsm/IPTV/master/jiangxi/telecom.m3u8`   
 > `https://live.fanmingming.com/tv/m3u/global.m3u`  
