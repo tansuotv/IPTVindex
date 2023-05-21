@@ -8,15 +8,17 @@
 > [超级iTV](https://tansuo.lanzoub.com/iOQhb0vguj4b){:target="_blank"}  
 > [DIYP影音魔改版4K](https://tansuo.lanzoub.com/iyC5f0vgunwd){:target="_blank"} 空壳软件，结合直播源使用   
 > [派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni){:target="_blank"} 空壳软件，结合直播源使用   
-> 推荐直播源：`https://iptvindex.com/tv.txt` `https://sourl.cn/y4kFym`   
-> 江西移动：`https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E6%B1%9F%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt`   
-> 江西电信：`https://raw.githubusercontent.com/Yonsm/IPTV/master/jiangxi/telecom.m3u8`   
+> 推荐直播源：  
+> `https://iptvindex.com/tv.txt`  
+> `https://sourl.cn/y4kFym`   
 > `https://live.fanmingming.com/tv/m3u/global.m3u`  
 > `https://live.fanmingming.com/tv/m3u/ipv6.m3u`   
 > `http://hklive.tv/list.m3u`   
 > `http://hklive.tv/raw.m3u`  
 > EPG电子节目单（各省可能不同，看哪个能用就行）  
-> `https://epg.112114.xyz` `https://epg.112114.eu.org` `http://diyp.112114.xyz`  
+> `https://epg.112114.xyz`  
+> `https://epg.112114.eu.org`  
+> `http://diyp.112114.xyz`  
 > `http://epg.hklive.tv`    
 > 
 > [小苹果影视盒子1.0.8](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}   
@@ -75,6 +77,8 @@
 >   
 > 偷懒的方法：找大佬的直播源接口  
 > `https://iptvindex.com/tv.txt`（IPTVindex特供） ![image](https://iptvindex.com/img/hot.png)  
+> 江西移动：`https://raw.githubusercontent.com/SPX372928/MyIPTV/master/%E6%B1%9F%E8%A5%BFPLTV%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt`   
+> 江西电信：`https://raw.githubusercontent.com/Yonsm/IPTV/master/jiangxi/telecom.m3u8`   
 > `https://yydsys.top/duo/txt/v.txt` ![image](https://iptvindex.com/img/hot.png)  
 > `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`（月光寶盒PRO直播源）  
 > `https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt`
