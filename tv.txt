@@ -68,21 +68,21 @@ CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op
 4KUHD,http://124.232.233.6:6060/000000001901/202200010028/index.m3u8?m3u8_level=2
 
 港台,#genre#
-凤凰中文,http://117.169.119.199:8080/live/fhchinese/index.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://111.59.189.40:8445/tsfile/live/1020_1.m3u8#rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G#http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰资讯,http://117.169.119.199:8080/live/fhzixun/index.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8#http://111.59.189.40:8445/tsfile/live/1021_1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8#rtmp://playtv-live.ifeng.com:1935/live/06OLEEWQKN4#rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4#http://2022.stream-link.org/live/1770675188#http://120.84.96.73:808/hls/28/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-翡翠,http://162.19.247.76:22222/live/tvbfc/index.m3u8#http://113.117.74.4:8081/hls/67/index.m3u8
+凤凰中文,http://117.169.119.199:8080/live/fhchinese/index.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://111.59.189.40:8445/tsfile/live/1020_1.m3u8#rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G#http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-91617067-65dd-4def-bbb4-8c356cc0aaf8.m3u8
+凤凰资讯,http://117.169.119.199:8080/live/fhzixun/index.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8#http://111.59.189.40:8445/tsfile/live/1021_1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8#rtmp://playtv-live.ifeng.com:1935/live/06OLEEWQKN4#rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4#http://2022.stream-link.org/live/1770675188#http://120.84.96.73:808/hls/28/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-16637939-0b65-4cbe-b092-e1f96056babc.m3u8
+翡翠,http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/n90gt#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u#http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8#http://61.10.2.152:80/live_freedirect/freehd209_h.live/chunklist.m3u8#http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8#http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-31829e6c-9a75-488d-8913-52026eef2c07.m3u8#http://live.cooltv.top/tv/tvb.php?id=0&hq#
 无线财经资讯,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 有线财经,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 香港国际财经,http://107.151.203.111:2209/135/hk.php?id=cable76h#http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 经典电影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 天映经典,http://210.210.155.37/session/adc72430-7e78-11ed-a3b3-8245885f9817/qwr9ew/s/s31/01.m3u8
-TVBS新闻,http://2023.stream-link.org/live/401131254
+东森新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18617bfd-c179-4b64-beb7-88f7af03cc61.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天亚洲,http://2023.stream-link.org/live/1096161090
-翡翠,http://2022.stream-link.org/live/131217689
-无线新闻,http://2022.stream-link.org/live/1488149502
-有线新闻,http://2022.stream-link.org/live/970235901
 Asianet News,http://2022.stream-link.org/live/366568951
 DW News,http://2022.stream-link.org/live/92833505
 CNA News,http://2022.stream-link.org/live/1603999174
@@ -91,8 +91,6 @@ EURO News,http://2022.stream-link.org/live/1059084541
 France 24 English,http://2022.stream-link.org/live/1210415010
 SKY News,http://2022.stream-link.org/live/127064321
 无线新闻,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 东森洋片,http://120.84.96.73:808/hls/33/index.m3u8
 天映经典,http://120.84.96.73:808/hls/85/index.m3u8
 好莱坞电影,http://120.84.96.73:808/hls/24/index.m3u8
@@ -331,7 +329,9 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 
 
 国外,#genre# 
-CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+BBC AMERICA,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8#
+BBC DRAMA,https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+CNN,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8#http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 Fox News,http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
