@@ -1,4 +1,4 @@
-    2023-05-23 更新 | Ctrl+F 搜索
+    2023-05-24 更新 | Ctrl+F 搜索
 
 [![B站](https://iptvindex.com/img/bilibili.png)](https://space.bilibili.com/377746815){:target="_blank"} [![电报群](https://iptvindex.com/img/telegram.png)](https://t.me/tansuo){:target="_blank"} 收集分享IPTV直播源 TVBox仓库 好软 [编辑](https://github.com/tansuotv/IPTVindex){:target="_blank"}  
 
@@ -29,8 +29,8 @@
 > 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
 > 3欧歌 `http://tv.nxog.top/api.php?id=1`  
 > 
-> [★星视界★](https://histar.tv/){:target="_blank"} 海外免费点播   
-> [★泥视频★](https://www.nivod.tv/){:target="_blank"} 海外免费点播   
+> [★星视界★](https://histar.tv/){:target="_blank"} 海外免费点播+电视直播   
+> [★泥视频★](https://www.nivod.tv/){:target="_blank"} 海外免费点播+电视直播   
 > 
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
