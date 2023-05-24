@@ -1360,7 +1360,6 @@ EURO News,http://2022.stream-link.org/live/1059084541
 France 24 English,http://2022.stream-link.org/live/1210415010
 SKY News,http://2022.stream-link.org/live/127064321
 
-
 人文,#genre#
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 求索纪录,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8#rtsp://115.153.233.154/PLTV/88888888/224/3221227035/86502224.smil#http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8#http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD5775U31936182K776AC3C1IC7F7E2B7PBM316F986V0Z9C465W161DD2827A6455F0&playtoken=31650CCBYWVYENM10&verifycode=2003485633&rate=org&programid=4200900158.m3u8#http://183.249.160.53:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls#http://183.214.126.200:3003/live/qsjl/index.m3u8
@@ -1371,7 +1370,16 @@ SKY News,http://2022.stream-link.org/live/127064321
 上海纪实人文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8#http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8#https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 SiTV全纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000#rtsp://115.153.233.154/PLTV/88888888/224/3221225951/10000100000000060000000000905987_0.smil#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8#http://39.134.19.131/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 iHOT爱历史,http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.179.141/PLTV/88888888/224/3221231582/index.m3u8#https://live.v1.mk/aishang/jyjs#rtsp://115.153.233.154/PLTV/88888888/224/3221226823/59781863.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226823/59781863.smil?#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8#https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+
+湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南金鹰纪实,rtsp://115.153.245.70/PLTV/88888888/224/3221226823/59781863.smil
+湖南金鹰纪实,http://117.148.179.141/PLTV/88888888/224/3221231582/index.m3u8
+湖南金鹰纪实,https://live.v1.mk/aishang/jyjs#rtsp://115.153.233.154/PLTV/88888888/224/3221226823/59781863.smil
+湖南金鹰纪实,rtsp://115.153.212.72/PLTV/88888888/224/3221226823/59781863.smil?
+湖南金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+湖南金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+
 车迷,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8#rtsp://115.153.233.154/PLTV/88888888/224/3221227027/86502211.smil
 地理,rtsp://115.153.233.154/PLTV/88888888/224/3221227040/86502111.smil
 环球旅游,rtsp://115.153.233.154/PLTV/88888888/224/3221227033/86502177.smil
@@ -1450,6 +1458,8 @@ SiTV劲爆体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/j
 SiTV魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000#http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 SiTV极速汽车,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#rtsp://115.153.233.154/PLTV/88888888/224/3221225619/iptv8000.smil#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8#http://39.134.19.7/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8
 先锋乒羽,rtsp://115.153.212.72/PLTV/88888888/224/3221226935/72307307.smil?
+先锋乒羽,rtsp://115.153.245.70/PLTV/88888888/224/3221226935/72307307.smil
+
 体育赛事,http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
 台球,rtsp://115.153.233.154/PLTV/88888888/224/3221227034/86502060.smil#http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
 足球,rtsp://115.153.233.154/PLTV/88888888/224/3221227019/86502107.smil#http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
