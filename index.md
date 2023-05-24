@@ -27,7 +27,10 @@
 > 多仓接口推荐：  
 > 1蚂蚁 `https://agit.ai/n/b/raw/branch/master/o/n.json`  
 > 2应用多多 `https://jihulab.com/duomv/apps/-/raw/main/fast.json`  
-> 3欧歌 `http://tv.nxog.top/api.php?id=1`     
+> 3欧歌 `http://tv.nxog.top/api.php?id=1`  
+> 
+> [★星视界★](https://histar.tv/){:target="_blank"} 海外免费点播   
+> [★泥视频★](https://www.nivod.tv/){:target="_blank"} 海外免费点播   
 > 
 > [李跳跳2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb){:target="_blank"}  
 
