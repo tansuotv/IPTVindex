@@ -832,6 +832,10 @@ CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m
 云南卫视,http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
 
 延边卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
+http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
+http://iptv.kjrzxhb.top:2086/udp/239.11.0.206:5140
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -918,6 +922,8 @@ CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m
 南昌公共频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8
 南昌公共频道,http://39.135.138.58:18890/PLTV/88888888/224/3221226231/index.m3u8
 
+延边2套,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 
@@ -973,6 +979,17 @@ CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 
+星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
+星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
+星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.23:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.28:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.73:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.113:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.50:808/hls/79/index.m3u8
+星空卫视,http://113.117.74.8:808/hls/87/index.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
