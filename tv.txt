@@ -2046,6 +2046,8 @@ Sky News,http://50.7.238.98:8278/skynews_antik/playlist.m3u8?tid=MA7A89955222899
 
 NHK World Premium,https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 
+NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
+
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
