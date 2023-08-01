@@ -608,6 +608,7 @@ CGTV英语,http://php.17186.eu.org/ysp/cgtv.m3u8
 
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
 北京卫视,http://php.17186.eu.org/ysp/bjws.m3u8
+北京卫视,http://jh.d7g.cn/tv/zx2023.php?id=351
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw79763105_122181519/ott.mobaibox.com/PLTV/88888890/224/3221225574/index.m3u8?icpid=88888890&RTS=1687952291&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
@@ -619,6 +620,26 @@ CGTV英语,http://php.17186.eu.org/ysp/cgtv.m3u8
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
 北京卫视,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 北京卫视,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+
+BTV2文艺,http://jh.d7g.cn/tv/zx2023.php?id=352
+BTV2文艺,http://jh.d7g.cn/tv/zx2023.php?id=400
+
+BTV3纪实科教,http://jh.d7g.cn/tv/zx2023.php?id=401
+
+BTV4影视,http://jh.d7g.cn/tv/zx2023.php?id=353
+BTV4影视,http://jh.d7g.cn/tv/zx2023.php?id=402
+
+BTV5财经,http://jh.d7g.cn/tv/zx2023.php?id=403
+
+BTV7生活,http://jh.d7g.cn/tv/zx2023.php?id=405
+
+BTV9新闻,http://jh.d7g.cn/tv/zx2023.php?id=354
+BTV9新闻,http://jh.d7g.cn/tv/zx2023.php?id=406
+
+BTV10Kaku少儿,http://jh.d7g.cn/tv/zx2023.php?id=407
+
+BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=355
+BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 深圳卫视,http://php.17186.eu.org/ysp/szws.m3u8
@@ -2253,12 +2274,17 @@ BBC World News,http://50.7.238.98:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781
 
 CBSN,http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
 CNN,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://50.7.238.98:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+
+cheddar news,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
