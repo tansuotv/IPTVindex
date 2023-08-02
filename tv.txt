@@ -505,8 +505,8 @@ CCTV-高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221227036/8650210
 CCTV-高尔夫网球,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
 
-CGTN英语,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1352433055_-1343958730/ott.mobaibox.com/PLTV/88888890/224/3221225917/index.m3u8?icpid=88888890&RTS=1687953564&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-CGTV英语,http://php.17186.eu.org/ysp/cgtv.m3u8
+CGTN,http://php.17186.eu.org/ysp/cgtv.m3u8
+CGTN,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1352433055_-1343958730/ott.mobaibox.com/PLTV/88888890/224/3221225917/index.m3u8?icpid=88888890&RTS=1687953564&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 
 中央新影-老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
