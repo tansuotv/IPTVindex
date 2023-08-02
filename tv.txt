@@ -1171,6 +1171,8 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -1234,10 +1236,9 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 Channel V,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h02
+翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-43889b82-39d5-4f1a-a4e6-6bbb20f3c94b.m3u8
 
@@ -1252,6 +1253,8 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 J2,https://pull-l3-cny.douyincdn.com/live/stream-19825832023042700451.m3u8
 J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 J2,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itvbe.uk.m3u8
+
+HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -1824,6 +1827,7 @@ NewTV黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 NewTV黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
 NewTV黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 NewTV黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw183610459_1541235397/ott.mobaibox.com/PLTV/88888890/224/3221225567/index.m3u8?icpid=88888890&RTS=1687952395&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+NewTV黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 NewTV黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 
@@ -2264,6 +2268,8 @@ ABC News US,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA67599293
 ABC News US,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 ABC News US,http://50.7.238.98:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 
+Arise News,https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
+
 BBC AMERICA,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
 BBC DRAMA,https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
@@ -2271,6 +2277,11 @@ BBC DRAMA,https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 BBC World News,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC World News,http://50.7.238.98:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+
+Bloomberg TV Asia,http://210.210.155.37/dr9445/h/h03/index.m3u8
+Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+Bloomberg TV Asia Live Event,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 CBSN,http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 
@@ -2294,17 +2305,35 @@ Fox News,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C369362903693
 Fox News,http://50.7.238.98:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
+MTV Global,http://195.24.89.82/MTV_SD/index.m3u8
+
 Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 Sky News,http://50.7.238.114:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 Sky News,http://50.7.238.98:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 NHK World Premium,https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+NHK World,https://ythls.onrender.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
 
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NTV News 24,https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+NTV News 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NTV News 24,https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+
+TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+
+Tokyo MX1,https://neetball.net/live/neet.m3u8
+
+Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+Tokyo MX2,https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 
 Al Jazeera English,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+Al Jazeera English,https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
 俄罗斯RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
