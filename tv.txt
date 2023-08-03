@@ -245,7 +245,7 @@ CCTV10,http://124.232.233.6:6060/000000001901/202200010020/index.m3u8?m3u8_level
 CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
 
 CCTV11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-cctv11,https://cntv.sbs/live?auth=2307280808&id=cctv11
+CCTV11,https://cntv.sbs/live?auth=2307280808&id=cctv11
 CCTV11,http://php.17186.eu.org/ysp/cctv11.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
