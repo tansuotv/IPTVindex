@@ -536,6 +536,7 @@ CGTN,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1352433055_-1343958
 中央新影-新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 
 中国教育1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
+中国教育1,https://cntv.sbs/live?auth=2307280808&id=cetv1
 中国教育1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 中国教育1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 中国教育1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
@@ -544,23 +545,27 @@ CGTN,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1352433055_-1343958
 中国教育1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
 中国教育1,http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
 
+中国教育2,https://cntv.sbs/live?auth=2307280808&id=cetv2
 中国教育2,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1163914262_-21106249/ott.mobaibox.com/PLTV/88888890/224/3221225850/index.m3u8?icpid=88888890&RTS=1687953376&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 中国教育2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
 中国教育2,http://117.148.179.160/PLTV/88888888/224/3221231607/index.m3u8
 中国教育2,rtsp://115.153.245.70/PLTV/88888888/224/3221226978/85722625.smil
 中国教育2,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
 
+中国教育3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 中国教育3,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2391200578_-1498067113/ott.mobaibox.com/PLTV/88888890/224/3221227018/index.m3u8?icpid=88888890&RTS=1687954603&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 中国教育3,http://117.148.179.160/PLTV/88888888/224/3221231543/index.m3u8
 中国教育3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 
 中国教育4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
+中国教育4,https://cntv.sbs/live?auth=2307280808&id=cetv4
 中国教育4,rtsp://115.153.233.154/PLTV/88888888/224/3221226905/65242632.smil
 中国教育4,rtsp://115.153.245.70/PLTV/88888888/224/3221226905/65242632.smil
 中国教育4,rtsp://115.153.212.72/PLTV/88888888/224/3221226905/65242632.smil
 中国教育4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 中国教育4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 
+中国天气,https://cntv.sbs/live?auth=2307280808&id=zgtq
 中国天气,rtsp://115.153.245.70/PLTV/88888888/224/3221227056/89471929.smil
 
 省台,#genre#
@@ -1230,7 +1235,9 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 中华美食,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2358157348_789958620/ott.mobaibox.com/PLTV/88888890/224/3221227017/index.m3u8?icpid=88888890&RTS=1687954570&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
-台港澳,#genre#
+测试,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
@@ -1278,11 +1285,14 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9360f40b-b549-4547-b8dc-0072187c6d35.m3u8
 
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307280808
 凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
 凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-0277fe70-f48c-47f3-ae01-ea912959e3cb.m3u8
 凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
 凤凰香港,http://2409:8087:3869:8021:1001::e5:6610/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+
+澳门莲花卫视,https://cntv.sbs/lhws?auth=2307280808
 
 星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
@@ -1312,6 +1322,7 @@ TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB星河,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
 
+J2,http://sc2022.stream-link.org/tv2306.php?id=h03
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 J2,https://pull-l3-cny.douyincdn.com/live/stream-19825832023042700451.m3u8
 J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
@@ -1330,11 +1341,13 @@ HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 有线财经资讯台,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 
-无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-31829e6c-9a75-488d-8913-52026eef2c07.m3u8
-无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-45547b8e-451d-4368-80bf-509036f8720e.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-31829e6c-9a75-488d-8913-52026eef2c07.m3u8
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-45547b8e-451d-4368-80bf-509036f8720e.m3u8
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 
+无线财经资讯台,http://sc2022.stream-link.org/tv2306.php?id=h05
 无线财经资讯台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 无线财经资讯台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-43889b82-39d5-4f1a-a4e6-6bbb20f3c94b.m3u8
 
@@ -1350,6 +1363,8 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
+民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
 中天亚洲,http://2023.stream-link.org/live/1096161090
 
 财经体育资讯,http://120.84.96.73:808/hls/86/index.m3u8
@@ -1360,6 +1375,8 @@ NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/ma
 NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
@@ -1397,7 +1414,9 @@ NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/ma
 探索纪实,http://111.11.123.33:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
 
 WORLD HD,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+
 VTC13 HD 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 Discovery,https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
@@ -1494,6 +1513,11 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 4K影视,http://159.75.85.63:5828/4kys.php
 
 4K超高清电影,http://159.75.85.63:5681/sxg.php
+
+华语影院,https://cntv.sbs/live?auth=2307280808&id=hyyy
+
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2098,6 +2122,7 @@ IHOT-Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
 卡酷卡通,rtsp://115.153.233.154/PLTV/88888888/224/3221225566/iptv101695.smil
 卡酷卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225566/iptv101695.smil
 
+嘉佳卡通,https://cntv.sbs/live?auth=2307280808&id=jjkt
 嘉佳卡通,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2246498188_271805725/ott.mobaibox.com/PLTV/88888890/224/3221227009/index.m3u8?icpid=88888890&RTS=1687954458&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 嘉佳卡通,rtsp://115.153.212.72/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
 嘉佳卡通,http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
