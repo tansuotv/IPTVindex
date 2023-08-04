@@ -107,6 +107,8 @@ CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u
 CCTV5,https://cntv.sbs/live?auth=2307280808&id=cctv5
 CCTV5,http://php.17186.eu.org/ysp/cctv5.m3u8
 CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226250/index.m3u8?fmt=ts2hls
+CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
+CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
