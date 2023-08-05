@@ -286,7 +286,6 @@ CCTV12,http://183.196.25.171:808/hls/12/index.m3u8
 CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 CCTV13,https://cntv.sbs/live?auth=2307280808&id=cctv13
 CCTV13,http://php.17186.eu.org/ysp/cctv13.m3u8
-CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw3929131060_-1503897851/ott.mobaibox.com/PLTV/88888890/224/3221225560/index.m3u8?icpid=88888890&RTS=1687951846&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
