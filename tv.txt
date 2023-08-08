@@ -1157,6 +1157,7 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 江西教育,rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
 江西教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
 
+南昌新闻综合,rtmp://tv.drs.ncntv.com.cn/channellive/nczhpd
 南昌新闻综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8
 南昌新闻综合,http://39.135.138.58:18890/PLTV/88888888/224/3221226223/index.m3u8
 
@@ -1168,6 +1169,8 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 南昌公共频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8
 南昌公共频道,http://39.135.138.58:18890/PLTV/88888888/224/3221226231/index.m3u8
+
+南昌科教频道,rtmp://tv.drs.ncntv.com.cn/channellive/nckjpd
 
 东方财经,https://cntv.sbs/live?auth=2307280808&id=dfcj
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
