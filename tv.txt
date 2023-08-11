@@ -2562,6 +2562,8 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 影视,#genre#
 
+1905电影网,http://jh.d7g.cn/live/1905.php?id=1905dy
+
 周星驰电影,http://maomao.kandiantv.cn/douyu1.php?id=122402
 
 成龙电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
