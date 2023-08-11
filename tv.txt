@@ -1353,9 +1353,11 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 凤凰资讯,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-16637939-0b65-4cbe-b092-e1f96056babc.m3u8
 凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9360f40b-b549-4547-b8dc-0072187c6d35.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307280808
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
 凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-0277fe70-f48c-47f3-ae01-ea912959e3cb.m3u8
 凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
@@ -2563,6 +2565,8 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 影视,#genre#
 
 1905电影网,http://jh.d7g.cn/live/1905.php?id=1905dy
+
+斗鱼4K电影,http://jh.d7g.cn/live/z/douyu.php?id=9249162
 
 周星驰电影,http://maomao.kandiantv.cn/douyu1.php?id=122402
 
