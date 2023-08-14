@@ -380,6 +380,7 @@ CCTV17,http://124.232.233.6:6060/000000001901/202200010027/index.m3u8?m3u8_level
 CCTV17,http://183.196.25.171:808/hls/93/index.m3u8
 
 CCTV16 4K,https://pi.0472.org/live?auth=202308110958&id=cctv164K
+CCTV16 4K,rtsp://115.153.233.154/PLTV/88888888/224/3221227051/92603106.smil
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?世界杯WorldCup
 CCTV16 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
@@ -1197,6 +1198,7 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 江西二套都市频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 江西二套都市频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
+江西二套都市频道,rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
 江西二套都市频道,rtsp://115.153.245.70/PLTV/88888888/224/3221226728/53707442.smil
 江西二套都市频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226728/53707442.smil
 江西二套都市频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226728/53707442.smil
@@ -1248,6 +1250,8 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 江西陶瓷,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
 江西陶瓷,rtsp://115.153.212.72/PLTV/88888888/224/3221226253/10000100000000060000000001521367_0.smil
+
+江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
 
 江西教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 江西教育,rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil
