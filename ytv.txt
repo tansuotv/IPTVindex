@@ -1965,71 +1965,7 @@ CGTN记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212256
 云南卫视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 
-蜀小果IPV6,#genre#
-CCTV-1 综合,http://live.aptvapp.com/sxg.php?id=CCTV-1H265_4000
-CCTV-2 财经,http://live.aptvapp.com/sxg.php?id=CCTV-2H265_4000
-CCTV-3 综艺,http://live.aptvapp.com/sxg.php?id=CCTV-3H265_4000
-CCTV-4 中文国际,http://live.aptvapp.com/sxg.php?id=CCTV-4H265_4000
-CCTV-5 体育,http://live.aptvapp.com/sxg.php?id=CCTV-5H265_4000
-CCTV-5+ 体育赛事,http://live.aptvapp.com/sxg.php?id=CCTV-5plusH265_4000
-CCTV-6 电影,http://live.aptvapp.com/sxg.php?id=CCTV-6H265_4000
-CCTV-7 国防军事,http://live.aptvapp.com/sxg.php?id=CCTV-7H265_4000
-CCTV-8 电视剧,http://live.aptvapp.com/sxg.php?id=CCTV-8H265_4000
-CCTV-9 纪录,http://live.aptvapp.com/sxg.php?id=CCTV-9H265_4000
-CCTV-10 科教,http://live.aptvapp.com/sxg.php?id=CCTV-10H265_4000
-CCTV-11 戏曲,http://live.aptvapp.com/sxg.php?id=CCTV-11-H265_4000
-CCTV-12 社会与法,http://live.aptvapp.com/sxg.php?id=CCTV-12H265_4000
-CCTV-13 新闻,http://live.aptvapp.com/sxg.php?id=CCTV-xw_4000
-CCTV-14 少儿,http://live.aptvapp.com/sxg.php?id=CCTV-14H265_4000
-CCTV-15 音乐,http://live.aptvapp.com/sxg.php?id=CCTV-15-yyH265_4000
-CCTV-16 奥林匹克,http://live.aptvapp.com/sxg.php?id=CCTV-16_4000
-CCTV-16 奥林匹克 4K,http://live.aptvapp.com/sxg.php?id=CCTV-16-4K_8000
-CCTV-17 农业农村,http://live.aptvapp.com/sxg.php?id=CCTV-17_4000
-CCTV-4K 超高清,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
-4K超高清电影 4K,http://live.aptvapp.com/sxg.php?id=emdy4k_8000
-欢笑剧场4K,http://live.aptvapp.com/sxg.php?id=hxjc-4k_8000
-凤凰中文,http://live.aptvapp.com/sxg.php?id=test1_4000
-凤凰资讯,http://live.aptvapp.com/sxg.php?id=test2_4000
-安徽卫视,http://live.aptvapp.com/sxg.php?id=ahwsH265_4000
-北京卫视,http://live.aptvapp.com/sxg.php?id=bjwsH265_4000
-兵团卫视,http://live.aptvapp.com/sxg.php?id=btws_4000
-重庆卫视,http://live.aptvapp.com/sxg.php?id=cqwsH265_4000
-东方卫视,http://live.aptvapp.com/sxg.php?id=dfwsH265_4000
-东南卫视,http://live.aptvapp.com/sxg.php?id=dnwsfjwsH265_4000
-甘肃卫视,http://live.aptvapp.com/sxg.php?id=gsws_4000
-广东卫视,http://live.aptvapp.com/sxg.php?id=gdwsH265_4000
-广西卫视,http://live.aptvapp.com/sxg.php?id=gxws_4000
-贵州卫视,http://live.aptvapp.com/sxg.php?id=gzwsH265_4000
-海南卫视,http://live.aptvapp.com/sxg.php?id=hnws_4000
-河南卫视,http://live.aptvapp.com/sxg.php?id=hnws35_4000
-黑龙江卫视,http://live.aptvapp.com/sxg.php?id=hljwsH265_4000
-湖北卫视,http://live.aptvapp.com/sxg.php?id=hbwsH265_4000
-湖南卫视,http://live.aptvapp.com/sxg.php?id=hnwsH265_4000
-吉林卫视,http://live.aptvapp.com/sxg.php?id=jlwsH265_4000
-江苏卫视,http://live.aptvapp.com/sxg.php?id=jswsH265_4000
-江西卫视,http://live.aptvapp.com/sxg.php?id=jxwsH265_4000
-康巴卫视,http://live.aptvapp.com/sxg.php?id=kbwsH264_2000
-辽宁卫视,http://live.aptvapp.com/sxg.php?id=lnwsHDH264_4000
-内蒙古卫视,http://live.aptvapp.com/sxg.php?id=nmgws_4000
-山东教育卫视,http://live.aptvapp.com/sxg.php?id=sdjy_4000
-山东卫视,http://live.aptvapp.com/sxg.php?id=sdwsH265_4000
-山西卫视,http://live.aptvapp.com/sxg.php?id=sxws42_4000
-陕西卫视,http://live.aptvapp.com/sxg.php?id=sxws_4000
-深圳卫视,http://live.aptvapp.com/sxg.php?id=szwsH265_4000
-四川卫视,http://live.aptvapp.com/sxg.php?id=scwsH265_4000
-天津卫视,http://live.aptvapp.com/sxg.php?id=tjwsH265_4000
-西藏卫视,http://live.aptvapp.com/sxg.php?id=xzwsH264_2000
-云南卫视,http://live.aptvapp.com/sxg.php?id=ynws_4000
-浙江卫视,http://live.aptvapp.com/sxg.php?id=zjwsH265_4000
-CETV-1,http://live.aptvapp.com/sxg.php?id=CETV-1H264_4000
-CETV-4,http://live.aptvapp.com/sxg.php?id=CETV-4H264_2000
-CBN风尚生活,http://live.aptvapp.com/sxg.php?id=fssh_4000
-CBN每日影院,http://live.aptvapp.com/sxg.php?id=mryy_4000
-CBN幸福剧场,http://live.aptvapp.com/sxg.php?id=xfjc_4000
-CBN幸福娱乐,http://live.aptvapp.com/sxg.php?id=xfyl_4000
-CHC动作电影,http://live.aptvapp.com/sxg.php?id=wqCHCdzdyH265_4000
-CHC高清电影,http://live.aptvapp.com/sxg.php?id=lnwsCHC-HDH265_4000
-CHC家庭影院,http://live.aptvapp.com/sxg.php?id=jbtygqCHCjtyyH265_4000
+
 
 iHOT IPV6,#genre#
 iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
