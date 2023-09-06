@@ -156,6 +156,67 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 重庆汽摩,https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
 重庆移动,https://live.goodiptv.club/api/cqyx.php?id=mryyHD
 
+angtv,#genre#
+CCTV4k, http://angtv.cc/test/ysp.php?id=cctv4k
+CCTV8K, http://angtv.cc/test/ysp.php?id=cctv8k
+CCTV1, http://angtv.cc/test/ysp.php?id=cctv1
+CCTV2, http://angtv.cc/test/ysp.php?id=cctv2
+CCTV3, http://angtv.cc/test/ysp.php?id=cctv3
+CCTV4, http://angtv.cc/test/ysp.php?id=cctv4
+CCTV5, http://angtv.cc/test/ysp.php?id=cctv5
+CCTV5+, http://angtv.cc/test/ysp.php?id=cctv5p
+CCTV6, http://angtv.cc/test/ysp.php?id=cctv6
+CCTV7, http://angtv.cc/test/ysp.php?id=cctv7
+CCTV8, http://angtv.cc/test/ysp.php?id=cctv8
+CCTV9, http://angtv.cc/test/ysp.php?id=cctv9
+CCTV10, http://angtv.cc/test/ysp.php?id=cctv10
+CCTV11, http://angtv.cc/test/ysp.php?id=cctv11
+CCTV12, http://angtv.cc/test/ysp.php?id=cctv12
+CCTV13, http://angtv.cc/test/ysp.php?id=cctv13
+CCTV14, http://angtv.cc/test/ysp.php?id=cctv14
+CCTV15, http://angtv.cc/test/ysp.php?id=cctv15
+CCTV16, http://angtv.cc/test/ysp.php?id=cctv16
+CCTV16-4K, http://angtv.cc/test/ysp.php?id=cctv16-4k
+CCTV17, http://angtv.cc/test/ysp.php?id=cctv17
+CCTV兵器科技, http://angtv.cc/test/ysp.php?id=bqkj
+CCTV第一剧场, http://angtv.cc/test/ysp.php?id=dyjc
+CCTV怀旧剧场, http://angtv.cc/test/ysp.php?id=hjjc
+CCTV风云剧场, http://angtv.cc/test/ysp.php?id=fyjc
+CCTV风云音乐, http://angtv.cc/test/ysp.php?id=fyyy
+CCTV风云足球, http://angtv.cc/test/ysp.php?id=fyzq
+CCTV电视指南, http://angtv.cc/test/ysp.php?id=dszn
+CCTV女性时尚, http://angtv.cc/test/ysp.php?id=nxss
+CCTV央视文化精品, http://angtv.cc/test/ysp.php?id=whjp
+CCTV世界地理, http://angtv.cc/test/ysp.php?id=sjdl
+CCTV高尔夫网球, http://angtv.cc/test/ysp.php?id=gefwq
+CCTV央视台球, http://angtv.cc/test/ysp.php?id=ystq
+CCTV卫生健康, http://angtv.cc/test/ysp.php?id=wsjk
+CGTN, http://angtv.cc/test/ysp.php?id=cgtn
+CGTN纪录, http://angtv.cc/test/ysp.php?id=cgtnjl
+北京卫视, http://angtv.cc/test/ysp.php?id=bjws
+东方卫视, http://angtv.cc/test/ysp.php?id=dfws
+天津卫视, http://angtv.cc/test/ysp.php?id=tjws
+重庆卫视, http://angtv.cc/test/ysp.php?id=cqws
+黑龙江卫视, http://angtv.cc/test/ysp.php?id=hljws
+辽宁卫视, http://angtv.cc/test/ysp.php?id=lnws
+河北卫视, http://angtv.cc/test/ysp.php?id=hbws
+山东卫视, http://angtv.cc/test/ysp.php?id=sdws
+安徽卫视, http://angtv.cc/test/ysp.php?id=ahws
+河南卫视, http://angtv.cc/test/ysp.php?id=hnws
+湖北卫视, http://angtv.cc/test/ysp.php?id=hubws
+湖南卫视, http://angtv.cc/test/ysp.php?id=hunws
+江西卫视, http://angtv.cc/test/ysp.php?id=jxws
+江苏卫视, http://angtv.cc/test/ysp.php?id=jsws
+浙江卫视, http://angtv.cc/test/ysp.php?id=zjws
+东南卫视, http://angtv.cc/test/ysp.php?id=dnws
+广东卫视, http://angtv.cc/test/ysp.php?id=gdws
+深圳卫视, http://angtv.cc/test/ysp.php?id=szws
+广西卫视, http://angtv.cc/test/ysp.php?id=gxws
+贵州卫视, http://angtv.cc/test/ysp.php?id=gzws
+四川卫视, http://angtv.cc/test/ysp.php?id=scws
+新疆卫视, http://angtv.cc/test/ysp.php?id=xjws
+海南卫视, http://angtv.cc/test/ysp.php?id=hinws
+
 FMM, #genre#
 //央视
 CCTV-1 综合,https://cntv.sbs/tv?auth=230830&id=cctv1
