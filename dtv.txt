@@ -441,7 +441,7 @@ IPTV收视指南, http://angtv.cc/test/as.php?id=iptvsszn
 大片片说小片,http://angtv.cc/test/douyu.php?id=7489563
 火龙果说电影,http://angtv.cc/test/douyu.php?id=9559158
 
-FMM, #genre#
+FMM,#genre#
 //央视
 CCTV-1 综合,https://cntv.sbs/tv?auth=2309081833&id=cctv1
 CCTV-2 财经,https://cntv.sbs/tv?auth=2309081833&id=cctv2
