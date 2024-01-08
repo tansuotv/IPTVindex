@@ -1,4 +1,4 @@
-📺JX移动,#genre#
+▼移动▼,#genre#
 
 ┗央视,#genre#
 
@@ -34,7 +34,7 @@ CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
-CCTV11 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+CCTV11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
 CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
 CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
 CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
@@ -107,7 +107,7 @@ CNC,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
 
-📺JX移动V6,#genre#
+▼移动V6▼,#genre#
 
 ┗央视,#genre#
 
@@ -262,9 +262,9 @@ CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226249/in
 CCTV3,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225634/index.m3u8
 CCTV3,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226249/index.m3u8
 CCTV3,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226249/index.m3u8
-CCTV3 2.5M1080,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8
-CCTV3 2.5M1080,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8
-CCTV3 2.5M1080,http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8
+CCTV3,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8
+CCTV3,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8
+CCTV3,http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225647/index.m3u8
 CCTV3,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 CCTV3,http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 CCTV3,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
@@ -1608,7 +1608,7 @@ NewTV综艺,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225
 
 足球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226240/index.m3u8
 
-📺江西电信,#genre#
+▼电信▼,#genre#
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil?
@@ -1756,7 +1756,7 @@ CGTN-纪录,rtsp://115.153.233.154/PLTV/88888888/224/3221226960/77798993.smil#ht
 江西教育频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil?#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 
 
-📺IPV6,#genre#
+▼IPV6▼,#genre#
 
 ┗央视,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
@@ -1919,7 +1919,7 @@ SiTV欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099
 圆点生活 2M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱上4K 32M2160,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-📺喜好,#genre#
+▼喜好▼,#genre#
 
 ┗凤凰,#genre#
 
