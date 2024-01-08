@@ -2,7 +2,7 @@
 Enjoy IPTV !   
 
 电视直播源接口：  
-`https://iptvindex.com/tv.txt`  
+`https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv/tv.txt`  
 EPG接口：  
 `http://diyp.112114.xyz`  
 影视点播接口：  
