@@ -57,6 +57,8 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-15769
 
 SiTV欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+斗鱼4K影视,https://www.goodiptv.club/douyu/9249162
+
 影视4K,http://nas.jdshipin.com:8801/4kys.php
 影视4K,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
