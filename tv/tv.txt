@@ -1,6 +1,6 @@
 //www.iptvindex.com
 
-❥1/16更新,#genre#
+❥1/19更新,#genre#
 
 超清,#genre#
 
@@ -768,8 +768,13 @@ CCTV15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/i
 CCTV16,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
 
-CNC新华社-中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8#http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
-CNC新华社-英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://[2409:8087:3800:20:1000::80b]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
+新华社,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
+新华社,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+新华社,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
+
+新华社英文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
+新华社英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+新华社英文,http://[2409:8087:3800:20:1000::80b]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
 
 电视指南,rtsp://115.153.233.154/PLTV/88888888/224/3221226987/86440886.smil#rtsp://115.153.233.154/PLTV/88888888/224/3221226969/86129034.smil#http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 风云音乐,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
@@ -905,6 +910,8 @@ CNC新华社-英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://[
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
 
+康巴卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226263/index.m3u8
+
 //电信
 
 浙江卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil?#http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8#http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8#http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
@@ -976,6 +983,7 @@ CNC新华社-英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8#http://[
 贵州卫视,http://111.74.155.231:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://111.74.155.231:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://111.74.155.231:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 //移动V6
 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8
@@ -1646,6 +1654,10 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+
+品质大剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226266/index.m3u8
+
+追番必看,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
 
 芒果综艺,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 SiTV欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
