@@ -1,15 +1,4 @@
-❥240120更新,#genre#
-
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226221/index.m3u8
-CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
-
-
-超清,#genre#
-
-
-
+❥1/20更新,#genre#
 
 CCTV1 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
