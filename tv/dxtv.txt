@@ -1,5 +1,6 @@
 央视,#genre#
 
+//2024年1月20日电信单播源
 CCTV1,rtsp://115.153.245.70/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.245.70/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.245.70/PLTV/88888888/224/3221226930/65406412.smil
@@ -18,12 +19,32 @@ CCTV15,rtsp://115.153.245.70/PLTV/88888888/224/3221226988/85722541.smil
 CCTV16,rtsp://115.153.245.70/PLTV/88888888/224/3221227051/92603106.smil
 CCTV17,rtsp://115.153.245.70/PLTV/88888888/224/3221226846/61397282.smil
 CCTV5+,rtsp://115.153.245.70/PLTV/88888888/224/3221226976/85722488.smil
-//(付费)高清
+CCTV1,rtsp://115.153.245.70/PLTV/88888888/224/3221225517/iptv7949.smil
+
+//2024年1月20日电信单播源(付费)高清
 CCTV3,rtsp://115.153.245.70/PLTV/88888888/224/3221226841/63329606.smil
 CCTV5,rtsp://115.153.245.70/PLTV/88888888/224/3221226852/63329574.smil
 CCTV6,rtsp://115.153.245.70/PLTV/88888888/224/3221226843/63329570.smil
 CCTV8,rtsp://115.153.245.70/PLTV/88888888/224/3221226854/63329578.smil
 
+//2024年1月20日全国酒店源（江西）
+CCTV1,http://59.62.8.250:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://59.62.8.250:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://59.62.8.250:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://59.62.8.250:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://59.62.8.250:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8,http://59.62.8.250:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://59.62.8.250:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://59.62.8.250:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,http://59.62.8.250:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://59.62.8.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://59.62.8.250:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+
+//不记得何时的源
 CCTV1,http://111.74.155.231:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://111.74.155.231:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://111.74.155.231:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -40,6 +61,7 @@ CCTV13,http://111.74.155.231:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&
 CCTV14,http://111.74.155.231:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
+//2023年11月江西电信单播源
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil?
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225517/iptv7949.smil
@@ -110,7 +132,7 @@ CCTV5+,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 CCTV5+,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
 
-
+//IPV6源
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 CCTV2,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000014161/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
@@ -263,7 +285,9 @@ CCTV-摄影频道,http://111.225.92.130:8800/hls/88/index.m3u8
 CCTV-快乐垂钓,http://111.225.92.130:8800/hls/85/index.m3u8
 CCTV-靓装频道,http://111.225.92.130:8800/hls/91/index.m3u8
 
+中国教育1,rtsp://115.153.245.70/PLTV/88888888/224/3221226858/63768493.smil
 中国教育1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
+中国教育1,http://59.62.8.250:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 中国教育1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil?
 中国教育1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
 中国教育1,http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
@@ -272,6 +296,7 @@ CCTV-靓装频道,http://111.225.92.130:8800/hls/91/index.m3u8
 中国教育2,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
 中国教育3,http://117.148.179.160/PLTV/88888888/224/3221231543/index.m3u8
 中国教育3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
+中国教育4,http://59.62.8.250:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 中国教育4,rtsp://115.153.233.154/PLTV/88888888/224/3221226905/65242632.smil
 中国教育4,rtsp://115.153.212.72/PLTV/88888888/224/3221226905/65242632.smil?
 中国教育4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
@@ -299,6 +324,7 @@ CCTV-靓装频道,http://111.225.92.130:8800/hls/91/index.m3u8
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
+//2024年1月20日电信单播源
 湖南卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225697/iptv8039.smil
 浙江卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
 江苏卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil
@@ -331,6 +357,42 @@ CCTV-靓装频道,http://111.225.92.130:8800/hls/91/index.m3u8
 新疆卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225550/iptv61197.smil
 兵团卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225753/iptv101723.smil
 河北卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226821/59781859.smil
+
+//2024年1月20日全国酒店源（江西）
+湖南卫视,http://59.62.8.250:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://59.62.8.250:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://59.62.8.250:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://59.62.8.250:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://59.62.8.250:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://59.62.8.250:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://59.62.8.250:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://59.62.8.250:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://59.62.8.250:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://59.62.8.250:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://59.62.8.250:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+旅游卫视,http://59.62.8.250:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://59.62.8.250:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://59.62.8.250:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://59.62.8.250:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://59.62.8.250:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://59.62.8.250:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://59.62.8.250:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://59.62.8.250:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://59.62.8.250:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://59.62.8.250:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+青海卫视,http://59.62.8.250:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://59.62.8.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://59.62.8.250:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://59.62.8.250:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://59.62.8.250:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,http://59.62.8.250:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+内蒙卫视,http://59.62.8.250:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://59.62.8.250:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://59.62.8.250:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+西藏卫视,http://59.62.8.250:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+兵团卫视,http://59.62.8.250:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
 
 湖南卫视,http://111.74.155.231:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://111.74.155.231:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -516,46 +578,80 @@ CCTV-靓装频道,http://111.225.92.130:8800/hls/91/index.m3u8
 
 江西,#genre#
 
+//2024年1月20日电信单播源
 江西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil
 江西都市频道,rtsp://115.153.245.70/PLTV/88888888/224/3221227069/94448631.smil
 江西经济生活,rtsp://115.153.245.70/PLTV/88888888/224/3221226946/70055407.smil
 江西影视旅游,rtsp://115.153.245.70/PLTV/88888888/224/3221227071/98779894.smil
 江西公共农业,rtsp://115.153.245.70/PLTV/88888888/224/3221226708/53213097.smil
+江西少儿频道,rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
 江西新闻频道,rtsp://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil
 江西移动电视,rtsp://115.153.245.70/PLTV/88888888/224/3221227070/96801473.smil
 江西风尚购物,rtsp://115.153.245.70/PLTV/88888888/224/3221227049/90141188.smil
 江西陶瓷频道,rtsp://115.153.245.70/PLTV/88888888/224/3221227072/105246432.smil
 江西教育频道,rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
 
-江西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil?
+//2024年1月20日全国酒店源（江西）
+江西卫视,http://59.62.8.250:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://59.62.8.250:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+江西都市频道,http://59.62.8.250:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+江西经济生活,http://59.62.8.250:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+江西经济生活,http://59.62.8.250:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=0&authid=0
+江西影视旅游,http://59.62.8.250:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+江西公共农业,http://59.62.8.250:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+江西少儿频道,http://59.62.8.250:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+江西少儿频道,http://59.62.8.250:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+江西新闻频道,http://59.62.8.250:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+江西教育,http://59.62.8.250:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 
-江西都市频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226728/53707442.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226728/53707442.smil?#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 
-江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226946/70055407.smil#rtsp://115.153.233.154/PLTV/88888888/224/3221226717/53707446.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226946/70055407.smil?#rtsp://115.153.212.72/PLTV/88888888/224/3221226717/53707446.smil?
+江西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil
+江西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil?
 
-江西影视旅游,rtsp://115.153.233.154/PLTV/88888888/224/3221226704/53213102.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226704/53213102.smil?#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8#http://39.135.140.227:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
+江西都市频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226728/53707442.smil
+江西都市频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226728/53707442.smil?
+江西都市频道,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 
-江西公共农业,rtsp://115.153.233.154/PLTV/88888888/224/3221226708/53213097.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226708/53213097.smil?#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226946/70055407.smil
+江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226717/53707446.smil
+江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226946/70055407.smil?
+江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226717/53707446.smil?
 
-江西少儿频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil#rtsp://115.153.233.154/PLTV/88888888/224/3221226724/53707450.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil?#rtsp://115.153.212.72/PLTV/88888888/224/3221226724/53707450.smil?#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西影视旅游,rtsp://115.153.233.154/PLTV/88888888/224/3221226704/53213102.smil
+江西影视旅游,rtsp://115.153.212.72/PLTV/88888888/224/3221226704/53213102.smil?
+江西影视旅游,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
+江西影视旅游,http://39.135.140.227:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
 
-江西新闻频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil?#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西公共农业,rtsp://115.153.233.154/PLTV/88888888/224/3221226708/53213097.smil
+江西公共农业,rtsp://115.153.212.72/PLTV/88888888/224/3221226708/53213097.smil?
+江西公共农业,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+
+江西少儿频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil
+江西少儿频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226724/53707450.smil
+江西少儿频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil?
+江西少儿频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226724/53707450.smil?
+江西少儿频道,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+
+
+江西新闻频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil
+江西新闻频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil?
+江西新闻频道,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 
 江西陶瓷频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226253/10000100000000060000000001521367_0.smil?
 
-江西教育频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil?
+江西教育频道,rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil
+江西教育频道,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil?
 
 
 
 
 其他,#genre#
 
+//2024年1月20日电信单播源
 金鹰纪实,rtsp://115.153.245.70/PLTV/88888888/224/3221226823/59781863.smil
 先锋乒羽,rtsp://115.153.245.70/PLTV/88888888/224/3221226935/72307307.smil
 金鹰卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221226972/80382319.smil
-中国教育1,rtsp://115.153.245.70/PLTV/88888888/224/3221226858/63768493.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
-江西少儿频道,rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
 卡酷卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225566/iptv101695.smil
 嘉佳卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
@@ -580,7 +676,6 @@ CHC动作电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226992/86128817.smil
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 求索纪录,rtsp://115.153.245.70/PLTV/88888888/224/3221227035/86502224.smil
 茶,rtsp://115.153.245.70/PLTV/88888888/224/3221226832/59781969.smil
-CCTV-1,rtsp://115.153.245.70/PLTV/88888888/224/3221225517/iptv7949.smil
 江西经济生活,rtsp://115.153.245.70/PLTV/88888888/224/3221226717/53707446.smil
 快乐垂钓,rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil
 梨园,rtsp://115.153.245.70/PLTV/88888888/224/3221226822/59781815.smil
@@ -700,6 +795,17 @@ IPTV法治,rtsp://115.153.245.70/PLTV/88888888/224/3221226993/86440997.smil
 星影,rtsp://115.153.245.70/PLTV/88888888/224/3221227042/86502073.smil
 爱体育高清,rtsp://115.153.245.70/PLTV/88888888/224/3221227044/86502115.smil
 爱上4K,rtsp://115.153.245.70/PLTV/88888888/224/3221227025/86502164.smil
+
+
+//2024年1月20日全国酒店源（江西）
+炫动卡通,http://59.62.8.250:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+老故事,http://59.62.8.250:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+中学生,http://59.62.8.250:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+早期教育,http://59.62.8.250:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+靓妆,http://59.62.8.250:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://59.62.8.250:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
 
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 上海纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8#http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8
