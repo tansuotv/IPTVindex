@@ -1,5 +1,4 @@
-❥1/20更新,#genre#
-
+❥24/2/6更新,#genre#
 
 CCTV1 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2 Max16M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -86,9 +85,6 @@ Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&st
 
 
 央视,#genre#
-
-
-
 
 
 //移动
