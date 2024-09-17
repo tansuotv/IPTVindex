@@ -45,7 +45,7 @@ CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 
-CCTV16-4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
+CCTV16 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
 
 北京纪实科教,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225676/index.m3u8
 北京纪实科教,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225676/index.m3u8
@@ -71,7 +71,7 @@ Discovery Channel俄语,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.
 
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
-Love Nature-4K,http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love Nature 4K,http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
@@ -124,7 +124,7 @@ BBC America East 英国,http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 BBC NEWS 英国,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC NEWS 英国,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-Bloomberg TV-4K 美国,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+Bloomberg TV 4K 美国,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 Bloomberg TV 美国,https://bloomberg.com/media-manifest/streams/us.m3u8
 
