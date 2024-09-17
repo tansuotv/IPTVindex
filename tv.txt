@@ -23,6 +23,10 @@ CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/322
 CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
 
+HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
+东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
+
 爱上4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000
 
 4K超清北京IPTV 4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001
@@ -30,6 +34,8 @@ CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
 淘电影北京IPTV,http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
 
 周星驰影院,http://maomao.kandiantv.cn/douyu1.php?id=122402
+
+周星星,http://11.xmyxc.cn/api/php/yy.php?id=1354658049
 
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225764/index.m3u8
 黑莓电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225764/index.m3u8
@@ -40,12 +46,40 @@ CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
 超级综艺,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225768/index.m3u8
 超级综艺,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225768/index.m3u8
 
+漫威剧情,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨,http://159.75.85.63:35455/douyu/8814650
+欧美大片,http://159.75.85.63:35455/douyu/2793084
+贝爷max,http://159.75.85.63:35455/douyu/4332
+贝爷影厅,http://159.75.85.63:35455/douyu/252802
+鱼宝恐怖,http://159.75.85.63:35455/douyu/1165374
+小UU鬼片,http://mmitv.top/test/douyu.php?id=96577&u=4150734&cate
+吃奶滴虫,http://159.75.85.63:35455/douyu/263824
+喜剧电影,http://159.75.85.63:35455/douyu/9292492
+避风影院,http://159.75.85.63:35455/douyu/9826611
+吃米滴虫,http://159.75.85.63:35455/douyu/315457
+冰冰经典,http://159.75.85.63:35455/douyu/74374
+星爷影院,http://159.75.85.63:35455/douyu/508118
+瑶瑶恐怖,http://159.75.85.63:35455/douyu/2935323
+怡寶影院,http://159.75.85.63:35455/douyu/434971
+小黛兮影,http://159.75.85.63:35455/douyu/11553944
+萌小鬼片,http://159.75.85.63:35455/douyu/3928
+神乐影剧,http://159.75.85.63:35455/douyu/122402
+可乐影院,http://159.75.85.63:35455/douyu/20415
+小宇60帧,http://159.75.85.63:35455/douyu/323876
+恐怖惊悚,http://159.75.85.63:35455/douyu/96577
+電影劇場,http://159.75.85.63:35455/douyu/7575350
+豆瓣高分,http://159.75.85.63:35455/douyu/8770422
+凌儿影院,http://159.75.85.63:35455/douyu/1377142
+变种人片,http://159.75.85.63:35455/douyu/9651304
+女神电影,http://159.75.85.63:35455/douyu/747764
+花卷陪看,http://159.75.85.63:35455/douyu/52787
+
 4K纪录,#genre#
 
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 
-CCTV16 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
 
 北京纪实科教,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225676/index.m3u8
 北京纪实科教,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225676/index.m3u8
@@ -61,14 +95,27 @@ CCTV16 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index
 湖南金鹰纪实,rtsp://115.153.233.154/PLTV/88888888/224/3221226823/59781863.smil
 湖南金鹰纪实,rtsp://115.153.212.72/PLTV/88888888/224/3221226823/59781863.smil
 
+求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索纪录,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 求索纪录,http://home.isvvv.com:5050/itv/wasusyt/6000000002000032052
 求索纪录,rtsp://115.153.245.70/PLTV/88888888/224/3221227035/86502224.smil
 求索纪录,rtsp://115.153.233.154/PLTV/88888888/224/3221227035/86502224.smil
 
+求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+
+精品纪录,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+
 CANAL MOTOR,http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-Discovery Channel俄语,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+CGTN DOCUMENTARY,https://0472.org/hls/cgtnd.m3u8
 
+Discovery 俄语,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+
+FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FTV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+FTV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 
 Love Nature 4K,http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -76,7 +123,14 @@ Love Nature 4K,http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
+Nature Time,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 Rossia Today Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+Travel 4K,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
@@ -100,6 +154,8 @@ WORLD HD,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 TVBJ1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 
@@ -140,7 +196,7 @@ CBS News Los Angeles 美国,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4
 
 CBS News Texas 美国,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
-CGTV 中国,https://pi.0472.org/tv/fct.php?auth=230918
+CGTN 中国,https://pi.0472.org/tv/fct.php?auth=230918
 
 CJB TV 韩国,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
@@ -148,13 +204,16 @@ CNA 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66e
 CNA 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-CNN International 美国,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN International 美国,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN International 美国,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 CNN International 美国,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNN International 美国,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+CNN International 美国,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+DW 德国,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 euro news 欧洲,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+euro news 欧洲,https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 Fox 2 美国,https://lnc-wjbk.tubi.video/index.m3u8
 
@@ -213,6 +272,8 @@ NTV News 24 日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 Russia Today 俄罗斯,https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 
 SBS 韩国,http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+
+TBS News 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
 WION 印度,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
@@ -424,3 +485,31 @@ CCTV15,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 江西教育,rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil
 江西教育,rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
 江西教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
+
+CCTV数字频道,#genre#
+
+CCTV风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西cmc3+
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
+CCTV高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
+CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140$江西cmc3+
+CCTV第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
+CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
+CCTV怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
+CCTV女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140$江西cmc3+
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
+CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西cmc3+
+CCTV文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
+CCTV电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140$江西cmc3+
+
+CCTV兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
+CCTV风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
+CCTV央视台球,http://mryx.fun:1025/udp/239.11.0.60:1025
+CCTV女性时尚,http://mryx.fun:1025/udp/239.11.0.62:1025
+CCTV世界地理,http://mryx.fun:1025/udp/239.11.0.63:1025
+CCTV怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
+CCTV风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
+CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
+CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
+CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
