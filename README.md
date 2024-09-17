@@ -1,8 +1,9 @@
 # [IPTVindex.com](https://iptvindex.com/)  
 Enjoy IPTV !   
-
+www.iptvindex.com
+ 
 电视直播源接口：  
-`https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv/tv.txt`  
+`https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt`  
 EPG接口：  
 `http://diyp.112114.xyz`  
 影视点播接口：  
