@@ -25,7 +25,7 @@ CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
 
 爱上4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000
 
-4K超清北京IPTV-4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001
+4K超清北京IPTV 4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001
 
 淘电影北京IPTV,http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
 
