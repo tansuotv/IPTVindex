@@ -3,11 +3,28 @@
 
 IPTVindex,#genre#
 
-20240917更新,http://
+20240918更新,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
 收录1080p8M码率,http://
 超高清频道,http://
 除非找不到:),http://
 IPTVindex.com,http://
+芒果独播电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+芒果独播电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+芒果独播电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+芒果独播电视剧4,http://zby.xjqxz.top/gzdsj1/live.m3u8
+芒果独播电视剧5,http://zby.xjqxz.top/gzdsj2/live.m3u8
+芒果独播电视剧6,http://zby.xjqxz.top/gzwxj/live.m3u8
+芒果独播电视剧7,http://zby.xjqxz.top/gzdsj3/live.m3u8
+芒果独播电视剧8,http://zby.xjqxz.top/gzdsj4/live.m3u8
+芒果独播电视剧9,http://zby.xjqxz.top/gzdsj5/live.m3u8
+芒果独播电视剧10,http://zby.xjqxz.top/kzzypd/live.m3u8
+芒果独播电视剧11,http://zby.xjqxz.top/dzzypd/live.m3u8
+芒果独播电视剧12,http://zby.xjqxz.top/dzzypd2/live.m3u8
+芒果独播电视剧13,http://zby.xjqxz.top/dzzypd3/live.m3u8
+
+电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
+电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
+电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
 
 影视综艺,#genre#
 
@@ -34,9 +51,6 @@ HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 
 淘电影北京IPTV,http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
 
-周星驰影院,http://maomao.kandiantv.cn/douyu1.php?id=122402
-
-周星星,http://11.xmyxc.cn/api/php/yy.php?id=1354658049
 
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225764/index.m3u8
 黑莓电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225764/index.m3u8
@@ -46,6 +60,66 @@ HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 
 超级综艺,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225768/index.m3u8
 超级综艺,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225768/index.m3u8
+
+1905国内电影,http://ygbh.live/1905.php?id=1905a # http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905环球经典,http://ygbh.live/1905.php?id=1905b # http://php.jdshipin.com:8880/1905.php?id=1905dy2
+CHC影迷电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8$重庆广电FHD # http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$高清1920*1080 # http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088$湖北电信组播 # http://115.60.241.249:2000/rtp/225.1.4.207:1260$河南联通组播 # http://nas.hssvm.com:8888/udp/225.1.1.214:5002$天津联通组播 # http://220.164.3.102:4022/udp/239.200.201.34:8148$云南电信组播
+CHC动作电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8$重庆广电FHD # http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$标清1024*576 # http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094$湖北电信组播 # http://115.60.241.249:2000/rtp/225.1.4.208:1261$河南联通组播 # http://nas.hssvm.com:8888/udp/225.1.1.215:5002$天津联通组播 # http://220.164.3.102:4022/udp/239.200.201.31:8144$云南电信组播
+CHC家庭影院,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8$重庆广电FHD # http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$标清1024*576 # http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100$湖北电信组播 # http://115.60.241.249:2000/rtp/225.1.4.209:1262$河南联通组播 # http://nas.hssvm.com:8888/udp/225.1.1.213:5002$天津联通组播 # http://220.164.3.102:4022/udp/239.200.201.30:8140$云南电信组播
+
+PopC,https://live.hkdvb.com/hls/live/801.m3u8?token=631170156178264
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
+Rock,http://37.27.111.214:8080/live/70/hls.m3u8
+RockAction,http://37.27.111.214:8080/live/94/hls.m3u8
+
+北京4K电影,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001
+北京淘电影,http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
+
+精彩影视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+
+龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+龙祥时代,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO温馨家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO强档巨献,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+美亚电影台(国语),http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
+
+美亚电影台(粤语),https://live.hkdvb.com/hls/live/802.m3u8?token=631170156178264
+NOW爆谷星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156178264
+
+周星驰影院,http://maomao.kandiantv.cn/douyu1.php?id=122402
+周星星,http://11.xmyxc.cn/api/php/yy.php?id=1354658049
+林正英,https://cfss.cc/cdn/hy/11342421.flv
+周星驰,https://cfss.cc/cdn/hy/11342412.flv
+周润发,https://cfss.cc/cdn/hy/11342387.flv
+梁家辉,https://cfss.cc/cdn/hy/11342429.flv
+五福星,https://cfss.cc/cdn/hy/11282233.flv
+洪金宝,https://cfss.cc/cdn/hy/11279251.flv
+李连杰,https://cfss.cc/cdn/hy/11342390.flv
+甄子丹,https://cfss.cc/cdn/hy/11352935.flv
+刘德华,https://cfss.cc/cdn/hy/11342424.flv
+许冠英,https://cfss.cc/cdn/hy/11601972.flv
+黄渤,https://cfss.cc/cdn/hy/11352876.flv
+沉腾,https://cfss.cc/cdn/hy/11601968.flv
+成龙,https://cfss.cc/cdn/hy/11342386.flv
+曾江,https://cfss.cc/cdn/hy/11601981.flv
+王晶导演,https://cfss.cc/cdn/hy/11602058.flv
+许氏三杰,https://cfss.cc/cdn/hy/11602033.flv
+巨石强森,https://cfss.cc/cdn/hy/21059581.flv
+杰森·斯坦森,https://cfss.cc/cdn/hy/21059588.flv
 
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
 霍格沃茨,http://159.75.85.63:35455/douyu/8814650
@@ -74,6 +148,38 @@ HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 变种人片,http://159.75.85.63:35455/douyu/9651304
 女神电影,http://159.75.85.63:35455/douyu/747764
 花卷陪看,http://159.75.85.63:35455/douyu/52787
+
+女神系列①,https://cfss.cc/cdn/hy/11336571.flv
+女神系列②,https://cfss.cc/cdn/hy/11352909.flv
+贺岁电影①,https://cfss.cc/cdn/hy/11601986.flv
+贺岁电影②,https://cfss.cc/cdn/hy/11601971.flv
+贺岁电影③,https://cfss.cc/cdn/hy/11352897.flv
+金庸武侠,https://cfss.cc/cdn/hy/11342435.flv
+金庸群侠,https://cfss.cc/cdn/hy/11342427.flv
+赛车电影,https://cfss.cc/cdn/hy/11279247.flv
+古墓冒险,https://cfss.cc/cdn/hy/11352913.flv
+盗墓经典,https://cfss.cc/cdn/hy/21059552.flv
+虎牙动作,https://cfss.cc/cdn/hy/11602077.flv
+功夫动作,https://cfss.cc/cdn/hy/11352941.flv
+智商犯罪,https://cfss.cc/cdn/hy/11352962.flv
+悬疑推理,https://cfss.cc/cdn/hy/11342395.flv
+警匪动作,https://cfss.cc/cdn/hy/11352886.flv
+枪战系列,https://cfss.cc/cdn/hy/21059579.flv
+谍战惊险,https://cfss.cc/cdn/hy/21059587.flv
+热血校园,https://cfss.cc/cdn/hy/11352934.flv
+黑帮古惑,https://cfss.cc/cdn/hy/11336719.flv
+黑帮斗争,https://cfss.cc/cdn/hy/11342419.flv
+喜剧专区①,https://cfss.cc/cdn/hy/11602044.flv
+喜剧专区②,https://cfss.cc/cdn/hy/11352965.flv
+喜剧专区③,https://cfss.cc/cdn/hy/11342423.flv
+喜剧专区④,https://cfss.cc/cdn/hy/11352883.flv
+玄幻剧场①,https://cfss.cc/cdn/hy/11342414.flv
+玄幻剧场②,https://cfss.cc/cdn/hy/11352973.flv
+变形金刚,https://cfss.cc/cdn/hy/21059596.flv
+异形怪兽,https://cfss.cc/cdn/hy/21059577.flv
+怪兽系列,https://cfss.cc/cdn/hy/21059554.flv
+救援大片,https://cfss.cc/cdn/hy/21059594.flv
+惊悚恐怖,https://cfss.cc/cdn/hy/11601960.flv
 
 4K纪录,#genre#
 
@@ -149,13 +255,26 @@ WORLD HD,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 凤凰香港台,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 
+翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=631170156178264
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153505
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
+Pearl 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=631170156178264
+
+HOYTV资讯台,https://live.hkdvb.com/hls/live/78.m3u8?token=631170156178264
+
+NOW新闻台,https://live.hkdvb.com/hls/live/332.m3u8?token=631170156178264
+
 TVBJ1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
+RTHK31,https://live.hkdvb.com/hls/live/31.m3u8?token=631170156178264
+RTHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=631170156178264
+RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=631170156178264
+Viu TV,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156178264
+Viu TV6,https://live.hkdvb.com/hls/live/96.m3u8?token=631170156178264
 
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 
@@ -490,27 +609,44 @@ CCTV15,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 
 数字频道,#genre#
 
+CCTV兵器科技,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV文化精品,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV怀旧剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV风云足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV央视台球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV风云音乐,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV风云剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV央视高网,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8$重庆广电FHD
+CCTV女性时尚,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8$重庆广电FHD
+
+CCTV第一剧场,http://60.10.225.157:555/rtp/239.253.93.138:6428$河北联通组播
+CCTV风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429$河北联通组播
+CCTV怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430$河北联通组播
+CCTV风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431$河北联通组播
+CCTV风云足球,http://60.10.225.157:555/rtp/239.253.93.254:6432$河北联通组播
+CCTV央视高网,http://60.10.225.157:555/rtp/239.253.93.122:6465$河北联通组播
+CCTV央视台球,http://60.10.225.157:555/rtp/239.253.93.231:6409$河北联通组播
+CCTV电视指南,http://60.10.225.157:555/rtp/239.253.93.249:6427$河北联通组播
+CCTV兵器科技,http://60.10.225.157:555/rtp/239.253.93.47:6435$河北联通组播
+CCTV世界地理,http://60.10.225.157:555/rtp/239.253.92.131:6113$河北联通组播
+CCTV女性时尚,http://60.10.225.157:555/rtp/239.253.92.144:6114$河北联通组播
+CCTV文化精品,http://60.10.225.157:555/rtp/239.253.93.175:6439$河北联通组播
+
 CCTV风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西cmc3+
-CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-
-CCTV央视台球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 CCTV央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
-
-CCTV高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
+CCTV央视高网,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
 CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140$江西cmc3+
 CCTV第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
 CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
 CCTV怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
 CCTV女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140$江西cmc3+
-
-CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
-
-CCTV兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西cmc3+
-
 CCTV文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
 CCTV电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140$江西cmc3+
+
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 
 CCTV兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
 CCTV风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
@@ -523,4 +659,26 @@ CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
 CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
 CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
 
+CCTV第一剧场,http://www.hiliu.myds.me:8088/rtp/239.69.1.74:10084$湖北电信组播
+CCTV兵器科技,http://www.hiliu.myds.me:8088/rtp/239.69.1.79:10114$湖北电信组播
+CCTV风云足球,http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126$湖北电信组播
+CCTV央视高网,http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138$湖北电信组播
+CCTV世界地理,http://www.hiliu.myds.me:8088/rtp/239.69.1.91:10186$湖北电信组播
+CCTV央视台球,http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224$湖北电信组播
+
+CCTV兵器科技,http://nas.hssvm.com:8888/udp/225.1.2.166:5002$天津联通组播
+CCTV第一剧场,http://nas.hssvm.com:8888/udp/225.1.2.175:5002$天津联通组播
+CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.2.167:5002$天津联通组播
+CCTV风云剧场,http://nas.hssvm.com:8888/udp/225.1.2.174:5002$天津联通组播
+CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.2.176:5002$天津联通组播
+CCTV风云足球,http://nas.hssvm.com:8888/udp/225.1.2.168:5002$天津联通组播
+CCTV央视高网,http://nas.hssvm.com:8888/udp/225.1.2.169:5002$天津联通组播
+CCTV怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.2.173:5002$天津联通组播
+CCTV女性时尚,http://nas.hssvm.com:8888/udp/225.1.2.172:5002$天津联通组播
+CCTV世界地理,http://nas.hssvm.com:8888/udp/225.1.2.171:5002$天津联通组播
+CCTV文化精品,http://nas.hssvm.com:8888/udp/225.1.2.177:5002$天津联通组播
+CCTV央视台球,http://nas.hssvm.com:8888/udp/225.1.2.170:5002$天津联通组播
+
+CCTV央视台球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
+CCTV兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 文物宝库,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
