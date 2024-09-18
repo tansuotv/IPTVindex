@@ -1,4 +1,5 @@
-//https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
+//源址：https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
+//短链：https://t.cn/A6Evuiir
 
 IPTVindex,#genre#
 
@@ -109,6 +110,7 @@ CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3
 
 CANAL MOTOR,http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
+CGTN DOCUMENTARY,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226341/2/index.m3u8
 CGTN DOCUMENTARY,https://0472.org/hls/cgtnd.m3u8
 
 Discovery 俄语,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
@@ -486,20 +488,27 @@ CCTV15,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 江西教育,rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
 江西教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
 
-CCTV数字频道,#genre#
+数字频道,#genre#
 
 CCTV风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西cmc3+
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+
+CCTV央视台球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
 CCTV央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
+
 CCTV高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
 CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140$江西cmc3+
 CCTV第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
 CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
 CCTV怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
 CCTV女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140$江西cmc3+
+
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
+
+CCTV兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
 CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西cmc3+
+
 CCTV文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
 CCTV电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140$江西cmc3+
 
@@ -513,3 +522,5 @@ CCTV风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
 CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
 CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
 CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
+
+文物宝库,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
