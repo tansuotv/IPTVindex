@@ -8,22 +8,6 @@ IPTVindex,#genre#
 超高清频道,http://
 除非找不到:),http://
 IPTVindex.com,http://
-芒果独播电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-芒果独播电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-芒果独播电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
-芒果独播电视剧4,http://zby.xjqxz.top/gzdsj1/live.m3u8
-芒果独播电视剧5,http://zby.xjqxz.top/gzdsj2/live.m3u8
-芒果独播电视剧6,http://zby.xjqxz.top/gzwxj/live.m3u8
-芒果独播电视剧7,http://zby.xjqxz.top/gzdsj3/live.m3u8
-芒果独播电视剧8,http://zby.xjqxz.top/gzdsj4/live.m3u8
-芒果独播电视剧9,http://zby.xjqxz.top/gzdsj5/live.m3u8
-芒果独播电视剧10,http://zby.xjqxz.top/kzzypd/live.m3u8
-芒果独播电视剧11,http://zby.xjqxz.top/dzzypd/live.m3u8
-芒果独播电视剧12,http://zby.xjqxz.top/dzzypd2/live.m3u8
-芒果独播电视剧13,http://zby.xjqxz.top/dzzypd3/live.m3u8
-芒果独播电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
-芒果独播电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
-芒果独播电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
 
 影视综艺,#genre#
 
@@ -98,6 +82,23 @@ HBO强档巨献,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC666393
 
 美亚电影台(粤语),https://live.hkdvb.com/hls/live/802.m3u8?token=631170156178264
 NOW爆谷星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156178264
+
+芒果独播电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+芒果独播电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+芒果独播电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+芒果独播电视剧4,http://zby.xjqxz.top/gzdsj1/live.m3u8
+芒果独播电视剧5,http://zby.xjqxz.top/gzdsj2/live.m3u8
+芒果独播电视剧6,http://zby.xjqxz.top/gzwxj/live.m3u8
+芒果独播电视剧7,http://zby.xjqxz.top/gzdsj3/live.m3u8
+芒果独播电视剧8,http://zby.xjqxz.top/gzdsj4/live.m3u8
+芒果独播电视剧9,http://zby.xjqxz.top/gzdsj5/live.m3u8
+芒果独播电视剧10,http://zby.xjqxz.top/kzzypd/live.m3u8
+芒果独播电视剧11,http://zby.xjqxz.top/dzzypd/live.m3u8
+芒果独播电视剧12,http://zby.xjqxz.top/dzzypd2/live.m3u8
+芒果独播电视剧13,http://zby.xjqxz.top/dzzypd3/live.m3u8
+芒果独播电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
+芒果独播电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
+芒果独播电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
 
 周星驰影院,http://maomao.kandiantv.cn/douyu1.php?id=122402
 周星星,http://11.xmyxc.cn/api/php/yy.php?id=1354658049
