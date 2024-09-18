@@ -21,10 +21,9 @@ IPTVindex.com,http://
 芒果独播电视剧11,http://zby.xjqxz.top/dzzypd/live.m3u8
 芒果独播电视剧12,http://zby.xjqxz.top/dzzypd2/live.m3u8
 芒果独播电视剧13,http://zby.xjqxz.top/dzzypd3/live.m3u8
-
-电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
-电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
-电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
+芒果独播电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
+芒果独播电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
+芒果独播电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
 
 影视综艺,#genre#
 
