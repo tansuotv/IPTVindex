@@ -3,13 +3,30 @@
 
 IPTVindex,#genre#
 
-20240918更新,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+20240921更新,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+20240921更新,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 收录1080p8M码率,http://
 超高清频道,http://
 除非找不到:),http://
 IPTVindex.com,http://
 
 影视综艺,#genre#
+
+CHC影迷电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
+CHC动作电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
+CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
+精彩影视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226316/2/index.m3u8
+黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
+超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225766/2/index.m3u8
+畅享影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226300/2/index.m3u8
+品质大剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226266/2/index.m3u8
+精品大剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225714/2/index.m3u8
+古装剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
+军旅剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
+家庭剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
+东北热剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226202/2/index.m3u8
+欢乐剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226210/2/index.m3u8
+超级电视剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225765/2/index.m3u8
 
 CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 CHC影迷电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil
@@ -20,11 +37,8 @@ CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
 CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
 CHC动作电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226992/86128817.smil
 
-CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
-
-HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
 东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 
@@ -33,7 +47,6 @@ HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 4K超清北京IPTV 4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001
 
 淘电影北京IPTV,http://ikuai.zlsip.top:4022/rtp/239.3.1.250:8001
-
 
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225764/index.m3u8
 黑莓电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225764/index.m3u8
@@ -72,6 +85,7 @@ RockAction,http://37.27.111.214:8080/live/94/hls.m3u8
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+
 HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO温馨家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -181,7 +195,7 @@ NOW爆谷星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=63117015617826
 救援大片,https://cfss.cc/cdn/hy/21059594.flv
 惊悚恐怖,https://cfss.cc/cdn/hy/11601960.flv
 
-4K纪录,#genre#
+ 4K 纪录,#genre#
 
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
@@ -609,76 +623,103 @@ CCTV15,http://111.74.155.231:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 
 数字频道,#genre#
 
-CCTV兵器科技,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV文化精品,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV怀旧剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV风云足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV央视台球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV风云音乐,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV风云剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV央视高网,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV女性时尚,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8$重庆广电FHD
+兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
+兵器科技,rtsp://115.153.233.154/PLTV/88888888/224/3221227004/86132185.smil
 
-CCTV第一剧场,http://60.10.225.157:555/rtp/239.253.93.138:6428$河北联通组播
-CCTV风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429$河北联通组播
-CCTV怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430$河北联通组播
-CCTV风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431$河北联通组播
-CCTV风云足球,http://60.10.225.157:555/rtp/239.253.93.254:6432$河北联通组播
-CCTV央视高网,http://60.10.225.157:555/rtp/239.253.93.122:6465$河北联通组播
-CCTV央视台球,http://60.10.225.157:555/rtp/239.253.93.231:6409$河北联通组播
-CCTV电视指南,http://60.10.225.157:555/rtp/239.253.93.249:6427$河北联通组播
-CCTV兵器科技,http://60.10.225.157:555/rtp/239.253.93.47:6435$河北联通组播
-CCTV世界地理,http://60.10.225.157:555/rtp/239.253.92.131:6113$河北联通组播
-CCTV女性时尚,http://60.10.225.157:555/rtp/239.253.92.144:6114$河北联通组播
-CCTV文化精品,http://60.10.225.157:555/rtp/239.253.93.175:6439$河北联通组播
+第一剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226961/86128891.smil
 
-CCTV风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西cmc3+
-CCTV央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
-CCTV央视高网,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
-CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140$江西cmc3+
-CCTV第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
-CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
-CCTV怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
-CCTV女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140$江西cmc3+
-CCTV世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
-CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西cmc3+
-CCTV文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
-CCTV电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140$江西cmc3+
+电视指南,rtsp://115.153.233.154/PLTV/88888888/224/3221226987/86440886.smil
+电视指南,rtsp://115.153.233.154/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 
-CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+风云剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226963/86128874.smil
 
-CCTV兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
-CCTV风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
-CCTV央视台球,http://mryx.fun:1025/udp/239.11.0.60:1025
-CCTV女性时尚,http://mryx.fun:1025/udp/239.11.0.62:1025
-CCTV世界地理,http://mryx.fun:1025/udp/239.11.0.63:1025
-CCTV怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
-CCTV风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
-CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
-CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
-CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
+风云足球,
 
-CCTV第一剧场,http://www.hiliu.myds.me:8088/rtp/239.69.1.74:10084$湖北电信组播
-CCTV兵器科技,http://www.hiliu.myds.me:8088/rtp/239.69.1.79:10114$湖北电信组播
-CCTV风云足球,http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126$湖北电信组播
-CCTV央视高网,http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138$湖北电信组播
-CCTV世界地理,http://www.hiliu.myds.me:8088/rtp/239.69.1.91:10186$湖北电信组播
-CCTV央视台球,http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224$湖北电信组播
+风云音乐,
 
-CCTV兵器科技,http://nas.hssvm.com:8888/udp/225.1.2.166:5002$天津联通组播
-CCTV第一剧场,http://nas.hssvm.com:8888/udp/225.1.2.175:5002$天津联通组播
-CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.2.167:5002$天津联通组播
-CCTV风云剧场,http://nas.hssvm.com:8888/udp/225.1.2.174:5002$天津联通组播
-CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.2.176:5002$天津联通组播
-CCTV风云足球,http://nas.hssvm.com:8888/udp/225.1.2.168:5002$天津联通组播
-CCTV央视高网,http://nas.hssvm.com:8888/udp/225.1.2.169:5002$天津联通组播
-CCTV怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.2.173:5002$天津联通组播
-CCTV女性时尚,http://nas.hssvm.com:8888/udp/225.1.2.172:5002$天津联通组播
-CCTV世界地理,http://nas.hssvm.com:8888/udp/225.1.2.171:5002$天津联通组播
-CCTV文化精品,http://nas.hssvm.com:8888/udp/225.1.2.177:5002$天津联通组播
-CCTV央视台球,http://nas.hssvm.com:8888/udp/225.1.2.170:5002$天津联通组播
+高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221226967/86128985.smil
+高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221227036/86502103.smil
 
-CCTV央视台球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
-CCTV兵器科技,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8
+怀旧剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil
+
+女性时尚,
+
+世界地理,rtsp://115.153.233.154/PLTV/88888888/224/3221226965/86128966.smil
+
+文化精品,rtsp://115.153.233.154/PLTV/88888888/224/3221226957/86128679.smil
+
 文物宝库,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
+
+央视台球,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226339/2/index.m3u8
+央视台球,rtsp://115.153.233.154/PLTV/88888888/224/3221226955/86106661.smil
+
+兵器科技,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8$重庆广电FHD
+文化精品,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8$重庆广电FHD
+怀旧剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8$重庆广电FHD
+风云足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8$重庆广电FHD
+央视台球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8$重庆广电FHD
+风云音乐,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8$重庆广电FHD
+风云剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8$重庆广电FHD
+高尔夫网球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8$重庆广电FHD
+女性时尚,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8$重庆广电FHD
+
+第一剧场,http://60.10.225.157:555/rtp/239.253.93.138:6428$河北联通组播
+风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429$河北联通组播
+怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430$河北联通组播
+风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431$河北联通组播
+风云足球,http://60.10.225.157:555/rtp/239.253.93.254:6432$河北联通组播
+高尔夫网球,http://60.10.225.157:555/rtp/239.253.93.122:6465$河北联通组播
+央视台球,http://60.10.225.157:555/rtp/239.253.93.231:6409$河北联通组播
+电视指南,http://60.10.225.157:555/rtp/239.253.93.249:6427$河北联通组播
+兵器科技,http://60.10.225.157:555/rtp/239.253.93.47:6435$河北联通组播
+世界地理,http://60.10.225.157:555/rtp/239.253.92.131:6113$河北联通组播
+女性时尚,http://60.10.225.157:555/rtp/239.253.92.144:6114$河北联通组播
+文化精品,http://60.10.225.157:555/rtp/239.253.93.175:6439$河北联通组播
+
+风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西cmc3+
+央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
+高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
+风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140$江西cmc3+
+第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
+风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
+怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
+女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140$江西cmc3+
+世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
+兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西cmc3+
+文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
+电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140$江西cmc3+
+
+风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+
+兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
+风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
+央视台球,http://mryx.fun:1025/udp/239.11.0.60:1025
+女性时尚,http://mryx.fun:1025/udp/239.11.0.62:1025
+世界地理,http://mryx.fun:1025/udp/239.11.0.63:1025
+怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
+风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
+文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
+第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
+风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
+
+第一剧场,http://www.hiliu.myds.me:8088/rtp/239.69.1.74:10084$湖北电信组播
+兵器科技,http://www.hiliu.myds.me:8088/rtp/239.69.1.79:10114$湖北电信组播
+风云足球,http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126$湖北电信组播
+高尔夫网球,http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138$湖北电信组播
+世界地理,http://www.hiliu.myds.me:8088/rtp/239.69.1.91:10186$湖北电信组播
+央视台球,http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224$湖北电信组播
+
+兵器科技,http://nas.hssvm.com:8888/udp/225.1.2.166:5002$天津联通组播
+第一剧场,http://nas.hssvm.com:8888/udp/225.1.2.175:5002$天津联通组播
+电视指南,http://nas.hssvm.com:8888/udp/225.1.2.167:5002$天津联通组播
+风云剧场,http://nas.hssvm.com:8888/udp/225.1.2.174:5002$天津联通组播
+风云音乐,http://nas.hssvm.com:8888/udp/225.1.2.176:5002$天津联通组播
+风云足球,http://nas.hssvm.com:8888/udp/225.1.2.168:5002$天津联通组播
+高尔夫网球,http://nas.hssvm.com:8888/udp/225.1.2.169:5002$天津联通组播
+怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.2.173:5002$天津联通组播
+女性时尚,http://nas.hssvm.com:8888/udp/225.1.2.172:5002$天津联通组播
+世界地理,http://nas.hssvm.com:8888/udp/225.1.2.171:5002$天津联通组播
+文化精品,http://nas.hssvm.com:8888/udp/225.1.2.177:5002$天津联通组播
+央视台球,http://nas.hssvm.com:8888/udp/225.1.2.170:5002$天津联通组播
