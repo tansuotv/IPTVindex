@@ -3,9 +3,8 @@
 
 ☭240922,#genre#
 
-本直播源,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-本直播源,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
-仅供个人使用,http://
+仅供个人使用,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+仅供个人使用,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 收录频道均为,http://
 1080p8M码率,http://
 超高清画质,http://
