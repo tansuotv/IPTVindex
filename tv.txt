@@ -3,8 +3,8 @@
 
 IPTVindex,#genre#
 
-20240921更新,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-20240921更新,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
+20240922更新,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+20240922更新,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 收录1080p8M码率,http://
 超高清频道,http://
 除非找不到:),http://
@@ -217,13 +217,27 @@ CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3
 湖南金鹰纪实,rtsp://115.153.212.72/PLTV/88888888/224/3221226823/59781863.smil
 
 求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索纪录,http://[2409:8087:1a01:df::4069]/PLTV/88888888/224/3221225713/main.m3u8
+求索纪录,http://[2409:8087:1a01:df::404a]/PLTV/88888888/224/3221225713/main.m3u8
+求索纪录,http://[2409:8087:1a01:df::406a]/PLTV/88888888/224/3221225713/main.m3u8
+求索纪录,http://[2409:8087:1a01:df::4049]/PLTV/88888888/224/3221225713/main.m3u8
+求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/main.m3u8
+求索纪录,http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052
+求索纪录,http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索纪录,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 求索纪录,http://home.isvvv.com:5050/itv/wasusyt/6000000002000032052
 求索纪录,rtsp://115.153.245.70/PLTV/88888888/224/3221227035/86502224.smil
 求索纪录,rtsp://115.153.233.154/PLTV/88888888/224/3221227035/86502224.smil
 
+求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索生活,http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+
+求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索科学,http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 
 精品纪录,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
