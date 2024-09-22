@@ -1,12 +1,14 @@
 //源址：https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
 //短链：https://t.cn/A6Evuiir
 
-IPTVindex,#genre#
+☭240922,#genre#
 
-20240922更新,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-20240922更新,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
-收录1080p8M码率,http://
-超高清频道,http://
+本直播源,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+本直播源,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
+仅供个人使用,http://
+收录频道均为,http://
+1080p8M码率,http://
+超高清画质,http://
 除非找不到:),http://
 IPTVindex.com,http://
 
