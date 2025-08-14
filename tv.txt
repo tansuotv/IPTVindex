@@ -1,4 +1,5 @@
-//源址：https://gh-proxy.com/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
+//源址①：https://gh-proxy.com/https://github.com/tansuotv/IPTVindex/raw/refs/heads/main/tv.txt
+//源址②：https://tstv.us.kg/sub?token=iptvindex.com
 
 JX电信央视,#genre#
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
@@ -1265,4 +1266,5 @@ A计划1983,https://vodcnd09.myqqdd.com/20250114/IvDUow3r/index.m3u8
 IPTVindex.com,https://
 自学研究,https://
 谢绝商用,https://
+
 
